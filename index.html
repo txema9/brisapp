@@ -74,6 +74,63 @@
             width: 139px;
         }
 
+        .logo-top {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.live-badge {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+
+    background: rgba(0,0,0,0.35);
+
+    padding: 6px 10px;
+
+    border-radius: 999px;
+
+    backdrop-filter: blur(10px);
+}
+
+.live-dot {
+    width: 10px;
+    height: 10px;
+
+    background: #ff2b2b;
+
+    border-radius: 50%;
+
+    animation: pulse 1.2s infinite;
+}
+
+.live-text {
+    font-size: 12px;
+    font-weight: 700;
+    color: white;
+
+    letter-spacing: 0.5px;
+}
+
+@keyframes pulse {
+
+    0% {
+        opacity: 1;
+        transform: scale(1);
+    }
+
+    50% {
+        opacity: 0.4;
+        transform: scale(1.25);
+    }
+
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+        
         .logo {
 
             position: absolute;
