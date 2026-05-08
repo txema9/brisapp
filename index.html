@@ -74,61 +74,23 @@
             width: 139px;
         }
 
-        .logo-top {
+     .live-badge {
     display: flex;
     align-items: center;
-    gap: 10px;
-}
-
-.live-badge {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-
-    background: rgba(0,0,0,0.35);
-
-    padding: 6px 10px;
-
-    border-radius: 999px;
-
-    backdrop-filter: blur(10px);
+    justify-content: center;
 }
 
 .live-dot {
-    width: 10px;
-    height: 10px;
+    width: 11px;
+    height: 11px;
 
-    background: #ff2b2b;
+    background: #ff3b30;
 
     border-radius: 50%;
 
+    box-shadow: 0 0 10px rgba(255, 59, 48, 0.7);
+
     animation: pulse 1.2s infinite;
-}
-
-.live-text {
-    font-size: 12px;
-    font-weight: 700;
-    color: white;
-
-    letter-spacing: 0.5px;
-}
-
-@keyframes pulse {
-
-    0% {
-        opacity: 1;
-        transform: scale(1);
-    }
-
-    50% {
-        opacity: 0.4;
-        transform: scale(1.25);
-    }
-
-    100% {
-        opacity: 1;
-        transform: scale(1);
-    }
 }
         
         .logo {
@@ -591,23 +553,11 @@
 
     <div id="map"></div>
 
-<div class="logo">
+<div class="live-badge">
 
-    <div class="logo-top">
+    <div class="live-dot"></div>
 
-        <img src="LOGO_SRC" class="logo-img">
-
-        <div class="live-badge">
-
-            <div class="live-dot"></div>
-
-            <div class="live-text">
-                LIVE
-            </div>
-
-        </div>
-
-    </div>
+</div>
 
     <div class="logo-sub">
         Santander en tiempo real
