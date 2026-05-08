@@ -96,9 +96,6 @@ body{
 
     font-size:34px;
     font-weight:700;
-
-    display:flex;
-    align-items:center;
 }
 
 .logo-sub{
@@ -108,44 +105,6 @@ body{
     font-size:13px;
 
     color:rgba(255,255,255,0.72);
-}
-
-.live-dot{
-
-    display:inline-block;
-
-    width:12px;
-    height:12px;
-
-    margin-left:10px;
-
-    border-radius:50%;
-
-    background:#ef4444;
-
-    box-shadow:
-        0 0 12px rgba(239,68,68,0.9);
-
-    animation:
-        pulseLive 1.2s infinite;
-}
-
-@keyframes pulseLive{
-
-    0%{
-        transform:scale(1);
-        opacity:1;
-    }
-
-    50%{
-        transform:scale(1.35);
-        opacity:0.45;
-    }
-
-    100%{
-        transform:scale(1);
-        opacity:1;
-    }
 }
 
 /* SEARCH */
@@ -264,7 +223,19 @@ body{
     z-index:999;
 
     transition:
-        height 0.15s ease;
+        height 0.35s ease;
+}
+
+.sheet.min{
+    height:120px;
+}
+
+.sheet.mid{
+    height:52%;
+}
+
+.sheet.full{
+    height:82%;
 }
 
 .handle{
@@ -279,8 +250,6 @@ body{
     margin:0 auto 18px auto;
 
     cursor:pointer;
-
-    touch-action:none;
 }
 
 .content{
@@ -602,8 +571,7 @@ body{
     <div class="logo">
 
         <div class="logo-title">
-            BRISA
-            <span class="live-dot"></span>
+            BRISA 🌊
         </div>
 
         <div class="logo-sub">
@@ -635,7 +603,7 @@ body{
 
     </div>
 
-    <div class="sheet"
+    <div class="sheet mid"
          id="sheet">
 
         <div class="handle"
@@ -685,6 +653,8 @@ L.tileLayer(
     attribution:''
 }).addTo(map);
 
+/* ZONAS */
+
 const zones = [
 
 {
@@ -701,11 +671,197 @@ coords:[43.4722,-3.7995],
 marker:"🏡",
 desc:"Barrio moderno y residencial",
 moods:["🌫 sereno","🚶 fluido","🌊 agradable"]
+},
+
+{
+name:"Centro - Ayuntamiento",
+coords:[43.4629,-3.8099],
+marker:"🚨",
+desc:"Centro comercial y administrativo",
+moods:["🚨 intenso","🍽 animado","🚌 activo"]
+},
+
+{
+name:"Castilla-Hermida",
+coords:[43.4565,-3.8197],
+marker:"⚓",
+desc:"Zona marinera tradicional",
+moods:["🚌 activo","🚶 fluido","🍽 animado"]
+},
+
+{
+name:"Barrio Pesquero",
+coords:[43.4547,-3.8172],
+marker:"🐟",
+desc:"Pescado y rabas",
+moods:["🍽 animado","🌊 agradable","🚶 fluido"]
+},
+
+{
+name:"General Dávila",
+coords:[43.4702,-3.8137],
+marker:"☀️",
+desc:"Zona elevada con vistas",
+moods:["☀️ vibrante","🚌 activo","🚨 intenso"]
+},
+
+{
+name:"Cazoña – Alisal",
+coords:[43.4518,-3.8510],
+marker:"🚶",
+desc:"Área residencial y servicios",
+moods:["🚶 fluido","🌫 sereno","🚌 activo"]
+},
+
+{
+name:"Monte – Cueto",
+coords:[43.4818,-3.7968],
+marker:"🌲",
+desc:"Zona tranquila y residencial",
+moods:["🌫 sereno","🚶 fluido","🌊 agradable"]
+},
+
+{
+name:"Calle Alta",
+coords:[43.4587,-3.8210],
+marker:"🚌",
+desc:"Zona residencial céntrica",
+moods:["🚌 activo","🚶 fluido","🍽 animado"]
+},
+
+{
+name:"Cañadío-Puertochico",
+coords:[43.4648,-3.7962],
+marker:"🍷",
+desc:"Vida social y restaurantes",
+moods:["🍷 concurrido","🍽 animado","🌊 agradable"]
+},
+
+{
+name:"Plaza Porticada",
+coords:[43.4624,-3.8085],
+marker:"🍽️",
+desc:"Tapeo y ambiente urbano",
+moods:["🍽 animado","🚌 activo","🚨 intenso"]
+},
+
+{
+name:"Plaza de Pombo",
+coords:[43.4637,-3.8014],
+marker:"🍸",
+desc:"Zona céntrica y social",
+moods:["🍷 concurrido","🍽 animado","🌊 agradable"]
+},
+
+{
+name:"Calderón de la Barca",
+coords:[43.4620,-3.8043],
+marker:"🎭",
+desc:"Ambiente cultural y urbano",
+moods:["🍽 animado","🚶 fluido","🚌 activo"]
+},
+
+{
+name:"Mercado de la Esperanza",
+coords:[43.4612,-3.8071],
+marker:"☕",
+desc:"Mercado y gastronomía",
+moods:["☕ tranquilo","🍽 animado","🚶 fluido"]
+},
+
+{
+name:"Vargas",
+coords:[43.4561,-3.8248],
+marker:"🍺",
+desc:"Bares y ambiente local",
+moods:["🍷 concurrido","🚌 activo","🚨 intenso"]
+},
+
+{
+name:"San Fernando",
+coords:[43.4588,-3.8177],
+marker:"🚍",
+desc:"Zona urbana transitada",
+moods:["🚌 activo","🚨 intenso","🚶 fluido"]
+},
+
+{
+name:"Burgos",
+coords:[43.4602,-3.8139],
+marker:"🏙️",
+desc:"Área comercial céntrica",
+moods:["🍽 animado","🚌 activo","🚨 intenso"]
+},
+
+{
+name:"Río de la Pila",
+coords:[43.4659,-3.8063],
+marker:"🎵",
+desc:"Ocio y gastronomía",
+moods:["🍷 concurrido","🍽 animado","🚨 intenso"]
+},
+
+{
+name:"Hernán Cortés",
+coords:[43.4641,-3.7997],
+marker:"🍴",
+desc:"Zona gastronómica",
+moods:["🍽 animado","🍷 concurrido","🌊 agradable"]
+},
+
+{
+name:"Tetuán",
+coords:[43.4670,-3.7928],
+marker:"🌃",
+desc:"Vida nocturna y restauración",
+moods:["🍷 concurrido","☀️ vibrante","🍽 animado"]
+},
+
+{
+name:"Península de la Magdalena",
+coords:[43.469355406273436,-3.767564435338004],
+marker:"🏰",
+desc:"Palacio y jardines",
+moods:["🌫 sereno","🌊 agradable","🚶 fluido"]
+},
+
+{
+name:"Playa de Mataleñas",
+coords:[43.486043368198565,-3.787880946665848],
+marker:"🏖️",
+desc:"Playa y costa",
+moods:["☀️ vibrante","🌊 agradable","🚶 fluido"]
+},
+
+{
+name:"Faro de Cabo Mayor",
+coords:[43.4913,-3.7855],
+marker:"🌅",
+desc:"Acantilados y vistas",
+moods:["🌫 sereno","🌊 agradable","☀️ vibrante"]
+},
+
+{
+name:"Centro Botín",
+coords:[43.4623,-3.8036],
+marker:"🎨",
+desc:"Arte y paseo marítimo",
+moods:["🌊 agradable","🍽 animado","🚶 fluido"]
+},
+
+{
+name:"Jardines de Pereda",
+coords:[43.4620,-3.8048],
+marker:"🌳",
+desc:"Paseo y jardines",
+moods:["🌫 sereno","🚶 fluido","🌊 agradable"]
 }
 
 ];
 
 let activeCircle = null;
+
+/* RENDER LISTA */
 
 function renderMapContent(filteredZones = zones){
 
@@ -754,6 +910,8 @@ function renderMapContent(filteredZones = zones){
 
 renderMapContent();
 
+/* PINS */
+
 zones.forEach((z, index) => {
 
     const icon = L.divIcon({
@@ -790,6 +948,8 @@ zones.forEach((z, index) => {
 
 });
 
+/* SEARCH */
+
 function toggleSearch(){
 
     const container =
@@ -823,6 +983,8 @@ function searchZone(){
 
     renderMapContent(filtered);
 }
+
+/* FOCUS */
 
 function focusZone(index){
 
@@ -864,7 +1026,14 @@ function focusZone(index){
             block:"center"
         });
     }
+
+    sheet.className =
+        "sheet mid";
+
+    state = "mid";
 }
+
+/* DESCUBRE */
 
 function showDiscover(nav){
 
@@ -916,6 +1085,8 @@ function showDiscover(nav){
     `;
 }
 
+/* PERFIL */
+
 function showProfile(nav){
 
     activateNav(nav);
@@ -947,12 +1118,16 @@ function showProfile(nav){
     `;
 }
 
+/* LISTA */
+
 function showMap(nav){
 
     activateNav(nav);
 
     renderMapContent();
 }
+
+/* NAV */
 
 function activateNav(nav){
 
@@ -966,47 +1141,39 @@ function activateNav(nav){
     nav.classList.add("active");
 }
 
+/* SHEET */
+
 const sheet =
     document.getElementById("sheet");
 
 const handle =
     document.getElementById("handle");
 
-let startY = 0;
-let currentHeight = 52;
+let state = "mid";
 
-sheet.style.height = currentHeight + "%";
+handle.addEventListener("click", ()=>{
 
-handle.addEventListener("touchstart", (e) => {
+    if(state === "mid"){
 
-    startY = e.touches[0].clientY;
+        sheet.className =
+            "sheet full";
 
-});
+        state = "full";
 
-handle.addEventListener("touchmove", (e) => {
+    } else if(state === "full"){
 
-    const currentY = e.touches[0].clientY;
+        sheet.className =
+            "sheet min";
 
-    const diff = startY - currentY;
+        state = "min";
 
-    let newHeight = currentHeight + (diff / 8);
+    } else {
 
-    if(newHeight < 14){
-        newHeight = 14;
+        sheet.className =
+            "sheet mid";
+
+        state = "mid";
     }
-
-    if(newHeight > 82){
-        newHeight = 82;
-    }
-
-    sheet.style.height = newHeight + "%";
-
-});
-
-handle.addEventListener("touchend", () => {
-
-    currentHeight =
-        parseFloat(sheet.style.height);
 
 });
 
