@@ -871,9 +871,29 @@ background:
         const content =
             document.getElementById("content");
 
-        let html =
-            `<div class="sheet-title">
+const now = new Date();
+
+const time =
+    now.toLocaleTimeString(
+        'es-ES',
+        {
+            hour: '2-digit',
+            minute: '2-digit'
+        }
+    );
+
+let html =
+    `<div class="sheet-title">
         Áreas de Santander
+    </div>
+
+    <div style="
+        font-size:13px;
+        color:#6b7280;
+        margin-top:-10px;
+        margin-bottom:18px;
+    ">
+        Última actualización: ${time}
     </div>`;
 
         filteredZones.forEach((z) => {
