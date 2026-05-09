@@ -14,15 +14,20 @@ st.set_page_config(
 with open("index.html", "r", encoding="utf-8") as f:
     html = f.read()
 
-# 2. favicon/logo
+# 2. favicon/logo/fondo
 with open("titulo.png", "rb") as f:
     logo_b64 = base64.b64encode(f.read()).decode()
 
 logo_src = f"data:image/png;base64,{logo_b64}"
 
+with open("santander.png", "rb") as f:
+    bg_b64 = base64.b64encode(f.read()).decode()
+
+bg_src = f"data:image/png;base64,{bg_b64}"
+
 # 3. reemplazo
 html = html.replace("LOGO_SRC", logo_src)
-
+html = html.replace("BACKGROUND_SRC", bg_src)
 # 4. render
 components.html(
     html,
