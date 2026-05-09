@@ -74,6 +74,49 @@
             width: 139px;
         }
 
+        .logo-top {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 10px;
+}
+
+.live-dot {
+
+    width: 10px;
+    height: 10px;
+
+    border-radius: 50%;
+
+    background: #ef4444;
+
+    box-shadow:
+        0 0 10px rgba(239, 68, 68, 0.9);
+
+    animation:
+        pulseLive 1.4s infinite;
+}
+
+@keyframes pulseLive {
+
+    0% {
+        transform: scale(1);
+        opacity: 1;
+    }
+
+    50% {
+        transform: scale(1.35);
+        opacity: 0.45;
+    }
+
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+        
         .logo {
 
             position: absolute;
@@ -534,15 +577,21 @@
 
     <div id="map"></div>
 
-    <div class="logo">
+<div class="logo">
+
+    <div class="logo-top">
 
         <img src="LOGO_SRC" class="logo-img">
 
-        <div class="logo-sub">
-            Santander en tiempo real
-        </div>
+        <span class="live-dot"></span>
 
     </div>
+
+    <div class="logo-sub">
+        Santander en tiempo real
+    </div>
+
+</div>
 
     <div class="search-wrapper">
 
