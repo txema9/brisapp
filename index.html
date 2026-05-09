@@ -27,20 +27,31 @@
             font-family: sans-serif;
         }
 
-        body {
+body {
 
-            background: #081120;
+    background:
+        linear-gradient(
+            rgba(8,17,32,0.86),
+            rgba(8,17,32,0.86)
+        ),
+        url('https://images.unsplash.com/photo-1715297657565-2dd8a7d3e6d8?q=80&w=2070&auto=format&fit=crop');
 
-            display: flex;
+    background-size: cover;
 
-            justify-content: center;
+    background-position: center;
 
-            align-items: center;
+    background-repeat: no-repeat;
 
-            height: 100vh;
+    display: flex;
 
-            overflow: hidden;
-        }
+    justify-content: center;
+
+    align-items: center;
+
+    height: 100vh;
+
+    overflow: hidden;
+}
 
         .phone {
 
@@ -57,7 +68,13 @@
 
             border: 10px solid #111827;
 
-            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45);
+            box-shadow:
+    0 20px 60px rgba(0, 0, 0, 0.45),
+    0 0 80px rgba(96, 165, 250, 0.10);
+
+            transform: scale(1.15);
+
+transform-origin: center;
         }
 
         #map {
