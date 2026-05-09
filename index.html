@@ -254,7 +254,7 @@
 
             z-index: 999;
 
-            transition: height 0.35s ease;
+            transition: height 0.18s ease;
         }
 
         .sheet.min {
@@ -281,6 +281,8 @@
             margin: 0 auto 18px auto;
 
             cursor: pointer;
+
+            touch-action: none;
         }
 
         .content {
@@ -1163,7 +1165,10 @@
         document.getElementById("handle");
 
     let state = "mid";
-
+   
+    let startY = 0;
+    let isDragging = false;
+    
     handle.addEventListener("click", () => {
 
         if (state === "mid") {
@@ -1190,6 +1195,98 @@
 
     });
 
+    handle.addEventListener("touchstart", (e) => {
+
+    startY = e.touches[0].clientY;
+
+    isDragging = true;
+
+});
+
+handle.addEventListener("touchmove", (e) => {
+
+    if(!isDragging) return;
+
+    const currentY =
+        e.touches[0].clientY;
+
+    const diff =
+        startY - currentY;
+
+    let newHeight;
+
+    if(state === "min"){
+
+        newHeight = 120 + diff;
+
+    } else if(state === "mid"){
+
+        newHeight =
+            (window.innerHeight * 0.52) + diff;
+
+    } else {
+
+        newHeight =
+            (window.innerHeight * 0.82) + diff;
+    }
+
+    const minHeight = 120;
+    const maxHeight = window.innerHeight * 0.82;
+
+    if(newHeight < minHeight){
+        newHeight = minHeight;
+    }
+
+    if(newHeight > maxHeight){
+        newHeight = maxHeight;
+    }
+
+    sheet.style.height =
+        newHeight + "px";
+
+});
+
+handle.addEventListener("touchend", () => {
+
+    if(!isDragging) return;
+
+    isDragging = false;
+
+    const currentHeight =
+        sheet.offsetHeight;
+
+    const screenHeight =
+        window.innerHeight;
+
+    const minPoint = 200;
+    const midPoint = screenHeight * 0.45;
+
+    if(currentHeight < minPoint){
+
+        sheet.className =
+            "sheet min";
+
+        state = "min";
+
+    } else if(currentHeight < midPoint){
+
+        sheet.className =
+            "sheet mid";
+
+        state = "mid";
+
+    } else {
+
+        sheet.className =
+            "sheet full";
+
+        state = "full";
+    }
+
+    sheet.style.height = "";
+
+});
+    
 </script>
 
 </body>
