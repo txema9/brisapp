@@ -537,6 +537,43 @@ background:
             padding: 22px;
         }
 
+        .mood-selector {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 12px;
+
+    margin-top: 20px;
+}
+
+.mood-button {
+
+    border: none;
+
+    background: rgba(255,255,255,0.72);
+
+    padding: 16px;
+
+    border-radius: 18px;
+
+    font-size: 15px;
+
+    font-weight: 600;
+
+    color: #111827;
+
+    cursor: pointer;
+
+    transition: 0.2s ease;
+}
+
+.mood-button:hover {
+
+    background: rgba(255,255,255,0.92);
+}
+        
         /* PROFILE */
 
         .login-box {
@@ -1001,14 +1038,137 @@ background:
 
     /* DESCUBRE */
 
-    function showDiscover(nav) {
+  function showDiscover(nav) {
 
-        activateNav(nav);
+    activateNav(nav);
 
-        const random =
-            zones[Math.floor(
-                Math.random() * zones.length
-            )];
+    document.getElementById("content")
+    .innerHTML = `
+
+    <div class="sheet-title">
+        Descubre
+    </div>
+
+    <div class="discover-card">
+
+        <div style="
+            font-size:28px;
+            font-weight:700;
+            color:#111827;
+        ">
+            ¿Cómo te sientes hoy?
+        </div>
+
+        <div style="
+            margin-top:12px;
+            color:#4b5563;
+            line-height:1.5;
+        ">
+            BRISA adaptará su recomendación
+            según el ambiente que buscas.
+        </div>
+
+        <div class="mood-selector">
+
+            <button
+                class="mood-button"
+                onclick="selectMood('relax')">
+
+                🌿 Relajado
+            </button>
+
+            <button
+                class="mood-button"
+                onclick="selectMood('social')">
+
+                🍷 Social
+            </button>
+
+            <button
+                class="mood-button"
+                onclick="selectMood('active')">
+
+                ⚡ Activo
+            </button>
+
+        </div>
+
+    </div>
+
+    `;
+}
+
+    function selectMood(mood) {
+
+    let recommendation;
+
+    if(mood === "relax") {
+
+        recommendation = {
+            marker:"🌊",
+            name:"Península de la Magdalena",
+            text:"Hoy BRISA recomienda una zona tranquila, abierta y agradable para desconectar del ritmo urbano.",
+            moods:["🌫 sereno","🌊 agradable","🚶 fluido"]
+        };
+
+    } else if(mood === "social") {
+
+        recommendation = {
+            marker:"🍷",
+            name:"Cañadío-Puertochico",
+            text:"Hoy BRISA recomienda una zona con ambiente social, gastronomía y movimiento urbano equilibrado.",
+            moods:["🍷 concurrido","🍽 animado","🌊 agradable"]
+        };
+
+    } else {
+
+        recommendation = {
+            marker:"⚡",
+            name:"Centro - Ayuntamiento",
+            text:"Hoy BRISA recomienda una zona activa y dinámica con mayor intensidad y flujo urbano.",
+            moods:["🚨 intenso","🚌 activo","🍽 animado"]
+        };
+    }
+
+    document.getElementById("content")
+    .innerHTML = `
+
+    <div class="sheet-title">
+        Descubre
+    </div>
+
+    <div class="discover-card">
+
+        <div style="
+            font-size:30px;
+            font-weight:700;
+            color:#111827;
+        ">
+            ${recommendation.marker}
+            ${recommendation.name}
+        </div>
+
+        <div style="
+            margin-top:14px;
+            color:#4b5563;
+            line-height:1.5;
+        ">
+            ${recommendation.text}
+        </div>
+
+        <div class="zone-moods"
+             style="margin-top:18px;">
+
+            ${recommendation.moods.map(m =>
+                `<div class="mood">${m}</div>`
+            ).join("")}
+
+        </div>
+
+    </div>
+
+    `;
+}
 
         document.getElementById("content")
             .innerHTML = `
