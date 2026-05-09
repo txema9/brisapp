@@ -621,6 +621,62 @@ background:
             cursor: pointer;
         }
 
+        .social-login {
+
+            margin-top: 18px;
+
+            display: flex;
+
+            flex-direction: column;
+
+            gap: 12px;
+        }
+
+        .social-btn {
+
+            width: 100%;
+
+            padding: 15px 18px;
+
+            border-radius: 18px;
+
+            border: 1px solid rgba(255,255,255,0.28);
+
+            background: #111827;
+
+            color: white;
+
+            display: flex;
+
+            align-items: center;
+
+            gap: 14px;
+
+            font-size: 16px;
+
+            font-weight: 600;
+
+            cursor: pointer;
+
+            transition: 0.22s ease;
+        }
+
+        .social-btn:hover {
+
+            transform: translateY(-1px);
+
+            background: #0f172a;
+        }
+
+        .social-btn i {
+
+            font-size: 20px;
+
+            width: 22px;
+
+            text-align: center;
+        }
+
     </style>
 
 </head>
@@ -1219,6 +1275,25 @@ function discoverMood(type) {
             Iniciar sesión
         </button>
 
+        <div class="social-login">
+
+            <button class="social-btn">
+                <svg width="20" height="20" viewBox="0 0 48 48">
+                    <path fill="#EA4335" d="M24 9.5c3.54 0 6.72 1.22 9.21 3.6l6.9-6.9C36.64 2.7 30.74 0 24 0 14.62 0 6.51 5.38 2.56 13.22l8.06 6.26C12.5 13.2 17.8 9.5 24 9.5z"/>
+                    <path fill="#4285F4" d="M46.1 24.5c0-1.64-.15-3.21-.43-4.73H24v9h12.6c-.54 2.9-2.17 5.36-4.62 7.02l7.1 5.5C43.7 37.3 46.1 31.4 46.1 24.5z"/>
+                    <path fill="#FBBC05" d="M10.62 28.48A14.5 14.5 0 019.5 24c0-1.57.27-3.09.75-4.48l-8.06-6.26A23.94 23.94 0 000 24c0 3.84.92 7.46 2.56 10.74l8.06-6.26z"/>
+                    <path fill="#34A853" d="M24 48c6.48 0 11.93-2.14 15.9-5.83l-7.1-5.5c-2 1.35-4.57 2.13-8.8 2.13-6.2 0-11.5-3.7-13.38-8.98l-8.06 6.26C6.51 42.62 14.62 48 24 48z"/>
+                </svg>
+                <span>Continuar con Google</span>
+            </button>
+
+            <button class="social-btn">
+                <i class="fa-brands fa-apple"></i>
+                <span>Continuar con Apple</span>
+            </button>
+
+        </div>
+
     </div>
 
     `;
@@ -1331,19 +1406,21 @@ function discoverMood(type) {
 
         sheet.style.transition = "height 0.18s ease";
 
+        const minHeight = 120;
+        const maxHeight = window.innerHeight * 0.82;
+
         const currentHeight = sheet.offsetHeight;
 
-        const screenHeight = window.innerHeight;
+        const midHeight = (minHeight + maxHeight) / 2;
 
-        const fullLimit = screenHeight * 0.68;
-        const midLimit = screenHeight * 0.42;
+        const fullHeight = minHeight + (maxHeight - minHeight) * 0.75;
 
-        if (currentHeight >= fullLimit) {
+        if (currentHeight >= fullHeight) {
 
             sheet.className = "sheet full";
             state = "full";
 
-        } else if (currentHeight >= midLimit) {
+        } else if (currentHeight >= midHeight) {
 
             sheet.className = "sheet mid";
             state = "mid";
