@@ -27,38 +27,75 @@
             font-family: sans-serif;
         }
 
-        body {
+       html,
+body {
 
-            background: #081120;
+    width: 100%;
+    height: 100%;
 
-            display: flex;
+    overflow: hidden;
 
-            justify-content: center;
+    margin: 0;
+    padding: 0;
+}
 
-            align-items: center;
+body {
 
-            height: 100vh;
+    background: #081120;
 
-            overflow: hidden;
-        }
+    display: flex;
 
-        .phone {
+    justify-content: center;
 
-            width: 390px;
-            height: 844px;
+    align-items: center;
 
-            border-radius: 42px;
+    overflow: hidden;
 
-            overflow: hidden;
+    position: fixed;
 
-            position: relative;
+    inset: 0;
 
-            background: #000;
+    overscroll-behavior: none;
+}
 
-            border: 10px solid #111827;
+.phone {
 
-            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45);
-        }
+    width: min(390px, 100vw);
+
+    height: min(844px, 100vh);
+
+    aspect-ratio: 390 / 844;
+
+    border-radius: 42px;
+
+    overflow: hidden;
+
+    position: relative;
+
+    background: #000;
+
+    border: 10px solid #111827;
+
+    box-shadow:
+        0 20px 60px rgba(0, 0, 0, 0.45);
+}
+
+        @media (max-height: 850px) {
+
+    .phone {
+
+        transform: scale(0.92);
+    }
+}
+
+@media (max-height: 760px) {
+
+    .phone {
+
+        transform: scale(0.84);
+    }
+}
+        
 
         #map {
 
