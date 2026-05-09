@@ -302,9 +302,11 @@ background:
 
             overflow-y: auto;
 
-            height: 100%;
+            height: calc(100% - 24px);
 
             padding-bottom: 160px;
+
+            -webkit-overflow-scrolling: touch;
         }
 
         .content::-webkit-scrollbar {
@@ -1254,10 +1256,7 @@ function discoverMood(type) {
         document.getElementById("handle");
 
     let state = "mid";
-   
-    let startY = 0;
-    let isDragging = false;
-    
+
     handle.addEventListener("click", () => {
 
         if (state === "mid") {
@@ -1284,97 +1283,109 @@ function discoverMood(type) {
 
     });
 
+    /* DRAG / SLIDE */
+
+    let startY = 0;
+    let startHeight = 0;
+    let isDragging = false;
+
+    function startDrag(clientY) {
+
+        isDragging = true;
+
+        startY = clientY;
+
+        startHeight = sheet.offsetHeight;
+
+        sheet.style.transition = "none";
+    }
+
+    function moveDrag(clientY) {
+
+        if (!isDragging) return;
+
+        const diff = startY - clientY;
+
+        let newHeight = startHeight + diff;
+
+        const minHeight = 120;
+        const maxHeight = window.innerHeight * 0.82;
+
+        if (newHeight < minHeight) {
+            newHeight = minHeight;
+        }
+
+        if (newHeight > maxHeight) {
+            newHeight = maxHeight;
+        }
+
+        sheet.style.height = newHeight + "px";
+    }
+
+    function endDrag() {
+
+        if (!isDragging) return;
+
+        isDragging = false;
+
+        sheet.style.transition = "height 0.18s ease";
+
+        const currentHeight = sheet.offsetHeight;
+
+        const screenHeight = window.innerHeight;
+
+        if (currentHeight < screenHeight * 0.30) {
+
+            sheet.className = "sheet min";
+            state = "min";
+
+        } else if (currentHeight < screenHeight * 0.60) {
+
+            sheet.className = "sheet mid";
+            state = "mid";
+
+        } else {
+
+            sheet.className = "sheet full";
+            state = "full";
+        }
+
+        sheet.style.height = "";
+    }
+
+    /* TOUCH */
+
     handle.addEventListener("touchstart", (e) => {
+        startDrag(e.touches[0].clientY);
+    });
 
-    startY = e.touches[0].clientY;
+    window.addEventListener("touchmove", (e) => {
 
-    isDragging = true;
+        if (!isDragging) return;
 
-});
+        e.preventDefault();
 
-handle.addEventListener("touchmove", (e) => {
+        moveDrag(e.touches[0].clientY);
 
-    if(!isDragging) return;
+    }, { passive: false });
 
-    const currentY =
-        e.touches[0].clientY;
+    window.addEventListener("touchend", () => {
+        endDrag();
+    });
 
-    const diff =
-        startY - currentY;
+    /* MOUSE */
 
-    let newHeight;
+    handle.addEventListener("mousedown", (e) => {
+        startDrag(e.clientY);
+    });
 
-    if(state === "min"){
+    window.addEventListener("mousemove", (e) => {
+        moveDrag(e.clientY);
+    });
 
-        newHeight = 120 + diff;
-
-    } else if(state === "mid"){
-
-        newHeight =
-            (window.innerHeight * 0.52) + diff;
-
-    } else {
-
-        newHeight =
-            (window.innerHeight * 0.82) + diff;
-    }
-
-    const minHeight = 120;
-    const maxHeight = window.innerHeight * 0.82;
-
-    if(newHeight < minHeight){
-        newHeight = minHeight;
-    }
-
-    if(newHeight > maxHeight){
-        newHeight = maxHeight;
-    }
-
-    sheet.style.height =
-        newHeight + "px";
-
-});
-
-handle.addEventListener("touchend", () => {
-
-    if(!isDragging) return;
-
-    isDragging = false;
-
-    const currentHeight =
-        sheet.offsetHeight;
-
-    const screenHeight =
-        window.innerHeight;
-
-    const minPoint = 200;
-    const midPoint = screenHeight * 0.45;
-
-    if(currentHeight < minPoint){
-
-        sheet.className =
-            "sheet min";
-
-        state = "min";
-
-    } else if(currentHeight < midPoint){
-
-        sheet.className =
-            "sheet mid";
-
-        state = "mid";
-
-    } else {
-
-        sheet.className =
-            "sheet full";
-
-        state = "full";
-    }
-
-    sheet.style.height = "";
-
-});
+    window.addEventListener("mouseup", () => {
+        endDrag();
+    });
     
 </script>
 
