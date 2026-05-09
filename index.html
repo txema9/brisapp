@@ -1298,6 +1298,7 @@ function discoverMood(type) {
         startHeight = sheet.offsetHeight;
 
         sheet.style.transition = "none";
+        sheet.classList.remove("min", "mid", "full");
     }
 
     function moveDrag(clientY) {
@@ -1334,20 +1335,23 @@ function discoverMood(type) {
 
         const screenHeight = window.innerHeight;
 
-        if (currentHeight < screenHeight * 0.30) {
+        const fullLimit = screenHeight * 0.68;
+        const midLimit = screenHeight * 0.42;
 
-            sheet.className = "sheet min";
-            state = "min";
+        if (currentHeight >= fullLimit) {
 
-        } else if (currentHeight < screenHeight * 0.60) {
+            sheet.className = "sheet full";
+            state = "full";
+
+        } else if (currentHeight >= midLimit) {
 
             sheet.className = "sheet mid";
             state = "mid";
 
         } else {
 
-            sheet.className = "sheet full";
-            state = "full";
+            sheet.className = "sheet min";
+            state = "min";
         }
 
         sheet.style.height = "";
