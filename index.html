@@ -1,25 +1,12 @@
 <!DOCTYPE html>
-
 <html>
-
 <head>
-
     <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1.0">
-
-    <link rel="stylesheet"
-          href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
-
-    <script
-            src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js">
-    </script>
-
-    <link rel="stylesheet"
-          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
-
         * {
             margin: 0;
             padding: 0;
@@ -27,60 +14,34 @@
             font-family: sans-serif;
         }
 
-body {
+        body {
+            background: linear-gradient(rgba(8, 17, 32, 0.24), rgba(8, 17, 32, 0.34)), url('BACKGROUND_SRC');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            overflow: hidden;
+        }
 
-background:
-    linear-gradient(
-        rgba(8,17,32,0.24),
-        rgba(8,17,32,0.34)
-    ),
-    url('BACKGROUND_SRC');
-
-    background-size: cover;
-
-    background-position: center;
-
-    background-repeat: no-repeat;
-
-    display: flex;
-
-    justify-content: center;
-
-    align-items: center;
-
-    height: 100vh;
-
-    overflow: hidden;
-}
-
-.phone {
-
-    width: 400px;
-    height: 700px;
-
-    border-radius: 42px;
-
-    overflow: hidden;
-
-    position: relative;
-
-    background: #000;
-
-    border: 10px solid #111827;
-
-    box-shadow:
-        0 20px 60px rgba(0, 0, 0, 0.45),
-        0 0 80px rgba(96, 165, 250, 0.10);
-}
+        .phone {
+            width: 400px;
+            height: 700px;
+            border-radius: 42px;
+            overflow: hidden;
+            position: relative;
+            background: #000;
+            border: 10px solid #111827;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45), 0 0 80px rgba(96, 165, 250, 0.10);
+        }
 
         #map {
-
             position: absolute;
             inset: 0;
             z-index: 1;
         }
-
-        /* LOGO */
 
         .logo-img {
             height: 40px;
@@ -88,188 +49,126 @@ background:
         }
 
         .logo-top {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
 
-    display: flex;
+        .live-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: #ef4444;
+            box-shadow: 0 0 10px rgba(239, 68, 68, 0.9);
+            animation: pulseLive 1.4s infinite;
+        }
 
-    align-items: center;
+        @keyframes pulseLive {
+            0% {
+                transform: scale(1);
+                opacity: 1;
+            }
+            50% {
+                transform: scale(1.35);
+                opacity: 0.45;
+            }
+            100% {
+                transform: scale(1);
+                opacity: 1;
+            }
+        }
 
-    gap: 10px;
-}
-
-.live-dot {
-
-    width: 10px;
-    height: 10px;
-
-    border-radius: 50%;
-
-    background: #ef4444;
-
-    box-shadow:
-        0 0 10px rgba(239, 68, 68, 0.9);
-
-    animation:
-        pulseLive 1.4s infinite;
-}
-
-@keyframes pulseLive {
-
-    0% {
-        transform: scale(1);
-        opacity: 1;
-    }
-
-    50% {
-        transform: scale(1.35);
-        opacity: 0.45;
-    }
-
-    100% {
-        transform: scale(1);
-        opacity: 1;
-    }
-}
-        
         .logo {
-
             position: absolute;
-
             top: 56px;
             left: 20px;
-
             z-index: 1200;
-
             color: white;
         }
 
         .logo-title {
-
             font-size: 34px;
             font-weight: 700;
         }
 
         .logo-sub {
-
             margin-top: 4px;
-
             font-size: 13px;
-
             color: rgba(255, 255, 255, 0.72);
         }
 
-        /* SEARCH */
-
         .search-wrapper {
-
             position: absolute;
-
             top: 54px;
             right: 18px;
-
             z-index: 1200;
         }
 
         .search-container {
-
             width: 52px;
             height: 52px;
-
             border-radius: 999px;
-
             background: rgba(245, 245, 245, 0.82);
-
             backdrop-filter: blur(20px);
-
             display: flex;
-
             align-items: center;
-
             overflow: hidden;
-
             transition: 0.35s ease;
-
             box-shadow: 0 8px 30px rgba(0, 0, 0, 0.18);
         }
 
         .search-container.active {
-
             width: 260px;
         }
 
         .search-icon {
-
             width: 52px;
             min-width: 52px;
-
             height: 52px;
-
             display: flex;
-
             align-items: center;
             justify-content: center;
-
             color: #111827;
-
             cursor: pointer;
-
             font-size: 15px;
         }
 
         .search-input {
-
             flex: 1;
-
             background: none;
-
             border: none;
-
             outline: none;
-
             color: #111827;
-
             font-size: 15px;
-
             opacity: 0;
-
             transition: 0.25s ease;
         }
 
         .search-container.active .search-input {
-
             opacity: 1;
         }
 
         .search-input::placeholder {
-
             color: rgba(17, 24, 39, 0.45);
         }
 
-        /* SHEET */
-
+        /* ── SHEET ── */
         .sheet {
-
             position: absolute;
-
             left: 0;
             bottom: 0;
-
             width: 100%;
-            height: 52%;
-
             background: rgba(245, 245, 245, 0.80);
-
             backdrop-filter: blur(30px);
-
             border-top-left-radius: 34px;
             border-top-right-radius: 34px;
-
-            padding: 18px 18px 110px 18px;
-
             z-index: 999;
-
-            transition: height 0.18s ease;
+            /* transición solo cuando NO estamos arrastrando */
+            transition: height 0.38s cubic-bezier(0.32, 0.72, 0, 1);
+            will-change: height;
         }
 
+        /* Estados de snap */
         .sheet.min {
             height: 120px;
         }
@@ -282,102 +181,85 @@ background:
             height: 82%;
         }
 
-        .handle {
+        /* Sin transición mientras se arrastra */
+        .sheet.dragging {
+            transition: none;
+        }
 
+        /* Zona arrastrable: handle + padding visual */
+        .drag-zone {
+            padding: 18px 18px 0 18px;
+            cursor: ns-resize;
+            touch-action: none;
+            user-select: none;
+            -webkit-user-select: none;
+        }
+
+        .handle {
             width: 58px;
             height: 6px;
-
             border-radius: 999px;
-
             background: rgba(0, 0, 0, 0.18);
-
             margin: 0 auto 18px auto;
+            /* pequeña animación al pasar el cursor */
+            transition: background 0.2s, transform 0.2s;
+        }
 
-            cursor: pointer;
-
-            touch-action: none;
+        .drag-zone:hover .handle {
+            background: rgba(0, 0, 0, 0.32);
+            transform: scaleX(1.12);
         }
 
         .content {
-
             overflow-y: auto;
-
-            height: calc(100% - 24px);
-
-            padding-bottom: 160px;
-
+            height: calc(100% - 50px); /* descontamos drag-zone */
+            padding: 0 18px 160px 18px;
             -webkit-overflow-scrolling: touch;
         }
 
         .content::-webkit-scrollbar {
-            width: 0px;
+            width: 0;
         }
 
-        /* TITLES */
-
         .sheet-title {
-
             font-size: 30px;
             font-weight: 700;
-
             color: #111827;
-
             margin-bottom: 18px;
         }
 
-        /* ZONES */
-
         .zone-item {
-
             background: rgba(255, 255, 255, 0.52);
-
             border: 1px solid rgba(255, 255, 255, 0.35);
-
             border-radius: 22px;
-
             padding: 18px;
-
             margin-bottom: 14px;
-
             cursor: pointer;
-
             transition: 0.25s;
         }
 
         .zone-item.active {
-
             border: 2px solid #60a5fa;
-
             background: rgba(255, 255, 255, 0.92);
         }
 
         .zone-title {
-
             font-size: 20px;
             font-weight: 700;
-
             color: #111827;
         }
 
         .zone-desc {
-
             margin-top: 5px;
-
             font-size: 14px;
-
             color: #4b5563;
         }
 
         .zone-moods {
-
             display: flex;
-
             flex-wrap: nowrap;
-
             overflow-x: auto;
-
             gap: 8px;
-
             margin-top: 14px;
         }
 
@@ -386,68 +268,39 @@ background:
         }
 
         .mood {
-
             background: rgba(255, 255, 255, 0.72);
-
             padding: 7px 11px;
-
             border-radius: 999px;
-
             font-size: 12px;
-
             font-weight: 600;
-
             color: #111827;
-
             white-space: nowrap;
-
             flex-shrink: 0;
         }
 
-        /* NAV */
-
         .bottom-nav {
-
             position: absolute;
-
             bottom: 14px;
             left: 50%;
-
             transform: translateX(-50%);
-
             width: 90%;
-
             height: 68px;
-
             background: rgba(20, 20, 20, 0.82);
-
             backdrop-filter: blur(25px);
-
             border-radius: 24px;
-
             display: flex;
-
             justify-content: space-around;
-
             align-items: center;
-
             color: white;
-
             z-index: 1001;
         }
 
         .nav-item {
-
             display: flex;
-
             flex-direction: column;
-
             align-items: center;
-
             font-size: 11px;
-
             opacity: 0.7;
-
             cursor: pointer;
         }
 
@@ -456,330 +309,193 @@ background:
         }
 
         .nav-item i {
-
             font-size: 20px;
-
             margin-bottom: 5px;
         }
 
-        /* PIN */
-
         .pin-wrapper {
-
             position: relative;
-
             width: 34px;
             height: 46px;
         }
 
         .pin {
-
             width: 34px;
             height: 34px;
-
             background: #111827;
-
             border-radius: 50% 50% 50% 0;
-
             transform: rotate(-45deg);
-
             position: absolute;
-
             top: 0;
             left: 0;
-
             box-shadow: 0 0 18px rgba(96, 165, 250, 0.45);
         }
 
         .pin::after {
-
             content: "";
-
             width: 14px;
             height: 14px;
-
             background: #1e3a8a;
-
             border-radius: 50%;
-
             position: absolute;
-
             top: 10px;
             left: 10px;
         }
 
         .pin-emoji {
-
             position: absolute;
-
             top: 5px;
             left: 5px;
-
             width: 24px;
             height: 24px;
-
             display: flex;
-
             align-items: center;
             justify-content: center;
-
             font-size: 14px;
-
             z-index: 10;
         }
 
-        /* DISCOVER */
-
         .discover-card {
-
             background: rgba(255, 255, 255, 0.52);
-
             border-radius: 26px;
-
             padding: 22px;
         }
 
         .mood-buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            margin-top: 22px;
+        }
 
-    display: flex;
+        .mood-btn {
+            border: none;
+            border-radius: 18px;
+            padding: 16px;
+            background: rgba(255, 255, 255, 0.72);
+            font-size: 15px;
+            font-weight: 600;
+            color: #111827;
+            cursor: pointer;
+            transition: 0.2s ease;
+        }
 
-    flex-direction: column;
-
-    gap: 12px;
-
-    margin-top: 22px;
-}
-
-.mood-btn {
-
-    border: none;
-
-    border-radius: 18px;
-
-    padding: 16px;
-
-    background: rgba(255,255,255,0.72);
-
-    font-size: 15px;
-
-    font-weight: 600;
-
-    color: #111827;
-
-    cursor: pointer;
-
-    transition: 0.2s ease;
-}
-
-.mood-btn:hover {
-
-    background: rgba(255,255,255,0.92);
-}
-
-        /* PROFILE */
+        .mood-btn:hover {
+            background: rgba(255, 255, 255, 0.92);
+        }
 
         .login-box {
-
             background: rgba(255, 255, 255, 0.52);
-
             border-radius: 26px;
-
             padding: 22px;
         }
 
         .input {
-
             width: 100%;
-
             padding: 15px;
-
             border: none;
-
             border-radius: 14px;
-
             margin-bottom: 14px;
-
             font-size: 15px;
         }
 
         .button {
-
             width: 100%;
-
             padding: 15px;
-
             border: none;
-
             border-radius: 16px;
-
             background: #111827;
-
             color: white;
-
             font-weight: 700;
-
             cursor: pointer;
         }
 
         .social-login {
-
             margin-top: 18px;
-
             display: flex;
-
             flex-direction: column;
-
             gap: 12px;
         }
 
         .social-btn {
-
             width: 100%;
-
             padding: 15px 18px;
-
             border-radius: 18px;
-
-            border: 1px solid rgba(255,255,255,0.28);
-
+            border: 1px solid rgba(255, 255, 255, 0.28);
             background: #111827;
-
             color: white;
-
             display: flex;
-
             align-items: center;
-
             gap: 14px;
-
             font-size: 16px;
-
             font-weight: 600;
-
             cursor: pointer;
-
             transition: 0.22s ease;
         }
 
         .social-btn:hover {
-
             transform: translateY(-1px);
-
             background: #0f172a;
         }
 
         .social-btn i {
-
             font-size: 20px;
-
             width: 22px;
-
             text-align: center;
         }
-
     </style>
-
 </head>
-
 <body>
 
 <div class="phone">
-
     <div id="map"></div>
 
-<div class="logo">
-
-    <div class="logo-top">
-
-        <img src="LOGO_SRC" class="logo-img">
-
-        <span class="live-dot"></span>
-
+    <div class="logo">
+        <div class="logo-top">
+            <img src="LOGO_SRC" class="logo-img">
+            <span class="live-dot"></span>
+        </div>
+        <div class="logo-sub">Santander en tiempo real</div>
     </div>
-
-    <div class="logo-sub">
-        Santander en tiempo real
-    </div>
-
-</div>
 
     <div class="search-wrapper">
-
-        <div class="search-container"
-             id="searchContainer">
-
-            <div class="search-icon"
-                 onclick="toggleSearch()">
-
+        <div class="search-container" id="searchContainer">
+            <div class="search-icon" onclick="toggleSearch()">
                 <i class="fa-solid fa-magnifying-glass"></i>
-
             </div>
-
-            <input
-                    type="text"
-                    id="searchInput"
-                    class="search-input"
-                    placeholder="Buscar zona..."
-                    onkeyup="searchZone()">
-
+            <input type="text" id="searchInput" class="search-input"
+                   placeholder="Buscar zona..." onkeyup="searchZone()">
         </div>
-
     </div>
 
-    <div class="sheet mid"
-         id="sheet">
-
-        <div class="handle"
-             id="handle">
+    <div class="sheet mid" id="sheet">
+        <!-- Zona de drag: handle + área invisible sobre el contenido -->
+        <div class="drag-zone" id="dragZone">
+            <div class="handle" id="handle"></div>
         </div>
-
-        <div class="content"
-             id="content">
-        </div>
-
+        <div class="content" id="content"></div>
     </div>
 
     <div class="bottom-nav">
-
-        <div class="nav-item active"
-             id="listaNav"
-             onclick="showMap(this)">
-            <i class="fa-solid fa-list"></i>
-            <span>Lista</span>
+        <div class="nav-item active" id="listaNav" onclick="showMap(this)">
+            <i class="fa-solid fa-list"></i><span>Lista</span>
         </div>
-
-        <div class="nav-item"
-             onclick="showDiscover(this)">
-            <i class="fa-solid fa-compass"></i>
-            <span>Descubre</span>
+        <div class="nav-item" onclick="showDiscover(this)">
+            <i class="fa-solid fa-compass"></i><span>Descubre</span>
         </div>
-
-        <div class="nav-item"
-             onclick="showProfile(this)">
-            <i class="fa-solid fa-user"></i>
-            <span>Perfil</span>
+        <div class="nav-item" onclick="showProfile(this)">
+            <i class="fa-solid fa-user"></i><span>Perfil</span>
         </div>
-
     </div>
-
 </div>
 
 <script>
+    /* ── MAPA ── */
+    var map = L.map('map', {zoomControl: false}).setView([43.4623, -3.8099], 13);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {attribution: ''}).addTo(map);
 
-    var map = L.map('map', {
-        zoomControl: false
-    }).setView([43.4623, -3.8099], 13);
-
-    L.tileLayer(
-        'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
-        {
-            attribution: ''
-        }).addTo(map);
-
-    /* ZONAS */
-
+    /* ── ZONAS ── */
     const zones = [
-
         {
             name: "El Sardinero",
             coords: [43.47234934934887, -3.7826310695260883],
@@ -787,7 +503,6 @@ background:
             desc: "Playas, paseo marítimo y eventos deportivos",
             moods: ["🚶🏻 Paseo", "☕ Tranquilo", "🚦Activo"]
         },
-
         {
             name: "Valdenoja",
             coords: [43.48256515385705, -3.793652450228221],
@@ -795,7 +510,6 @@ background:
             desc: "Barrio moderno y residencial en crecimiento",
             moods: ["🛠️ Industria", "🏠 Residencial", "🍃 Fluido"]
         },
-
         {
             name: "Centro - Ayuntamiento",
             coords: [43.46237104044435, -3.810014266281815],
@@ -803,7 +517,6 @@ background:
             desc: "Corazón comercial y administrativo",
             moods: ["🛍️ Compras", "🍻 Animado", "⛔ Congestionado"]
         },
-
         {
             name: "Castilla-Hermida",
             coords: [43.45512685721038, -3.8193966314831678],
@@ -811,7 +524,6 @@ background:
             desc: "Raíces marineras, ambiente tradicional",
             moods: ["🍴 Restauración", "☕ Tranquilo", "🚦 Activo"]
         },
-
         {
             name: "Barrio Pesquero",
             coords: [43.45119335572701, -3.8208146583245783],
@@ -819,7 +531,6 @@ background:
             desc: "Las mejores rabas y pescado fresco",
             moods: ["🍴 Restauración", "☕ Tranquilo", "🍃 Fluido"]
         },
-
         {
             name: "General Dávila",
             coords: [43.46134772819438, -3.8303346119838824],
@@ -827,7 +538,6 @@ background:
             desc: "Arteria principal con vistas a la bahía",
             moods: ["🛍️ Compras", "🍻 Animado", "⛔ Congestionado"]
         },
-
         {
             name: "Cazoña – Alisal",
             coords: [43.4581, -3.8414],
@@ -835,7 +545,6 @@ background:
             desc: "Área residencial con servicios y grandes superficies",
             moods: ["🛍️ Compras", "🏠 Residencial", "🚦 Activo"]
         },
-
         {
             name: "Monte – Cueto",
             coords: [43.486202253800826, -3.7979554087551213],
@@ -843,15 +552,13 @@ background:
             desc: "Periférico y tranquilo",
             moods: ["🚶🏻 Paseo", "☕ Tranquilo", "🍃 Fluido"]
         },
-
         {
             name: "Calle Alta",
             coords: [43.45898116801386, -3.818183363527089],
             marker: "🚌",
-            desc: "zona céntrica residencial y calmada",
+            desc: "Zona céntrica residencial y calmada",
             moods: ["🚶🏻 Paseo", "🏠 Residencial", "🚦 Activo"]
         },
-
         {
             name: "Cañadío-Puertochico",
             coords: [43.46351972663305, -3.8013836039426367],
@@ -859,7 +566,6 @@ background:
             desc: "Epicentro social con terrazas y restaurantes",
             moods: ["🍴 Restauración", "🍻 Animado", "⛔ Congestionado"]
         },
-
         {
             name: "Plaza Porticada - Plaza de Pombo",
             coords: [43.4621172173889, -3.8062012039427358],
@@ -867,15 +573,13 @@ background:
             desc: "Tapeo céntrico y ambiente de plaza",
             moods: ["🍴 Restauración", "🍻 Animado", "⛔ Congestionado"]
         },
-
         {
             name: "Calderón - Mercado de la Esperanza",
             coords: [43.462859302598325, -3.8099811835254593],
             marker: "🎭",
-            desc: "¨Mercado de productos frescos y tapas",
+            desc: "Mercado de productos frescos y tapas",
             moods: ["🍴 Restauración", "🍻 Animado", "🚦 Activo"]
         },
-
         {
             name: "Vargas - San Fernando - Burgos",
             coords: [43.4627, -3.8196],
@@ -883,16 +587,13 @@ background:
             desc: "Bares, bodegas y ambiente local",
             moods: ["🍴 Restauración", "🍻 Animado", "🚦 Activo"]
         },
-
-
         {
-            name: "Río de la Pila - Hernán Cortés - Tetúan",
+            name: "Río de la Pila - Hernán Cortés",
             coords: [43.4668, -3.8049],
             marker: "🎵",
             desc: "Ocio, gastronomía y ambiente íntimo",
-            moods: ["🍷 concurrido", "🍻 Animado", "🚦 Activo"]
+            moods: ["🍷 Concurrido", "🍻 Animado", "🚦 Activo"]
         },
-
         {
             name: "Península de la Magdalena",
             coords: [43.469355406273436, -3.767564435338004],
@@ -900,7 +601,6 @@ background:
             desc: "Palacio, jardines y paseos al aire libre",
             moods: ["🍴 Restauración", "☕ Tranquilo", "🚦 Activo"]
         },
-
         {
             name: "Playa de Mataleñas - Faro Cabo Mayor",
             coords: [43.486043368198565, -3.787880946665848],
@@ -908,8 +608,6 @@ background:
             desc: "Paisajes costeros, naturaleza y silencio",
             moods: ["🚶🏻 Paseo", "☕ Tranquilo", "🍃 Fluido"]
         },
-
-
         {
             name: "Centro Botín - Jardines de Pereda",
             coords: [43.4621, -3.7987],
@@ -917,73 +615,30 @@ background:
             desc: "Arte, paseo marítimo y vida cultural",
             moods: ["🚶🏻 Paseo", "🍻 Animado", "🚦 Activo"]
         },
-
     ];
 
     let activeCircle = null;
 
-    /* RENDER LISTA */
-
+    /* ── RENDER ── */
     function renderMapContent(filteredZones = zones) {
+        const content = document.getElementById("content");
+        const now = new Date();
+        const time = now.toLocaleTimeString('es-ES', {hour: '2-digit', minute: '2-digit'});
 
-        const content =
-            document.getElementById("content");
+        let html = `
+            <div class="sheet-title">Áreas de Santander</div>
+            <div style="font-size:13px;color:#6b7280;margin-top:-10px;margin-bottom:18px;">
+                Última actualización: ${time}
+            </div>`;
 
-const now = new Date();
-
-const time =
-    now.toLocaleTimeString(
-        'es-ES',
-        {
-            hour: '2-digit',
-            minute: '2-digit'
-        }
-    );
-
-let html =
-    `<div class="sheet-title">
-        Áreas de Santander
-    </div>
-
-    <div style="
-        font-size:13px;
-        color:#6b7280;
-        margin-top:-10px;
-        margin-bottom:18px;
-    ">
-        Última actualización: ${time}
-    </div>`;
-
-        filteredZones.forEach((z) => {
-
-            const realIndex =
-                zones.indexOf(z);
-
+        filteredZones.forEach(z => {
+            const realIndex = zones.indexOf(z);
             html += `
-
-        <div class="zone-item"
-             id="zone-${realIndex}"
-             onclick="focusZone(${realIndex})">
-
-            <div class="zone-title">
-                ${z.name}
-            </div>
-
-            <div class="zone-desc">
-                ${z.desc}
-            </div>
-
-            <div class="zone-moods">
-
-                ${z.moods.map(m =>
-                `<div class="mood">${m}</div>`
-            ).join("")}
-
-            </div>
-
-        </div>
-
-        `;
+                <div class="zone-item" id="zone-${realIndex}" onclick="focusZone(${realIndex})">
+                    <div class="zone-title">${z.name}</div>
+                    <div class="zone-desc">${z.desc}</div>
+                    <div class="zone-moods">${z.moods.map(m => `<div class="mood">${m}</div>`).join("")}</div>
+                </div>`;
         });
 
         content.innerHTML = html;
@@ -991,484 +646,259 @@ let html =
 
     renderMapContent();
 
-    /* PINS */
-
+    /* ── PINS ── */
     zones.forEach((z, index) => {
-
         const icon = L.divIcon({
             className: "",
-            html: `
-        <div class="pin-wrapper">
-
-            <div class="pin"></div>
-
-            <div class="pin-emoji">
-                ${z.marker}
-            </div>
-
-        </div>
-        `,
-            iconSize: [34, 46],
-            iconAnchor: [17, 46]
+            html: `<div class="pin-wrapper"><div class="pin"></div><div class="pin-emoji">${z.marker}</div></div>`,
+            iconSize: [34, 46], iconAnchor: [17, 46]
         });
-
-        const marker = L.marker(
-            z.coords,
-            {icon: icon}
-        ).addTo(map);
-
+        const marker = L.marker(z.coords, {icon}).addTo(map);
         marker.on("click", () => {
-
-            document
-                .getElementById("listaNav")
-                .click();
-
+            document.getElementById("listaNav").click();
             focusZone(index);
-
         });
-
     });
 
-    /* SEARCH */
-
+    /* ── SEARCH ── */
     function toggleSearch() {
-
-        const container =
-            document.getElementById("searchContainer");
-
-        container.classList.toggle("active");
-
-        if (container.classList.contains("active")) {
-
-            setTimeout(() => {
-
-                document
-                    .getElementById("searchInput")
-                    .focus();
-
-            }, 200);
-        }
+        const c = document.getElementById("searchContainer");
+        c.classList.toggle("active");
+        if (c.classList.contains("active")) setTimeout(() => document.getElementById("searchInput").focus(), 200);
     }
 
     function searchZone() {
-
-        const value =
-            document.getElementById("searchInput")
-                .value
-                .toLowerCase();
-
-        const filtered =
-            zones.filter(z =>
-                z.name.toLowerCase().includes(value)
-            );
-
-        renderMapContent(filtered);
+        const v = document.getElementById("searchInput").value.toLowerCase();
+        renderMapContent(zones.filter(z => z.name.toLowerCase().includes(v)));
     }
 
-    /* FOCUS */
-
+    /* ── FOCUS ── */
     function focusZone(index) {
-
         const z = zones[index];
-
         map.setView(z.coords, 15);
-
-        if (activeCircle) {
-            map.removeLayer(activeCircle);
+        if (activeCircle) map.removeLayer(activeCircle);
+        activeCircle = L.circle(z.coords, {
+            radius: 230,
+            color: "#60a5fa",
+            fillColor: "#60a5fa",
+            fillOpacity: 0.18,
+            weight: 2
+        }).addTo(map);
+        document.querySelectorAll(".zone-item").forEach(i => i.classList.remove("active"));
+        const sel = document.getElementById(`zone-${index}`);
+        if (sel) {
+            sel.classList.add("active");
+            sel.scrollIntoView({behavior: "smooth", block: "center"});
         }
-
-        activeCircle = L.circle(
-            z.coords,
-            {
-                radius: 230,
-                color: "#60a5fa",
-                fillColor: "#60a5fa",
-                fillOpacity: 0.18,
-                weight: 2
-            }
-        ).addTo(map);
-
-        const items =
-            document.querySelectorAll(".zone-item");
-
-        items.forEach(i =>
-            i.classList.remove("active")
-        );
-
-        const selected =
-            document.getElementById(`zone-${index}`);
-
-        if (selected) {
-
-            selected.classList.add("active");
-
-            selected.scrollIntoView({
-                behavior: "smooth",
-                block: "center"
-            });
-        }
-
-        sheet.className =
-            "sheet mid";
-
-        state = "mid";
+        snapTo("mid");
     }
 
-    /* DESCUBRE */
-
-function showDiscover(nav) {
-
-    activateNav(nav);
-
-    document.getElementById("content")
-    .innerHTML = `
-
-    <div class="sheet-title">
-        Descubre
-    </div>
-
-    <div class="discover-card">
-
-        <div style="
-            font-size:28px;
-            font-weight:700;
-            color:#111827;
-        ">
-            ¿Qué ambiente buscas?
-        </div>
-
-        <div style="
-            margin-top:12px;
-            color:#4b5563;
-            line-height:1.5;
-        ">
-            BRISA recomendará una zona
-            según el mood que prefieras hoy.
-        </div>
-
-        <div class="mood-buttons">
-
-            <button
-                class="mood-btn"
-                onclick="discoverMood('relax')">
-
-                🌿 Relax
-            </button>
-
-            <button
-                class="mood-btn"
-                onclick="discoverMood('social')">
-
-                🍷 Social
-            </button>
-
-            <button
-                class="mood-btn"
-                onclick="discoverMood('active')">
-
-                ⚡ Activo
-            </button>
-
-        </div>
-
-    </div>
-
-    `;
-}
-
-function discoverMood(type) {
-
-    let data;
-
-    if(type === "relax") {
-
-        data = {
-            marker:"🌊",
-            name:"Península de la Magdalena",
-            desc:"Hoy BRISA recomienda una zona tranquila, abierta y agradable para desconectar.",
-            moods:["🚶🏻 Paseo","☕ Tranquilo","🍃 Fluido"]
-        };
-
-    } else if(type === "social") {
-
-        data = {
-            marker:"🍷",
-            name:"Cañadío-Puertochico",
-            desc:"Hoy BRISA recomienda una zona social con gastronomía, terrazas y ambiente urbano.",
-            moods:["🍴 Restauración","🍻 Animado","🚦 Activo"]
-        };
-
-    } else {
-
-        data = {
-            marker:"⚡",
-            name:"Centro - Ayuntamiento",
-            desc:"Hoy BRISA recomienda una zona dinámica y activa con movimiento constante.",
-            moods:["🛍️ Compras","🍻 Animado","⛔ Congestionado"]
-        };
-    }
-
-    document.getElementById("content")
-    .innerHTML = `
-
-    <div class="sheet-title">
-        Descubre
-    </div>
-
-    <div class="discover-card">
-
-        <div style="
-            font-size:30px;
-            font-weight:700;
-            color:#111827;
-        ">
-            ${data.marker} ${data.name}
-        </div>
-
-        <div style="
-            margin-top:14px;
-            color:#4b5563;
-            line-height:1.5;
-        ">
-            ${data.desc}
-        </div>
-
-        <div class="zone-moods"
-             style="margin-top:18px;">
-
-            ${data.moods.map(m =>
-                `<div class="mood">${m}</div>`
-            ).join("")}
-
-        </div>
-
-    </div>
-
-    `;
-}
-
-    /* PERFIL */
-
-    function showProfile(nav) {
-
+    /* ── DISCOVER ── */
+    function showDiscover(nav) {
         activateNav(nav);
-
-        document.getElementById("content")
-            .innerHTML = `
-
-    <div class="sheet-title">
-        Perfil
-    </div>
-
-    <div class="login-box">
-
-        <input
-            class="input"
-            placeholder="Email">
-
-        <input
-            class="input"
-            type="password"
-            placeholder="Password">
-
-        <button class="button">
-            Iniciar sesión
-        </button>
-
-        <div class="social-login">
-
-            <button class="social-btn">
-                <svg width="20" height="20" viewBox="0 0 48 48">
-                    <path fill="#EA4335" d="M24 9.5c3.54 0 6.72 1.22 9.21 3.6l6.9-6.9C36.64 2.7 30.74 0 24 0 14.62 0 6.51 5.38 2.56 13.22l8.06 6.26C12.5 13.2 17.8 9.5 24 9.5z"/>
-                    <path fill="#4285F4" d="M46.1 24.5c0-1.64-.15-3.21-.43-4.73H24v9h12.6c-.54 2.9-2.17 5.36-4.62 7.02l7.1 5.5C43.7 37.3 46.1 31.4 46.1 24.5z"/>
-                    <path fill="#FBBC05" d="M10.62 28.48A14.5 14.5 0 019.5 24c0-1.57.27-3.09.75-4.48l-8.06-6.26A23.94 23.94 0 000 24c0 3.84.92 7.46 2.56 10.74l8.06-6.26z"/>
-                    <path fill="#34A853" d="M24 48c6.48 0 11.93-2.14 15.9-5.83l-7.1-5.5c-2 1.35-4.57 2.13-8.8 2.13-6.2 0-11.5-3.7-13.38-8.98l-8.06 6.26C6.51 42.62 14.62 48 24 48z"/>
-                </svg>
-                <span>Continuar con Google</span>
-            </button>
-
-            <button class="social-btn">
-                <i class="fa-brands fa-apple"></i>
-                <span>Continuar con Apple</span>
-            </button>
-
-        </div>
-
-    </div>
-
-    `;
+        document.getElementById("content").innerHTML = `
+            <div class="sheet-title">Descubre</div>
+            <div class="discover-card">
+                <div style="font-size:28px;font-weight:700;color:#111827;">¿Qué ambiente buscas?</div>
+                <div style="margin-top:12px;color:#4b5563;line-height:1.5;">BRISA recomendará una zona según el mood que prefieras hoy.</div>
+                <div class="mood-buttons">
+                    <button class="mood-btn" onclick="discoverMood('relax')">🌿 Relax</button>
+                    <button class="mood-btn" onclick="discoverMood('social')">🍷 Social</button>
+                    <button class="mood-btn" onclick="discoverMood('active')">⚡ Activo</button>
+                </div>
+            </div>`;
     }
 
-    /* LISTA */
+    function discoverMood(type) {
+        const data = {
+            relax: {
+                marker: "🌊",
+                name: "Península de la Magdalena",
+                desc: "Hoy BRISA recomienda una zona tranquila, abierta y agradable para desconectar.",
+                moods: ["🚶🏻 Paseo", "☕ Tranquilo", "🍃 Fluido"]
+            },
+            social: {
+                marker: "🍷",
+                name: "Cañadío-Puertochico",
+                desc: "Hoy BRISA recomienda una zona social con gastronomía, terrazas y ambiente urbano.",
+                moods: ["🍴 Restauración", "🍻 Animado", "🚦 Activo"]
+            },
+            active: {
+                marker: "⚡",
+                name: "Centro - Ayuntamiento",
+                desc: "Hoy BRISA recomienda una zona dinámica y activa con movimiento constante.",
+                moods: ["🛍️ Compras", "🍻 Animado", "⛔ Congestionado"]
+            },
+        }[type];
+        document.getElementById("content").innerHTML = `
+            <div class="sheet-title">Descubre</div>
+            <div class="discover-card">
+                <div style="font-size:30px;font-weight:700;color:#111827;">${data.marker} ${data.name}</div>
+                <div style="margin-top:14px;color:#4b5563;line-height:1.5;">${data.desc}</div>
+                <div class="zone-moods" style="margin-top:18px;">${data.moods.map(m => `<div class="mood">${m}</div>`).join("")}</div>
+            </div>`;
+    }
+
+    /* ── PERFIL ── */
+    function showProfile(nav) {
+        activateNav(nav);
+        document.getElementById("content").innerHTML = `
+            <div class="sheet-title">Perfil</div>
+            <div class="login-box">
+                <input class="input" placeholder="Email">
+                <input class="input" type="password" placeholder="Password">
+                <button class="button">Iniciar sesión</button>
+                <div class="social-login">
+                    <button class="social-btn">
+                        <svg width="20" height="20" viewBox="0 0 48 48">
+                            <path fill="#EA4335" d="M24 9.5c3.54 0 6.72 1.22 9.21 3.6l6.9-6.9C36.64 2.7 30.74 0 24 0 14.62 0 6.51 5.38 2.56 13.22l8.06 6.26C12.5 13.2 17.8 9.5 24 9.5z"/>
+                            <path fill="#4285F4" d="M46.1 24.5c0-1.64-.15-3.21-.43-4.73H24v9h12.6c-.54 2.9-2.17 5.36-4.62 7.02l7.1 5.5C43.7 37.3 46.1 31.4 46.1 24.5z"/>
+                            <path fill="#FBBC05" d="M10.62 28.48A14.5 14.5 0 019.5 24c0-1.57.27-3.09.75-4.48l-8.06-6.26A23.94 23.94 0 000 24c0 3.84.92 7.46 2.56 10.74l8.06-6.26z"/>
+                            <path fill="#34A853" d="M24 48c6.48 0 11.93-2.14 15.9-5.83l-7.1-5.5c-2 1.35-4.57 2.13-8.8 2.13-6.2 0-11.5-3.7-13.38-8.98l-8.06 6.26C6.51 42.62 14.62 48 24 48z"/>
+                        </svg>
+                        <span>Continuar con Google</span>
+                    </button>
+                    <button class="social-btn">
+                        <i class="fa-brands fa-apple"></i>
+                        <span>Continuar con Apple</span>
+                    </button>
+                </div>
+            </div>`;
+    }
 
     function showMap(nav) {
-
         activateNav(nav);
-
         renderMapContent();
     }
 
-    /* NAV */
-
     function activateNav(nav) {
-
-        const navs =
-            document.querySelectorAll(".nav-item");
-
-        navs.forEach(n =>
-            n.classList.remove("active")
-        );
-
+        document.querySelectorAll(".nav-item").forEach(n => n.classList.remove("active"));
         nav.classList.add("active");
     }
 
-    /* SHEET */
+    /* ══════════════════════════════════════════
+       SHEET — Drag reactivo con detección de velocidad
+    ══════════════════════════════════════════ */
 
-    const sheet =
-        document.getElementById("sheet");
+    const sheet = document.getElementById("sheet");
+    const dragZone = document.getElementById("dragZone");
+    const content = document.getElementById("content");
+    const PHONE_H = 700; // altura del teléfono en px
 
-    const handle =
-        document.getElementById("handle");
-
+    // Alturas de snap en % del contenedor
+    const SNAPS = {min: 120, mid: PHONE_H * 0.52, full: PHONE_H * 0.82};
     let state = "mid";
 
-    handle.addEventListener("click", () => {
-
-        if (state === "mid") {
-
-            sheet.className =
-                "sheet full";
-
-            state = "full";
-
-        } else if (state === "full") {
-
-            sheet.className =
-                "sheet min";
-
-            state = "min";
-
-        } else {
-
-            sheet.className =
-                "sheet mid";
-
-            state = "mid";
-        }
-
-    });
-
-    /* DRAG / SLIDE */
-
+    // Variables de arrastre
+    let isDragging = false;
     let startY = 0;
     let startHeight = 0;
-    let isDragging = false;
+    let lastY = 0;
+    let lastT = 0;
+    let velocity = 0;   // px/ms  (positivo = gesto hacia abajo)
+    let contentScrollTop = 0; // guardamos scroll del content para no interferir
 
-    function startDrag(clientY) {
+    /* ── Snap a un estado ── */
+    function snapTo(s) {
+        state = s;
+        sheet.classList.remove("dragging");
+        sheet.style.height = "";           // limpiamos inline → entra el CSS
+        sheet.className = `sheet ${s}`;
+    }
 
+    /* ── Determinar snap por posición + velocidad ── */
+    function resolveSnap(currentHeight) {
+        const FLICK_THRESHOLD = 0.6; // px/ms — velocidad mínima para que sea "flick"
+
+        if (velocity < -FLICK_THRESHOLD) {
+            // Flick hacia arriba → subir un nivel
+            if (state === "min") return snapTo("mid");
+            if (state === "mid") return snapTo("full");
+            if (state === "full") return snapTo("full");
+        }
+        if (velocity > FLICK_THRESHOLD) {
+            // Flick hacia abajo → bajar un nivel
+            if (state === "full") return snapTo("mid");
+            if (state === "mid") return snapTo("min");
+            if (state === "min") return snapTo("min");
+        }
+
+        // Sin flick: snap por posición más cercana
+        const distances = Object.entries(SNAPS).map(([key, h]) => ({
+            key, dist: Math.abs(currentHeight - h)
+        }));
+        distances.sort((a, b) => a.dist - b.dist);
+        snapTo(distances[0].key);
+    }
+
+    /* ── Inicio del arrastre ── */
+    function onDragStart(clientY) {
         isDragging = true;
-
         startY = clientY;
-
+        lastY = clientY;
+        lastT = performance.now();
+        velocity = 0;
         startHeight = sheet.offsetHeight;
 
-        sheet.style.transition = "none";
-        sheet.classList.remove("min", "mid", "full");
+        sheet.classList.add("dragging");
+        sheet.style.height = startHeight + "px";
     }
 
-    function moveDrag(clientY) {
-
+    /* ── Movimiento ── */
+    function onDragMove(clientY) {
         if (!isDragging) return;
+
+        const now = performance.now();
+        const dt = now - lastT;
+        if (dt > 0) velocity = (clientY - lastY) / dt;  // px/ms, positivo = abajo
+        lastY = clientY;
+        lastT = now;
 
         const diff = startY - clientY;
+        let newH = Math.min(Math.max(startHeight + diff, 60), SNAPS.full);
 
-        let newHeight = startHeight + diff;
-
-        const minHeight = 120;
-        const maxHeight = window.innerHeight * 0.82;
-
-        if (newHeight < minHeight) {
-            newHeight = minHeight;
-        }
-
-        if (newHeight > maxHeight) {
-            newHeight = maxHeight;
-        }
-
-        sheet.style.height = newHeight + "px";
+        sheet.style.height = newH + "px";
     }
 
-    function endDrag() {
-
+    /* ── Fin del arrastre ── */
+    function onDragEnd() {
         if (!isDragging) return;
-
         isDragging = false;
-
-        sheet.style.transition = "height 0.18s ease";
-
-        const minHeight = 120;
-        const maxHeight = window.innerHeight * 0.82;
-
-        const currentHeight = sheet.offsetHeight;
-
-        const midHeight = (minHeight + maxHeight) / 2;
-
-        const fullHeight = minHeight + (maxHeight - minHeight) * 0.75;
-
-        if (currentHeight >= fullHeight) {
-
-            sheet.className = "sheet full";
-            state = "full";
-
-        } else if (currentHeight >= midHeight) {
-
-            sheet.className = "sheet mid";
-            state = "mid";
-
-        } else {
-
-            sheet.className = "sheet min";
-            state = "min";
-        }
-
-        sheet.style.height = "";
+        resolveSnap(sheet.offsetHeight);
     }
 
-    /* TOUCH */
+    /* ── Touch ── */
+    dragZone.addEventListener("touchstart", e => {
+        // Solo iniciamos si el content no está en mitad de un scroll
+        onDragStart(e.touches[0].clientY);
+    }, {passive: true});
 
-    handle.addEventListener("touchstart", (e) => {
-        startDrag(e.touches[0].clientY);
-    });
-
-    window.addEventListener("touchmove", (e) => {
-
+    window.addEventListener("touchmove", e => {
         if (!isDragging) return;
-
         e.preventDefault();
+        onDragMove(e.touches[0].clientY);
+    }, {passive: false});
 
-        moveDrag(e.touches[0].clientY);
+    window.addEventListener("touchend", () => onDragEnd());
+    window.addEventListener("touchcancel", () => onDragEnd());
 
-    }, { passive: false });
+    /* ── Mouse (para probar en escritorio) ── */
+    dragZone.addEventListener("mousedown", e => {
+        onDragStart(e.clientY);
+        e.preventDefault();
+    });
+    window.addEventListener("mousemove", e => onDragMove(e.clientY));
+    window.addEventListener("mouseup", () => onDragEnd());
 
-    window.addEventListener("touchend", () => {
-        endDrag();
+    /* ── Tap en handle (ciclo manual sin arrastre) ── */
+    dragZone.addEventListener("click", e => {
+        // Solo si no se ha movido significativamente (no fue arrastre)
+        if (Math.abs(e.clientY - startY) > 6) return;
+        if (state === "mid") return snapTo("full");
+        if (state === "full") return snapTo("min");
+        if (state === "min") return snapTo("mid");
     });
 
-    /* MOUSE */
-
-    handle.addEventListener("mousedown", (e) => {
-        startDrag(e.clientY);
-    });
-
-    window.addEventListener("mousemove", (e) => {
-        moveDrag(e.clientY);
-    });
-
-    window.addEventListener("mouseup", () => {
-        endDrag();
-    });
-    
 </script>
-
 </body>
 </html>
