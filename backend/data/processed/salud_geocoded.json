@@ -1,0 +1,3154 @@
+[
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/abarca-centro-de-dia",
+        "nombre": "ABARCA CENTRO DE DIA",
+        "descripcion": "Centro de día para mayores.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Castilla, 83",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Castilla, 83, 39009, Santander"
+        },
+        "telefono": "942764252",
+        "web": "https://centrosabarca.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:00",
+                "tarde": "-18:00"
+            },
+            "Sábado y Domingo": {
+                "manana": "10:00",
+                "tarde": "-18:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4539047,
+        "longitude": -3.8226945
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/alain-afflelou-optico-burgos",
+        "nombre": "ALAIN AFFLELOU OPTICO. BURGOS",
+        "descripcion": "Optica y audiología.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Burgos, 11",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Calle Burgos, 11, 39008, Santander"
+        },
+        "telefono": "942373262",
+        "web": "http://www.alainafflelou.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 14:00",
+                "tarde": "16:30 - 20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/AlainAfflelouOptico",
+            "twitter": "https://twitter.com/AFFLELOU_OPTICO/",
+            "instagram": "https://www.instagram.com/afflelou_optico/"
+        },
+        "latitude": 43.4613809,
+        "longitude": -3.8153024
+    },
+    {
+        "url": "https://www.comerciosantander.com/alain-afflelou-optico-0",
+        "nombre": "ALAIN AFFLELOU OPTICO. C.C. EL ALISAL",
+        "descripcion": "Optica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Centro Comercial El Alisal",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Centro Comercial El Alisal, 39011, Santander"
+        },
+        "telefono": "942344032",
+        "web": "http://www.alainafflelou.es",
+        "horarios": {
+            "Lunes - Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/AlainAfflelouOptico",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "https://www.instagram.com/afflelou_optico/"
+        },
+        "latitude": 43.4576127,
+        "longitude": -3.8620022
+    },
+    {
+        "url": "https://www.comerciosantander.com/alain-afflelou-optico-1",
+        "nombre": "ALAIN AFFLELOU OPTICO. C.C. PEÑACASTILLO",
+        "descripcion": "Optica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Centro Comercial Peñacastillo",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Centro Comercial Peñacastillo, 39011, Santander"
+        },
+        "telefono": "942347166",
+        "web": "http://www.alainafflelou.es",
+        "horarios": {
+            "Lunes - Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/AlainAfflelouOptico",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "https://www.instagram.com/afflelou_optico/"
+        },
+        "latitude": 43.4447675,
+        "longitude": -3.854827
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/alain-afflelou-audiologo",
+        "nombre": "ALAIN AFFLELOU AUDIOLOGO",
+        "descripcion": "Audiología.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Centro Comercial Peñacastillo",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Centro Comercial Peñacastillo, 39011, Santander"
+        },
+        "telefono": "942502855",
+        "web": "https://audiologia.afflelou.es",
+        "horarios": {
+            "Lunes - Sábado": {
+                "manana": "9:00",
+                "tarde": "-21:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/audiologoalainafflelou/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/alainafflelouaudiologo/"
+        },
+        "latitude": 43.4447675,
+        "longitude": -3.854827
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/art-healding-0",
+        "nombre": "ART OF HEALDING",
+        "descripcion": "Art of Healing es un centro de Medicina Integrativa y Nutrición,donde antiguas terapias de la Medicina Tradicional China (MTC) se fusionan con los avanzados conocimientos occidentales para que con lo mejor de ambas tradiciones, recuperemos nuestro estado natural consigamos un bienestar global, no sólo del cuerpo físico sino también emocional.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Juan de la Cosa, 11",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Calle Juan de la Cosa, 11, 39004, Santander"
+        },
+        "telefono": "673078625",
+        "web": "https://www.artofhealing.es",
+        "horarios": {
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/artofhealingbg/"
+        },
+        "latitude": 43.2631979,
+        "longitude": -4.0631286
+    },
+    {
+        "url": "https://www.comerciosantander.com/artros",
+        "nombre": "ARTROS",
+        "descripcion": "Centro de rehabilitación. Especialistas en valoración del daño corporal. Peritación de secuelas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Guevara, 2",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Guevara, 2, 39001, Santander"
+        },
+        "telefono": "942210808",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "17:30 - 21:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/people/Artros-Rehabilitacion/100068612583806/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4636803,
+        "longitude": -3.8104628
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/audika-los-ciruelos",
+        "nombre": "AUDIKA. LOS CIRUELOS",
+        "descripcion": "Centro auditivo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Los Ciruelos, 33",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Los Ciruelos, 33, 39011, Santander"
+        },
+        "telefono": "942788833",
+        "web": "https://www.audika.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-14:00",
+                "tarde": "16:30-19:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/audika.es/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/audika_es/"
+        },
+        "latitude": 43.457944,
+        "longitude": -3.8535115
+    },
+    {
+        "url": "https://www.comerciosantander.com/amigo-24-santander",
+        "nombre": "AMIGO 24 SANTANDER",
+        "descripcion": "Venta, alquiler, mantenimiento y reparación de equipos de movilidad personal.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Floranes, 10-A",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Floranes, 10-A, 39010, Santander"
+        },
+        "telefono": "942301631",
+        "web": "http://www.amigo24.com/tiendas-alquiler-scooter-electrico-silla-ruedas/37/santander",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-13:30",
+                "tarde": "16:30-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4613978,
+        "longitude": -3.8195191
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/bioclinica-centro-odontologico",
+        "nombre": "BIOCLINICA CENTRO ODONTOLOGICO",
+        "descripcion": "Clínica odontológica y podológica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Francisco Cubría, 2",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Calle Francisco Cubría, 2, 39007, Santander"
+        },
+        "telefono": "942037620",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-13:30",
+                "tarde": "16:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://es-la.facebook.com/bioclinicaintegral/about/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/_bioclinica_/"
+        },
+        "latitude": 43.4617305,
+        "longitude": -3.8193148
+    },
+    {
+        "url": "https://www.comerciosantander.com/aural",
+        "nombre": "AURAL",
+        "descripcion": "Gabinete ortoprotésico.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Vargas, 45",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Vargas, 45, 39010, Santander"
+        },
+        "telefono": "942234634",
+        "web": "http://www.widex.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/auralcentrosauditivos",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/auralcentrosauditivos/"
+        },
+        "latitude": 43.4601927,
+        "longitude": -3.8191045
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/cecilia-ruiz-clinica-dental",
+        "nombre": "CECILIA RUIZ. CLINICA DENTAL",
+        "descripcion": "Clínica dental. Los sábados se atiende con cita previa.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Guevara, 9",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Guevara, 9, 39001, Santander"
+        },
+        "telefono": "942189203",
+        "web": "https://clinica-dental-cecilia-ruiz.negocio.site",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00",
+                "tarde": "-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4638085,
+        "longitude": -3.8091368
+    },
+    {
+        "url": "https://www.comerciosantander.com/bienestaris",
+        "nombre": "BIENESTARIS",
+        "descripcion": "Artículos para dependencia y 3ª Edad.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Vargas, 61",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Vargas, 61, 39010, Santander"
+        },
+        "telefono": "942234200",
+        "web": "http://www.bienestaris.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/BienestarisSaludDependenciaYTerceraEdad",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "https://www.instagram.com/bienestaris/"
+        },
+        "latitude": 43.4590058,
+        "longitude": -3.8234849
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/audika-san-fernando",
+        "nombre": "AUDIKA. SAN FERNANDO",
+        "descripcion": "Centro auditivo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Fernando, 58",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle San Fernando, 58, 39010, Santander"
+        },
+        "telefono": "942284269",
+        "web": "https://www.audika.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-14:00",
+                "tarde": "16:30-19:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/audika.es/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/audika_es/"
+        },
+        "latitude": 43.4595346,
+        "longitude": -3.8234174
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/central-optica-lealtad",
+        "nombre": "CENTRAL OPTICA. LEALTAD",
+        "descripcion": "Optica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Lealtad, 11",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Lealtad, 11, 39002, Santander"
+        },
+        "telefono": "942226989",
+        "web": "https://central-optica.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:45 - 13:30",
+                "tarde": "16:30 - 20:15"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/CentralOptica1",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/centralopticasntdr/"
+        },
+        "latitude": 43.4611671,
+        "longitude": -3.8083375
+    },
+    {
+        "url": "https://www.comerciosantander.com/audionica-centro-auditivo",
+        "nombre": "AUDIONICA. CENTRO AUDITIVO",
+        "descripcion": "Centro auditivo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Vargas, 57",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Vargas, 57, 39010, Santander"
+        },
+        "telefono": "942239869",
+        "web": "https://audionica.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-13:00",
+                "tarde": "16:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/people/AUDIONICA/100063685296866/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/audionicacantabria/"
+        },
+        "latitude": 43.4594084,
+        "longitude": -3.8219035
+    },
+    {
+        "url": "https://www.comerciosantander.com/central-optica-0",
+        "nombre": "CENTRAL OPTICA. VARGAS",
+        "descripcion": "Optica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Vargas, 55",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Vargas, 55, 39010, Santander"
+        },
+        "telefono": "942374500",
+        "web": "https://central-optica.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:15 - 13:30",
+                "tarde": "16:30 - 20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/CentralOptica1",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/centralopticasntdr/"
+        },
+        "latitude": 43.4596728,
+        "longitude": -3.8210451
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/centro-de-fisioterapia-mª-silvina-cinirella",
+        "nombre": "CENTRO DE FISIOTERAPIA Mª SILVINA CINIRELLA",
+        "descripcion": "Fisioterapia.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cervantes, 20",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Cervantes, 20, 39001, Santander"
+        },
+        "telefono": "667778043",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "8:00",
+                "tarde": "-22:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/people/Centro-de-Fisioterapia-M%C2%AA-Silvina-Cinirella/100067203553660/",
+            "twitter": "https://twitter.com/silcinirella",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4639939,
+        "longitude": -3.8110246
+    },
+    {
+        "url": "https://www.comerciosantander.com/centro-de-fisioterapia-y-recuperacion-funcional",
+        "nombre": "CENTRO DE FISIOTERAPIA Y RECUPERACION FUNCIONAL",
+        "descripcion": "Servicio de Fisioterapia.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda José Hierro, 16",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Avda José Hierro, 16, 39007, Santander"
+        },
+        "telefono": "942344970",
+        "web": "https://fisioterapiayrecuperacion.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "08:00 - 13:30",
+                "tarde": "15:30 - 19:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/centrodefisioterapiayrecuperacionfuncional",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/central-optica-2",
+        "nombre": "CENTRAL OPTICA. HERNAN CORTES",
+        "descripcion": "Optica y optometría.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Hernán Cortés, 36",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle Hernán Cortés, 36, 39003, Santander"
+        },
+        "telefono": "942223445",
+        "web": "https://central-optica.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:45 - 13:30",
+                "tarde": "16:30 - 20:15"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/CentralOptica1",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/centralopticasntdr/"
+        },
+        "latitude": 43.4631147,
+        "longitude": -3.7979393
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/centro-fisioterapia-kinesia",
+        "nombre": "CENTRO FISIOTERAPIA KINESIA",
+        "descripcion": "Centro de fisioterapia.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Floranes, 50",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Floranes, 50, 39010, Santander"
+        },
+        "telefono": "942189137",
+        "web": "http://www.fisiokinesiasantander.com",
+        "horarios": {
+            "Lunes - Jueves": {
+                "manana": "8:00",
+                "tarde": "-21:00"
+            },
+            "Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/KinesiaSantander/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/kinesiasantander/"
+        },
+        "latitude": 43.4602116,
+        "longitude": -3.8241112
+    },
+    {
+        "url": "https://www.comerciosantander.com/bioesthetica-ana-iryzabal",
+        "nombre": "BIOESTHETICA ANA IRYZABAL",
+        "descripcion": "Centro de estética unisex.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Ruamayor, 3 (bajo) y Calle Isabel II, 10 (Principal)",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Calle Ruamayor, 3 (bajo) y Calle Isabel II, 10 (Principal), 39008, Santander"
+        },
+        "telefono": "942226924",
+        "web": "https://esteticaanayrizabal.com",
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/esteticaanayrizabal/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/central-optica-1",
+        "nombre": "CENTRAL OPTICA. MARIA CRISTINA",
+        "descripcion": "Optica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle de María Cristina, 1G",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle de María Cristina, 1G, 39001, Santander"
+        },
+        "telefono": "942227423",
+        "web": "https://central-optica.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/CentralOptica1",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/centralopticasntdr/"
+        },
+        "latitude": 43.4671328,
+        "longitude": -3.8078715
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/clinica-de-fisioterapia-mario-castañeda",
+        "nombre": "CLINICA DE FISIOTERAPIA MARIO CASTAÑEDA",
+        "descripcion": "Fisioterapia.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Guevara, 35",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Guevara, 35, 39001, Santander"
+        },
+        "telefono": "942791783",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-13:00",
+                "tarde": "16:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/Clinica-Fisioterapia-Mario-Casta%C3%B1eda-1253583904671338/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4639219,
+        "longitude": -3.8045216
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/clinica-del-pie-ignacio-unzue",
+        "nombre": "CLINICA DEL PIE IGNACIO UNZUE",
+        "descripcion": "Clínica podológica. (Horario sujeto a cita previa)",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Alta, 68",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Calle Alta, 68, 39008, Santander"
+        },
+        "telefono": "669625134",
+        "web": null,
+        "horarios": {
+            "Lunes": {},
+            "Martes - Jueves": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4589582,
+        "longitude": -3.8174585
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/clinica-del-pie-raquel-samperio",
+        "nombre": "CLINICA DEL PIE RAQUEL SAMPERIO",
+        "descripcion": "Clínica podológica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda San Martín del Pino, 24",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Avda San Martín del Pino, 24, 39011, Santander"
+        },
+        "telefono": "942325303",
+        "web": "https://clinicaraquelsamperio.com",
+        "horarios": {
+            "Lunes y Martes": {},
+            "Miércoles y Jueves": {
+                "manana": "9:00-13:00",
+                "tarde": "16:00-18:30"
+            },
+            "Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/people/Cl%C3%ADnica-del-pie-Raquel-Samperio/100087734515108/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/clinica_raquel_samperio/"
+        },
+        "latitude": 43.4451218,
+        "longitude": -3.8496742
+    },
+    {
+        "url": "https://www.comerciosantander.com/clinica-dental-arce-y-sheligo",
+        "nombre": "CLINICA DENTAL ARCE Y SHELIGO",
+        "descripcion": "Clínica dental: Odontología general e infantil.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Marqués de la Hermida, 7",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Marqués de la Hermida, 7, 39009, Santander"
+        },
+        "telefono": "942944887",
+        "web": null,
+        "horarios": {
+            "Lunes - Jueves": {
+                "manana": "09:30 - 14:00",
+                "tarde": "16:00 - 20:00"
+            },
+            "Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/clinicadentalarceysheligo/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4552318,
+        "longitude": -3.8138763
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/centro-podologico-rico",
+        "nombre": "CENTRO PODOLOGICO RICO",
+        "descripcion": "Clínica podológica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cardenal Cisneros, 30",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Cardenal Cisneros, 30, 39001, Santander"
+        },
+        "telefono": "942013296",
+        "web": "https://centrosrico.com",
+        "horarios": {
+            "Lunes y Martes": {
+                "manana": "8:00",
+                "tarde": "-16:00"
+            },
+            "Miércoles": {
+                "manana": "8:00-14:00",
+                "tarde": "16:00-20:00"
+            },
+            "Jueves": {
+                "manana": "8:00",
+                "tarde": "-17:00"
+            },
+            "Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4633889,
+        "longitude": -3.8125634
+    },
+    {
+        "url": "https://www.comerciosantander.com/centro-auditivo-clinico-oye-mas",
+        "nombre": "CENTRO AUDITIVO CLINICO OYE MAS",
+        "descripcion": "Centro auditivo clínico.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Burgos, 6",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Calle Burgos, 6, 39008, Santander"
+        },
+        "telefono": "942764469",
+        "web": "http://www.oyemas.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/oyemascentroauditivo/",
+            "twitter": "https://twitter.com/OyeMas",
+            "instagram": "https://www.instagram.com/oyemascentroauditivo/"
+        },
+        "latitude": 43.4615821,
+        "longitude": -3.8147916
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/clinica-dental-dra-maria-santiago-llanes",
+        "nombre": "CLINICA DENTAL DRA. MARIA SANTIAGO LLANES",
+        "descripcion": "Clínica dental. Médico y estética.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Florida, 14",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Florida, 14, 39001, Santander"
+        },
+        "telefono": "942045694",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30",
+                "tarde": "-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/Clinica-Dental-Santiago-Llanes-517745368640054/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/dentalsantiagollanes/"
+        },
+        "latitude": 43.462953,
+        "longitude": -3.8135894
+    },
+    {
+        "url": "https://www.comerciosantander.com/clinica-dental-leire-llorente",
+        "nombre": "CLINICA DENTAL LEIRE LLORENTE",
+        "descripcion": "Clínica odontológica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Fernández de Isla, 12",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Calle Fernández de Isla, 12, 39008, Santander"
+        },
+        "telefono": "942101226",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/leirellorentedental/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/leirellorenteclinica/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/centro-medico-agape-estetica",
+        "nombre": "CENTRO MEDICO AGAPE ESTETICA",
+        "descripcion": "Centro médico estético.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Fernando, 72",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle San Fernando, 72, 39010, Santander"
+        },
+        "telefono": "680969736",
+        "web": "https://agapemedicinaestetica.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-14:00",
+                "tarde": "16:00-19:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/%C3%81GAPE-Medicina-Est%C3%A9tica-440763376033990/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/agapemedicinaestetica/"
+        },
+        "latitude": 43.459048,
+        "longitude": -3.8251834
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/clinica-dental-los-robles",
+        "nombre": "CLINICA DENTAL LOS ROBLES",
+        "descripcion": "Clínica dental.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Martín del Pino, 16",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle San Martín del Pino, 16, 39011, Santander"
+        },
+        "telefono": "942341288",
+        "web": "http://www.clinicadentallosrobles.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-13:30",
+                "tarde": "16:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4427209,
+        "longitude": -3.8522783
+    },
+    {
+        "url": "https://www.comerciosantander.com/clinica-dental-dr-leguizamon",
+        "nombre": "CLINICA DENTAL Dr. LEGUIZAMON",
+        "descripcion": "Clínica dental.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Castilla, 8",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Castilla, 8, 39002, Santander"
+        },
+        "telefono": "942361615",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:00-13:00",
+                "tarde": "16:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4585195,
+        "longitude": -3.8091933
+    },
+    {
+        "url": "https://www.comerciosantander.com/centro-vision",
+        "nombre": "CENTRO VISION",
+        "descripcion": "Optica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Vargas, 45- Bajo",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Vargas, 45- Bajo, 39010, Santander"
+        },
+        "telefono": "942375685",
+        "web": "http://www.centro-vision.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:30 - 20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/CentroVisionSantander/",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4601573,
+        "longitude": -3.81917
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/clinica-dental-eben-ezer",
+        "nombre": "CLINICA DENTAL EBEN EZER",
+        "descripcion": "Clínica dental. (Horario sujeto a cita previa).",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Los Ciruelos, 40",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Los Ciruelos, 40, 39011, Santander"
+        },
+        "telefono": "942409164",
+        "web": "https://clinicadentalebenezer.com",
+        "horarios": {
+            "Lunes - Miércoles": {
+                "manana": "9:00-13:00",
+                "tarde": "16:00-20:00"
+            },
+            "Jueves y Viernes": {
+                "manana": "9:00-13:00",
+                "tarde": "15:00-19:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4582272,
+        "longitude": -3.8538645
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/clinica-dental-loayza-noriega",
+        "nombre": "CLINICA DENTAL LOAYZA NORIEGA",
+        "descripcion": "Clínica dental.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Fernando de los Ríos, 40",
+            "codigo_postal": "39006",
+            "ciudad": "Santander",
+            "completa": "Calle Fernando de los Ríos, 40, 39006, Santander"
+        },
+        "telefono": "942130685",
+        "web": "https://loayzanoriega.es",
+        "horarios": {
+            "Lunes - Jueves": {
+                "manana": "10:00",
+                "tarde": "-19:00"
+            },
+            "Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/loayzanoriegaclinicadental/"
+        },
+        "latitude": 43.4695032,
+        "longitude": -3.7978367
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/clinica-dental-ortiz-hoffmann",
+        "nombre": "CLINICA DENTAL ORTIZ HOFFMANN",
+        "descripcion": "Clínica dental. (Horario sujeto a cita previa).",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Burgos, 11",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Calle Burgos, 11, 39008, Santander"
+        },
+        "telefono": "942313722",
+        "web": "https://dentalortizhoffmann.com/home",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:00",
+                "tarde": "-21:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/pages/Clinica-dental-Ortiz-Hoffmann/112267743931875/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/dentalortizhoffmann/"
+        },
+        "latitude": 43.4613809,
+        "longitude": -3.8153024
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/clinica-fisioterapia-imov",
+        "nombre": "CLINICA FISIOTERAPIA IMOV",
+        "descripcion": "Clínica de fisioterapia.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Francisco Tomás y Valiente, 11",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Francisco Tomás y Valiente, 11, 39011, Santander"
+        },
+        "telefono": "613103909",
+        "web": "https://www.imovsantander.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-14:00",
+                "tarde": "16:00-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/fisioterapiaimov/"
+        },
+        "latitude": 43.4390202,
+        "longitude": -3.841976
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/clinica-jorge-tome",
+        "nombre": "CLINICA JORGE TOME",
+        "descripcion": "Clínica podológica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda Reina Victoria, 13",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Avda Reina Victoria, 13, 39004, Santander"
+        },
+        "telefono": "942223528",
+        "web": "http://clinicadelpiejorgetome.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-13:30",
+                "tarde": "16:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4636655,
+        "longitude": -3.7905312
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/clinica-podologica-espert",
+        "nombre": "CLINICA PODOLOGICA ESPERT",
+        "descripcion": "Clínica médica podogógica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cardenal Cisneros, 60",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Cardenal Cisneros, 60, 39001, Santander"
+        },
+        "telefono": "942048920",
+        "web": null,
+        "horarios": {
+            "Lunes - Jueves": {
+                "manana": "9:00-14:00",
+                "tarde": "16:00-20:00"
+            },
+            "Martes y Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4630343,
+        "longitude": -3.8156177
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/clinica-podologica-tetuan",
+        "nombre": "CLINICA PODOLOGICA TETUAN",
+        "descripcion": "Clínica podológica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Emeterio, 11",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle San Emeterio, 11, 39003, Santander"
+        },
+        "telefono": "942136156",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-14:00",
+                "tarde": "16:00-19:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4651719,
+        "longitude": -3.7971268
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/clinica-skinlab",
+        "nombre": "CLINICA SKINLAB",
+        "descripcion": "Clínica médica, medicina estética.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Repuente, 7",
+            "codigo_postal": "39012",
+            "ciudad": "Santander",
+            "completa": "Calle Repuente, 7, 39012, Santander"
+        },
+        "telefono": "614429940",
+        "web": "https://clinicaskinlab.com",
+        "horarios": {
+            "Lunes - Jueves": {
+                "manana": "9:30-14:00",
+                "tarde": "16:00-19:30"
+            },
+            "Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/skinlabmedicinaestetica/"
+        },
+        "latitude": 43.4696084,
+        "longitude": -3.8271268
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/clinica-hebe",
+        "nombre": "CLINICA HEBE",
+        "descripcion": "Clínica estética facial y corporal. Nutrición.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Luis, 11",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle San Luis, 11, 39010, Santander"
+        },
+        "telefono": "942052947",
+        "web": "http://www.clinicahebe.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00",
+                "tarde": "-18:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4617438,
+        "longitude": -3.8154303
+    },
+    {
+        "url": "https://www.comerciosantander.com/crmf-habilitis",
+        "nombre": "CRMF HABILITIS",
+        "descripcion": "Clínica de rehabilitación.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Fray Silvestre Vélez de Escalante, 5",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Fray Silvestre Vélez de Escalante, 5, 39009, Santander"
+        },
+        "telefono": "942213317",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:00 - 13:00",
+                "tarde": "16:00 - 20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/clinica-podologica-el-alisal",
+        "nombre": "CLINICA PODOLOGICA EL ALISAL",
+        "descripcion": "Clínica podológica. (Horario sujeto a cita previa)",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Los Ciruelos, 44",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Los Ciruelos, 44, 39011, Santander"
+        },
+        "telefono": "942140474",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-13:30",
+                "tarde": "16:00-19:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4581723,
+        "longitude": -3.8541775
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/clinica-mare",
+        "nombre": "CLINICA MARE",
+        "descripcion": "Fisioterapia y osteopatía.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda Cardenal Herrera Oria, 106",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Avda Cardenal Herrera Oria, 106, 39011, Santander"
+        },
+        "telefono": "942553681",
+        "web": "https://clinicamare.es",
+        "horarios": {
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/clinicamarefisioterapia/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/clinica_mare/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/clinica-llorente",
+        "nombre": "CLINICA LLORENTE",
+        "descripcion": "Clínica médica. Podológica. Nutrición. Fisioterapia. Psicológica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Vargas, 63",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Vargas, 63, 39010, Santander"
+        },
+        "telefono": "622746687",
+        "web": "https://www.clinica-llorente.com",
+        "horarios": {
+            "Lunes - Jueves": {
+                "manana": "9:30-13:30",
+                "tarde": "16:00-19:00"
+            },
+            "Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/people/Cl%C3%ADnica-Llorente/pfbid0KaqB1iwX1tKmiHhvEjbhYLqvvEqJ9E7m8CwZpDiZC66RwuLNYP6H9ghq3vDWJp3ql/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/clinicallorente/"
+        },
+        "latitude": 43.4589351,
+        "longitude": -3.8237571
+    },
+    {
+        "url": "https://www.comerciosantander.com/davila-fisioterapia-pilates",
+        "nombre": "DAVILA FISIOTERAPIA PILATES",
+        "descripcion": "Centro de Fisioterapia y Pilates.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Altamira, 30 bajo",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Paseo Altamira, 30 bajo, 39005, Santander"
+        },
+        "telefono": "942280529",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:30 - 20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.comlpages/D%C3%A1vila-Fisioterapia-y-Pilates/435087023207813",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4686745,
+        "longitude": -3.7932315
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/eleganzza",
+        "nombre": "ELEGANZZA",
+        "descripcion": "Centro médico de estética integral.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Tetuán, 36",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Calle Tetuán, 36, 39004, Santander"
+        },
+        "telefono": "671846810",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/eleganzzasantander"
+        },
+        "latitude": 43.465986,
+        "longitude": -3.7929716
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/dental-company-santander",
+        "nombre": "DENTAL COMPANY SANTANDER",
+        "descripcion": "Tratamiento dental.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Hernán Cortés, 30",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle Hernán Cortés, 30, 39003, Santander"
+        },
+        "telefono": "942220195",
+        "web": "https://dentalcompany.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-14:00",
+                "tarde": "15:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/dentalcompany",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/dental_company/"
+        },
+        "latitude": 43.4630013,
+        "longitude": -3.7989175
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/dental23-castilla",
+        "nombre": "DENTAL23. CASTILLA",
+        "descripcion": "Centro especializado en salud y estética dental.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Castilla, 53",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Castilla, 53, 39009, Santander"
+        },
+        "telefono": "942141020",
+        "web": "http://www.dental23.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-13:00",
+                "tarde": "16:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/Dental23/",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4555458,
+        "longitude": -3.8174982
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/dental-davila",
+        "nombre": "DENTAL DAVILA",
+        "descripcion": "Clínica dental.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Altamira, 240",
+            "codigo_postal": "39006",
+            "ciudad": "Santander",
+            "completa": "Paseo Altamira, 240, 39006, Santander"
+        },
+        "telefono": "942078081",
+        "web": "https://dentaldavila.es",
+        "horarios": {
+            "Lunes - Jueves": {
+                "manana": "8:30",
+                "tarde": "-20:30"
+            },
+            "Viernes": {
+                "manana": "8:30",
+                "tarde": "16:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/dental.davila",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/dentaldavilaysolares/"
+        },
+        "latitude": 43.4665849,
+        "longitude": -3.8161348
+    },
+    {
+        "url": "https://www.comerciosantander.com/dental23-1",
+        "nombre": "DENTAL23. JUAN XXIII",
+        "descripcion": "Centro especializado en salud y estética dental.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Juan XXIII, 17",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Juan XXIII, 17, 39001, Santander"
+        },
+        "telefono": "942148783",
+        "web": "http://www.dental23.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-13:00",
+                "tarde": "16:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.465144,
+        "longitude": -3.8132169
+    },
+    {
+        "url": "https://www.comerciosantander.com/europa-optica",
+        "nombre": "EUROPA OPTICA",
+        "descripcion": "Venta de gafas de sol, graduadas y lentillas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Burgos, 8",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Calle Burgos, 8, 39008, Santander"
+        },
+        "telefono": "942375215",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:30 - 20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/europaoptica/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.461568,
+        "longitude": -3.8148702
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/fine-fisioterapia",
+        "nombre": "FINE FISIOTERAPIA",
+        "descripcion": "Centro de fisioterapia.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Altamira, 180",
+            "codigo_postal": "39006",
+            "ciudad": "Santander",
+            "completa": "Paseo Altamira, 180, 39006, Santander"
+        },
+        "telefono": "678767641",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:00-13:00",
+                "tarde": "16:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4676156,
+        "longitude": -3.8088989
+    },
+    {
+        "url": "https://www.comerciosantander.com/federopticos-de-la-llama",
+        "nombre": "FEDEROPTICOS DE LA LLAMA",
+        "descripcion": "Optica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Lealtad, 3",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Lealtad, 3, 39002, Santander"
+        },
+        "telefono": "942225465",
+        "web": "http://www.federopticos.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:40-13:15",
+                "tarde": "16:30-20:00"
+            },
+            "Sábado": {
+                "manana": "10:00-13:35",
+                "tarde": "17:00-20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/federopticos",
+            "twitter": "https://twitter.com/federopticos",
+            "instagram": "https://www.instagram.com/federopticos_oficial/"
+        },
+        "latitude": 43.4604763,
+        "longitude": -3.8080717
+    },
+    {
+        "url": "https://www.comerciosantander.com/federopticos-fos",
+        "nombre": "FEDEROPTICOS FOS",
+        "descripcion": "Artículos de óptica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Pereda, 32",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Paseo Pereda, 32, 39004, Santander"
+        },
+        "telefono": "942314113",
+        "web": "http://www.federopticos.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/federopticos",
+            "twitter": "https://twitter.com/federopticos",
+            "instagram": "https://www.instagram.com/federopticos_oficial/"
+        },
+        "latitude": 43.4624484,
+        "longitude": -3.7987368
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/fisiopilates-irene-amantegui",
+        "nombre": "FISIOPILATES IRENE AMANTEGUI",
+        "descripcion": "Fisioterapia. Pilates (Horario sujeto a cita previa)",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Los Encinares, 10",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Los Encinares, 10, 39011, Santander"
+        },
+        "telefono": "942058850",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:00-13:00",
+                "tarde": "15:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/fican-fisioterapia-cantabria",
+        "nombre": "FICAN FISIOTERAPIA CANTABRIA",
+        "descripcion": "Fisioterapia.Horario sujeto a cita previa.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda San Martín del Pino, 23-14",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Avda San Martín del Pino, 23-14, 39011, Santander"
+        },
+        "telefono": "680260225",
+        "web": "http://www.ficanfisioterapia.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:00",
+                "tarde": "16:30 - 20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/ficanfisioterapia/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/fican_fisioterapiacantabria/"
+        },
+        "latitude": 43.4456503,
+        "longitude": -3.846775
+    },
+    {
+        "url": "https://www.comerciosantander.com/fisioclinic-patricia-sarabia",
+        "nombre": "FISIOCLINIC PATRICIA SARABIA",
+        "descripcion": "Servicio de fisioterapia.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda Doctor Diego Madrazo, 4",
+            "codigo_postal": "39012",
+            "ciudad": "Santander",
+            "completa": "Avda Doctor Diego Madrazo, 4, 39012, Santander"
+        },
+        "telefono": "942390441",
+        "web": "http://www.fisioclinicps.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:00",
+                "tarde": "16:00 - 20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/fisio-pilates-vazquez-barrado",
+        "nombre": "FISIO PILATES VAZQUEZ & BARRADO",
+        "descripcion": "Fisio pilates.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Juan de Santander, 8",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Juan de Santander, 8, 39009, Santander"
+        },
+        "telefono": "640694434",
+        "web": "https://vazquezybarrado.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:00-13:00",
+                "tarde": "16:00-21:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/p/V%C3%A1zquez-Barrado-Fisioterapia-y-Osteopat%C3%ADa-100063789333057/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/fisioterapiavazquezybarrado/"
+        },
+        "latitude": 43.4558535,
+        "longitude": -3.8155362
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/fisioterapia-diego-romaña",
+        "nombre": "FISIOTERAPIA DIEGO ROMAÑA",
+        "descripcion": "Fisioterapia y osteopatía. (Los sábados están sujetos a cita previa).",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Alta, 88",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Calle Alta, 88, 39008, Santander"
+        },
+        "telefono": "660102903",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-14:00",
+                "tarde": "16:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/clinicadiegoromana/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/diegoromanagarcia/"
+        },
+        "latitude": 43.4582123,
+        "longitude": -3.8248578
+    },
+    {
+        "url": "https://www.comerciosantander.com/fisioguevara",
+        "nombre": "FISIOGUEVARA",
+        "descripcion": "Clínica de Fisioterapia. Fisioterapeuta Osteópata.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Guevara, 19",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Guevara, 19, 39001, Santander"
+        },
+        "telefono": "942362247",
+        "web": "http://www.fisioguevara.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:00 - 13:00",
+                "tarde": "16:00 - 21:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4637562,
+        "longitude": -3.8081031
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/fisioterapia-aremar",
+        "nombre": "FISIOTERAPIA AREMAR",
+        "descripcion": "Fisioterapia.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Castilla, 93",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Castilla, 93, 39009, Santander"
+        },
+        "telefono": "616876058",
+        "web": "https://fisioterapiaaremar.es",
+        "horarios": {
+            "Lunes - Jueves": {
+                "manana": "9:00-13:00",
+                "tarde": "16:00-21:00"
+            },
+            "Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4533009,
+        "longitude": -3.8245148
+    },
+    {
+        "url": "https://www.comerciosantander.com/fit-estudio-santander",
+        "nombre": "FIT ESTUDIO SANTANDER",
+        "descripcion": "Electroestimulación unisex.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Francisco Tomás y Valiente, 9-E",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Francisco Tomás y Valiente, 9-E, 39011, Santander"
+        },
+        "telefono": "942765757",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/Efit-estudio-Santander-507253932712168/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4387051,
+        "longitude": -3.8405279
+    },
+    {
+        "url": "https://www.comerciosantander.com/fisioterapia-puertochico-scp",
+        "nombre": "FISIOTERAPIA PUERTOCHICO S.C.P.",
+        "descripcion": "Servicio de fisioterapia.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Juan de la Cosa, 5",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Calle Juan de la Cosa, 5, 39004, Santander"
+        },
+        "telefono": "942075454",
+        "web": "http://www.fisioterapiapuertochico.es",
+        "horarios": {
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/clinicafisioterapiapuertochico/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.2631465,
+        "longitude": -4.0635046
+    },
+    {
+        "url": "https://www.comerciosantander.com/fisiovalle",
+        "nombre": "FISIOVALLE",
+        "descripcion": "Fisioterapia y osteopatía.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Altamira, 62",
+            "codigo_postal": "39006",
+            "ciudad": "Santander",
+            "completa": "Paseo Altamira, 62, 39006, Santander"
+        },
+        "telefono": "942049155",
+        "web": "http://www.fisiovalle.es",
+        "horarios": {
+            "Lunes": {},
+            "Martes - Viernes": {
+                "manana": "09:00 - 14:00",
+                "tarde": "17:00 - 21:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/Fisiovalle.Fisioterapia/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.468486,
+        "longitude": -3.798778
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/gaes-amplifon-isabel-la-catolica",
+        "nombre": "GAES AMPLIFON. ISABEL LA CATOLICA",
+        "descripcion": "Centro auditivo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Isabel la Católica, 3",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Calle Isabel la Católica, 3, 39007, Santander"
+        },
+        "telefono": "942241110",
+        "web": "http://www.gaes.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:10 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/GAESCentrosAuditivos",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.461943,
+        "longitude": -3.8143107
+    },
+    {
+        "url": "https://www.comerciosantander.com/gafases",
+        "nombre": "GAFAS.ES",
+        "descripcion": "Optica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Calderón de la Barca, 14",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Calderón de la Barca, 14, 39002, Santander"
+        },
+        "telefono": "942310066",
+        "web": "https://www.gafas.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:30-14:30",
+                "tarde": "16:30-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4590904,
+        "longitude": -3.8090493
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/gaes-amplifon-san-fernando",
+        "nombre": "GAES AMPLIFON. SAN FERNANDO",
+        "descripcion": "Aparatos médicos auditivos.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Fernando, 86",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle San Fernando, 86, 39010, Santander"
+        },
+        "telefono": "942237188",
+        "web": "http://www.gaes.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-14:00",
+                "tarde": "16:00-19:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/GAESCentrosAuditivos",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4588532,
+        "longitude": -3.8259683
+    },
+    {
+        "url": "https://www.comerciosantander.com/fisioterapia-vazquez-barrado",
+        "nombre": "FISIOTERAPIA VAZQUEZ & BARRADO",
+        "descripcion": "Fisioterapia. Osteopatía.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Juan de Santander, 2",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Juan de Santander, 2, 39009, Santander"
+        },
+        "telefono": "942361864",
+        "web": "http://www.vazquezybarrado.com",
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://m.facebook.com/p/V%C3%A1zquez-Barrado-Fisioterapia-y-Osteopat%C3%ADa-100063789333057/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/fisioterapiavazquezybarrado/"
+        },
+        "latitude": 43.4563214,
+        "longitude": -3.8157798
+    },
+    {
+        "url": "https://www.comerciosantander.com/german-zubeldia-optico",
+        "nombre": "GERMAN ZUBELDIA OPTICO",
+        "descripcion": "Optica y ayuda visual para baja visión. Somos especialistas en artículos de ayuda en baja visión.Premio al comercio Rehabilita año 2006.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Rualasal, 7",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Rualasal, 7, 39001, Santander"
+        },
+        "telefono": "942229845",
+        "web": "https://opticasantanderzubeldia.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:15",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4628527,
+        "longitude": -3.807084
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/ines-iglesias-odontología-medicina-estética",
+        "nombre": "INES IGLESIAS Odontología & Medicina estética",
+        "descripcion": "Clínica dental. Medicina estética.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Castelar, 43",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Calle Castelar, 43, 39004, Santander"
+        },
+        "telefono": "942284433",
+        "web": "https://clinicadentalinesiglesias.com",
+        "horarios": {
+            "Lunes - Miércoles": {
+                "manana": "9:30-13:30",
+                "tarde": "16:00-20:00"
+            },
+            "Jueves y Viernes": {
+                "manana": "9:00",
+                "tarde": "-17:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/ClinicaDentalInesIglesias",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/dentalinesiglesias/"
+        },
+        "latitude": 43.4631517,
+        "longitude": -3.7913715
+    },
+    {
+        "url": "https://www.comerciosantander.com/general-optica",
+        "nombre": "GENERAL OPTICA",
+        "descripcion": "Marca líder de la óptica en España.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Amós de Escalante, 10",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Amós de Escalante, 10, 39002, Santander"
+        },
+        "telefono": "942313931",
+        "web": "http://www.generaloptica.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/generaloptica",
+            "twitter": "https://twitter.com/generaloptica",
+            "instagram": "https://www.instagram.com/generaloptica/"
+        },
+        "latitude": 43.4619981,
+        "longitude": -3.8115989
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/hector-pellon-estudio-dental",
+        "nombre": "HECTOR PELLON ESTUDIO DENTAL",
+        "descripcion": "Clínica dental.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cardenal Cisneros, 34",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Cardenal Cisneros, 34, 39001, Santander"
+        },
+        "telefono": "942221289",
+        "web": "http://www.hectorpellonestudiodental.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:00-13:30",
+                "tarde": "15:30-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/dentalpellonyceballos/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/hectorpellonestudiodental/"
+        },
+        "latitude": 43.4633947,
+        "longitude": -3.8128459
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/gaes-amplifon-rualasal",
+        "nombre": "GAES AMPLIFON. RUALASAL",
+        "descripcion": "Centro auditivo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Rualasal, 9",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Rualasal, 9, 39001, Santander"
+        },
+        "telefono": "942318470",
+        "web": "http://www.gaes.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:10 - 20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/GAESCentrosAuditivos",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4628553,
+        "longitude": -3.8068691
+    },
+    {
+        "url": "https://www.comerciosantander.com/la-cachavuca",
+        "nombre": "LA CACHAVUCA",
+        "descripcion": "Venta de artículos ortopédicos. Ayudas técnicas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Vargas, 57-E",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Vargas, 57-E, 39010, Santander"
+        },
+        "telefono": "942322005",
+        "web": "http://www.lacachavuca.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/lacachavuca/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4591909,
+        "longitude": -3.822879
+    },
+    {
+        "url": "https://www.comerciosantander.com/la-tienda-de-yaya",
+        "nombre": "LA TIENDA DE YAYA",
+        "descripcion": "Venta de aparatos médicos y ortopédicos para mayores.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cervantes, 27",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Cervantes, 27, 39001, Santander"
+        },
+        "telefono": "942075859",
+        "web": "http://www.latiendadeyaya.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4638563,
+        "longitude": -3.8112343
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/navoptica-isabel-ii",
+        "nombre": "NAVOPTICA. ISABEL II",
+        "descripcion": "Optica y optometría.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Isabel II, 10",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Isabel II, 10, 39002, Santander"
+        },
+        "telefono": "942064571",
+        "web": "http://www.navoptica.es",
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/NavOptica/",
+            "twitter": "https://twitter.com/navoptica",
+            "instagram": "https://www.instagram.com/navoptica/"
+        },
+        "latitude": 43.4607838,
+        "longitude": -3.8093913
+    },
+    {
+        "url": "https://www.comerciosantander.com/navoptica",
+        "nombre": "NAVOPTICA",
+        "descripcion": "Optica y optometría.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Burgos, 16",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Calle Burgos, 16, 39008, Santander"
+        },
+        "telefono": "942759527",
+        "web": "http://www.navoptica.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:45-13:30",
+                "tarde": "16:30-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/NavOptica/",
+            "twitter": "https://twitter.com/navoptica",
+            "instagram": "https://www.instagram.com/navoptica/"
+        },
+        "latitude": 43.4615007,
+        "longitude": -3.8155295
+    },
+    {
+        "url": "https://www.comerciosantander.com/multiopticas-ludy",
+        "nombre": "MULTIOPTICAS LUDY",
+        "descripcion": "Optica oftalmológica. Lupas, barómetros, prismáticos, telescópios, microscopios, podómetros, altímetros.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Jesús de Monasterio, 3",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Calle Jesús de Monasterio, 3, 39008, Santander"
+        },
+        "telefono": "942210130",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:15",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/%C3%93pticas-LUDY-764611593640752/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/optica-inigo-el-alisal",
+        "nombre": "OPTICA IÑIGO. EL ALISAL",
+        "descripcion": "Optica y audiología.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Los Ciruelos, 37",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Los Ciruelos, 37, 39011, Santander"
+        },
+        "telefono": "942766750",
+        "web": "http://www.opticalia.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/OPTICALIAGRUPO",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/opticalia/"
+        },
+        "latitude": 43.4578781,
+        "longitude": -3.8538721
+    },
+    {
+        "url": "https://www.comerciosantander.com/optica-inigo",
+        "nombre": "OPTICA IÑIGO. EMILIO PINO",
+        "descripcion": "Optica y Audiología.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Emilio Pino, 4",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Emilio Pino, 4, 39002, Santander"
+        },
+        "telefono": "942225513",
+        "web": "http://www.opticalia.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "17:00 - 20:15"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/OPTICALIAGRUPO",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/opticalia/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/md-fisioterapia-y-pilates",
+        "nombre": "MD FISIOTERAPIA Y PILATES",
+        "descripcion": "Fisioterapia y pilates.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Universidad, 11",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Calle Universidad, 11, 39005, Santander"
+        },
+        "telefono": "653813174",
+        "web": "https://www.mdfisioterapiaypilates.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:00-13:00",
+                "tarde": "16:30-20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4704367,
+        "longitude": -3.796575
+    },
+    {
+        "url": "https://www.comerciosantander.com/nova-dent",
+        "nombre": "NOVA DENT",
+        "descripcion": "Clínica dental.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cardenal Cisneros, 17",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Cardenal Cisneros, 17, 39001, Santander"
+        },
+        "telefono": "942285694",
+        "web": "http://www.novadentsantander.es",
+        "horarios": {
+            "Lunes - Jueves": {
+                "manana": "9:00-13:00",
+                "tarde": "16:30-20:30"
+            },
+            "Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/NOVADENT.SANTANDER",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4632828,
+        "longitude": -3.812924
+    },
+    {
+        "url": "https://www.comerciosantander.com/optica-sur",
+        "nombre": "OPTICA SUR",
+        "descripcion": "Optica multimarca.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San José, 20",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle San José, 20, 39003, Santander"
+        },
+        "telefono": "942365064",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "17:00 - 20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/opticasursantander/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4629857,
+        "longitude": -3.8055569
+    },
+    {
+        "url": "https://www.comerciosantander.com/nueva-vision",
+        "nombre": "NUEVA VISION",
+        "descripcion": "Optica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Calvo Sotelo, 6",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Calvo Sotelo, 6, 39002, Santander"
+        },
+        "telefono": "942215928",
+        "web": "https://optica-nuevavision.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 14:00",
+                "tarde": "17:00 - 20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/NuViOp/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/nuevavision__optica/"
+        },
+        "latitude": 43.4613281,
+        "longitude": -3.8096769
+    },
+    {
+        "url": "https://www.comerciosantander.com/optica-urbi",
+        "nombre": "OPTICA URBI",
+        "descripcion": "Optica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Calvo Sotelo, 6",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Calvo Sotelo, 6, 39002, Santander"
+        },
+        "telefono": "942212009",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4613281,
+        "longitude": -3.8096769
+    },
+    {
+        "url": "https://www.comerciosantander.com/ortopedia-luis-gallego",
+        "nombre": "ORTOPEDIA LUIS GALLEGO",
+        "descripcion": "Artículos ortopédicos y ayudas técnicas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Perines, 17",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Calle Perines, 17, 39007, Santander"
+        },
+        "telefono": "942232075",
+        "web": "http://www.ortopedialuisgallego.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 14:00",
+                "tarde": "16:30 - 20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/pages/Ortopedia-Luis-Gallego/532568660247906",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.461017,
+        "longitude": -3.822329
+    },
+    {
+        "url": "https://www.comerciosantander.com/optica-samot",
+        "nombre": "OPTICA SAMOT",
+        "descripcion": "Optica.Premio al Comercio Trayectoria 2016.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Francisco, 13",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle San Francisco, 13, 39002, Santander"
+        },
+        "telefono": "942212456",
+        "web": "http://www.samot.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:45 - 13:15",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/opticasamot/"
+        },
+        "latitude": 43.4618801,
+        "longitude": -3.8083429
+    },
+    {
+        "url": "https://www.comerciosantander.com/optica-pereda",
+        "nombre": "OPTICA PEREDA",
+        "descripcion": "Optica. Optometrista.Premio al comercio Rehabilita 2019.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Pereda, 22",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Paseo Pereda, 22, 39004, Santander"
+        },
+        "telefono": "942096522",
+        "web": null,
+        "horarios": {
+            "Lunes - Jueves": {
+                "manana": "10:00-14:00",
+                "tarde": "16:30-20:00"
+            },
+            "Viernes": {},
+            "Sábado": {
+                "manana": "10:00-14:00",
+                "tarde": "17:00-20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/OpticaPereda/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4622456,
+        "longitude": -3.800873
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/optica-union",
+        "nombre": "OPTICA UNION",
+        "descripcion": "Optica y audiología.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Marqués de la Hermida, 36",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Marqués de la Hermida, 36, 39009, Santander"
+        },
+        "telefono": "942216857",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:45 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/opticasunion/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/opticaunion/"
+        },
+        "latitude": 43.4541628,
+        "longitude": -3.8185253
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/ortopedia-mimar-t",
+        "nombre": "ORTOPEDIA MIMAR-T",
+        "descripcion": "Ortopedia. Accesibilidad. Ayudas técnicas. Adaptaciones. Vigilancia.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Nicolas Salmerón, 8",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Nicolas Salmerón, 8, 39009, Santander"
+        },
+        "telefono": "942407422",
+        "web": "http://www.mimar-t.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-13:30",
+                "tarde": "16:30-20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/mimar-t.com",
+            "twitter": "https://twitter.com/mimar-t",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4567934,
+        "longitude": -3.8121879
+    },
+    {
+        "url": "https://www.comerciosantander.com/ortored",
+        "nombre": "ORTORED",
+        "descripcion": "Ortopedia Técnica · Productos de Apoyo · Elevadores y Salvaescaleras · Servicio Técnico.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Marqués de la Hermida, 44 (Plaza Dionisio Ridruejo)",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Marqués de la Hermida, 44 (Plaza Dionisio Ridruejo), 39009, Santander"
+        },
+        "telefono": "942052238",
+        "web": "http://www.ortored.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:00 - 19:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/OrtoredSpain/",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/ortopedia-tecnica-valdecilla",
+        "nombre": "ORTOPEDIA TECNICA VALDECILLA",
+        "descripcion": "En Ortopedia técnica Valdecilla tenemos un serio compromiso con la situación actual, además de abogar por la calidad y accesibilidad para todos.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Valentín Lavín Casalís, 12",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Valentín Lavín Casalís, 12, 39010, Santander"
+        },
+        "telefono": "942188015",
+        "web": "http://ortopediavaldecilla.es/",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-14:00",
+                "tarde": "16:30-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/ortopediavaldecilla",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "https://www.instagram.com/ortopediavaldecilla/"
+        },
+        "latitude": 43.4593439,
+        "longitude": -3.8267953
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/palestra-santander",
+        "nombre": "PALESTRA SANTANDER",
+        "descripcion": "Fisioterapia. Entrenamiento personal.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Plaza Ruben Darío S/N (edificio Feygón)",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Plaza Ruben Darío S/N (edificio Feygón), 39005, Santander"
+        },
+        "telefono": "644969340",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "7:00-13:00",
+                "tarde": "17:00-21:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/aldokine/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/oral-medical-center",
+        "nombre": "ORAL MEDICAL CENTER",
+        "descripcion": "Clínica Odontológica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Canalejas, 73",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Calle Canalejas, 73, 39004, Santander"
+        },
+        "telefono": "942071757",
+        "web": "http://www.clinicadentaloralmedicalcenter.es",
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4657115,
+        "longitude": -3.7881308
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/principia-soluciones-domiciliarias",
+        "nombre": "PRINCIPIA SOLUCIONES DOMICILIARIAS",
+        "descripcion": "Servicios de ayuda a domicilio: personas mayores, dependientes, niños, limpieza del hogar y mascotas. (Horario sujeto a cita previa 24H).",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Valentín Lavín Casalís, 6",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Valentín Lavín Casalís, 6, 39010, Santander"
+        },
+        "telefono": "942088583",
+        "web": "https://www.principiadomicilio.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30",
+                "tarde": "-17:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/people/principia_soluciones/100092291172847/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/principia_soluciones/"
+        },
+        "latitude": 43.4593439,
+        "longitude": -3.8267953
+    },
+    {
+        "url": "https://www.comerciosantander.com/ortopedia-tecnica-manuel-gutierrez",
+        "nombre": "ORTOPEDIA TECNICA MANUEL GUTIERREZ",
+        "descripcion": "Ortopedia.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda Valdecilla, 2",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Avda Valdecilla, 2, 39010, Santander"
+        },
+        "telefono": "942323995",
+        "web": "https://codelnortesl.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:00 - 13:30",
+                "tarde": "16:30 - 20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4547386,
+        "longitude": -3.8314892
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/ortopedia-monica-martinez",
+        "nombre": "ORTOPEDIA MONICA MARTINEZ",
+        "descripcion": "Ortopedia.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Los Ciruelos, 27",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Los Ciruelos, 27, 39011, Santander"
+        },
+        "telefono": "942323789",
+        "web": null,
+        "horarios": {
+            "Lunes - Domingo": {
+                "manana": "8:30",
+                "tarde": "-23:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/farmaciruelos/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4581512,
+        "longitude": -3.8524562
+    },
+    {
+        "url": "https://www.comerciosantander.com/podosalud",
+        "nombre": "PODOSALUD",
+        "descripcion": "Centro clínico especializado.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Valliciergo, 7",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle Valliciergo, 7, 39003, Santander"
+        },
+        "telefono": "942378175",
+        "web": "http://www.podosaludsantander.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-13:30",
+                "tarde": "16:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4647628,
+        "longitude": -3.8003789
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/soloptical-jesus-de-monasterio",
+        "nombre": "SOLOPTICAL. JESUS DE MONASTERIO",
+        "descripcion": "Optica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Jesús de Monasterio, 15",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Calle Jesús de Monasterio, 15, 39008, Santander"
+        },
+        "telefono": "677110347",
+        "web": "https://soloptical.net/es/opticas-en-santander",
+        "horarios": {
+            "Lunes - Sábado": {
+                "manana": "10:00-14:00",
+                "tarde": "16:30-20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/Soloptical/",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "https://www.instagram.com/soloptical/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/pelostop",
+        "nombre": "PELOSTOP",
+        "descripcion": "Clínica Médica. Depilación por Láser.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cádiz, 14",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Cádiz, 14, 39002, Santander"
+        },
+        "telefono": "942224237",
+        "web": "http://www.pelostop.com",
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/grupostopbypelostop/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/grupostop_bypelostop/"
+        },
+        "latitude": 43.4601518,
+        "longitude": -3.8074521
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/teresa-rodriguez-clinica-dental",
+        "nombre": "TERESA RODRIGUEZ CLINICA DENTAL",
+        "descripcion": "Clínica dental.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda José Hierro, 28",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Avda José Hierro, 28, 39007, Santander"
+        },
+        "telefono": "942348403",
+        "web": null,
+        "horarios": {
+            "Lunes y Miércoles": {
+                "manana": "9:30-14:30",
+                "tarde": "15:30-18:00"
+            },
+            "Martes y Jueves": {
+                "manana": "9:30-13:30",
+                "tarde": "16:30-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/technical-audio",
+        "nombre": "TECHNICAL AUDIO",
+        "descripcion": "Centro auditivo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Rualasal, 11",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Rualasal, 11, 39001, Santander"
+        },
+        "telefono": "942795590",
+        "web": "https://www.technicalaudio.es",
+        "horarios": {
+            "Lunes - Jueves": {
+                "manana": "9:00-14:00",
+                "tarde": "16:00-19:00"
+            },
+            "Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/people/Technical-AUDIO/61556678740139/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/c_a_technical_audio/"
+        },
+        "latitude": 43.4628639,
+        "longitude": -3.8067079
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/promet-fisioterapia",
+        "nombre": "PROMET FISIOTERAPIA",
+        "descripcion": "Fisioterapia. Podología. Pilates. (Los sábados atendemos con cita previa).",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda de Cantabria, 24",
+            "codigo_postal": "39012",
+            "ciudad": "Santander",
+            "completa": "Avda de Cantabria, 24, 39012, Santander"
+        },
+        "telefono": "606632736",
+        "web": "https://prometsalud.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "8:30",
+                "tarde": "-20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/people/Promet-Salud/100084289797402",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/prometsantander"
+        },
+        "latitude": 43.4784559,
+        "longitude": -3.7958807
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/saltium",
+        "nombre": "SALTIUM",
+        "descripcion": "Clínica médica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Hermanos Calderón, 22",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Hermanos Calderón, 22, 39011, Santander"
+        },
+        "telefono": "609656067",
+        "web": "https://www.saltium.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-14:00",
+                "tarde": "16:00-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/Haloterapia.Saltium",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "https://www.instagram.com/saltium_haloterapia/"
+        },
+        "latitude": 43.4425196,
+        "longitude": -3.8542135
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/vitaldent",
+        "nombre": "VITALDENT",
+        "descripcion": "Clínica estética dental.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Calvo Sotelo, 6",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Calvo Sotelo, 6, 39002, Santander"
+        },
+        "telefono": "942318867",
+        "web": "https://clinicas.vitaldent.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "8:30",
+                "tarde": "-20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/VitaldentEspana/",
+            "twitter": "https://twitter.com/vitaldent_es",
+            "instagram": "https://www.instagram.com/vitaldent_es/"
+        },
+        "latitude": 43.4613281,
+        "longitude": -3.8096769
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/soloptical-cc-peñacastillo",
+        "nombre": "SOLOPTICAL. C.C. PEÑACASTILLO",
+        "descripcion": "Optica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "C.C. Peñascatillo",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "C.C. Peñascatillo, 39011, Santander"
+        },
+        "telefono": "672648692",
+        "web": "https://soloptical.net/es/opticas-en-santander",
+        "horarios": {
+            "Lunes - Sábado": {
+                "manana": "10:00",
+                "tarde": "-22:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/Soloptical/",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "https://www.instagram.com/soloptical/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/wayalia",
+        "nombre": "WAYALIA",
+        "descripcion": "Cuidado de mayores y personas dependientes.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Alta, 75",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Calle Alta, 75, 39008, Santander"
+        },
+        "telefono": "942821553",
+        "web": "https://wayalia.es/cuidado-personas-mayores-santander",
+        "horarios": {
+            "Lunes - Jueves": {
+                "manana": "9:00",
+                "tarde": "-18:00"
+            },
+            "Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/wayalia/",
+            "twitter": "https://twitter.com/wayalia_es",
+            "instagram": "https://www.instagram.com/wayalia_es/"
+        },
+        "latitude": 43.4589582,
+        "longitude": -3.8174585
+    },
+    {
+        "url": "https://www.comerciosantander.com/varli-optica",
+        "nombre": "VARLI OPTICA",
+        "descripcion": "Optica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Pereda, 4",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Paseo Pereda, 4, 39004, Santander"
+        },
+        "telefono": "942224440",
+        "web": "http://www.opticavarli.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 14:00",
+                "tarde": "17:00 - 20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4617817,
+        "longitude": -3.8047269
+    },
+    {
+        "url": "https://www.comerciosantander.com/vivanta",
+        "nombre": "VIVANTA",
+        "descripcion": "Medicina estética. Odontología.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Isabel II, 21",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Isabel II, 21, 39002, Santander"
+        },
+        "telefono": "942313800",
+        "web": "http://www.vivanta.es",
+        "horarios": {
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/vivantadentalEspana/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/vivantadental/"
+        },
+        "latitude": 43.4602828,
+        "longitude": -3.8089179
+    },
+    {
+        "url": "https://www.comerciosantander.com/visionlab",
+        "nombre": "VISIONLAB",
+        "descripcion": "Bienvenido a VISIONLAB, con el servicio más especializado y la última tecnología podrás tener tus gafas graduadas en 1 hora.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Jesús de Monasterio, 8",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Jesús de Monasterio, 8, 39010, Santander"
+        },
+        "telefono": "942362836",
+        "web": "http://www.visionlab.es",
+        "horarios": {
+            "Lunes - Sábado": {
+                "manana": "10:00 - 14:00",
+                "tarde": "16:30 - 20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/VisionlabSA",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/visionlab_/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/vitaldent-santander-san-fernando",
+        "nombre": "VITALDENT SANTANDER. SAN FERNANDO",
+        "descripcion": "Clínica dental. (Horario sujetro a cita previa).",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Fernando, 64",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle San Fernando, 64, 39010, Santander"
+        },
+        "telefono": "942241508",
+        "web": "https://clinicas.vitaldent.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-14:00",
+                "tarde": "17:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/VitaldentEspana/",
+            "twitter": "https://twitter.com/vitaldent_es",
+            "instagram": "https://www.instagram.com/vitaldent_es/"
+        },
+        "latitude": 43.4593132,
+        "longitude": -3.8241634
+    }
+]

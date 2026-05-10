@@ -1,0 +1,2909 @@
+[
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/academia-boxeo-boxcan",
+        "nombre": "ACADEMIA BOXEO BOXCAN",
+        "descripcion": "Academia de boxeo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Isla del Oleo, 52",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Isla del Oleo, 52, 39011, Santander"
+        },
+        "telefono": "647323840",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-11:00",
+                "tarde": "17:00-21:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/academiaboxcan/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/agosti-xtrem-sport",
+        "nombre": "AGOSTI XTREM SPORT",
+        "descripcion": "Tienda de deportes. Esquí y montaña.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda José Hierro, 24",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Avda José Hierro, 24, 39007, Santander"
+        },
+        "telefono": "942056569",
+        "web": "http://www.agostixtreme.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/profile.php",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/airbox-human-performance-center",
+        "nombre": "AIRBOX HUMAN PERFORMANCE CENTER",
+        "descripcion": "Entrenamiento funcional. Acrobacias.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Marqués de la Ensenada, 11",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Marqués de la Ensenada, 11, 39009, Santander"
+        },
+        "telefono": "942210457",
+        "web": "https://airboxsantander.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:00 - 16:00",
+                "tarde": "18:00 - 22:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/airboxsantander",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/airbox_santander/"
+        },
+        "latitude": 43.452655,
+        "longitude": -3.8159066
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/2-ruedas-santander",
+        "nombre": "2 RUEDAS SANTANDER",
+        "descripcion": "Venta. Taller. Experiencias en viajes y rutas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Bajada de San Juan, 36",
+            "codigo_postal": "39012",
+            "ciudad": "Santander",
+            "completa": "Bajada de San Juan, 36, 39012, Santander"
+        },
+        "telefono": "659030108",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-14:00",
+                "tarde": "17:00-20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/2_ruedas_santander/"
+        },
+        "latitude": 43.4669408,
+        "longitude": -3.8226404
+    },
+    {
+        "url": "https://www.comerciosantander.com/ab-bike",
+        "nombre": "AB BIKE",
+        "descripcion": "Bicicletas Montain Bike para todas las edades y presupuestos.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Altamira, 240",
+            "codigo_postal": "39006",
+            "ciudad": "Santander",
+            "completa": "Paseo Altamira, 240, 39006, Santander"
+        },
+        "telefono": "942321111",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/AB-BIKE-496967483805828/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4665849,
+        "longitude": -3.8161348
+    },
+    {
+        "url": "https://www.comerciosantander.com/armeria-san-martin",
+        "nombre": "ARMERIA SAN MARTIN",
+        "descripcion": "Ropa y complementos para el deporte de la pesca y caza.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Castilla, 1",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Castilla, 1, 39002, Santander"
+        },
+        "telefono": "942222687",
+        "web": "https://armeria-san-martin.negocio.site",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-13:30",
+                "tarde": "17:00-20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/armeriasanmartin/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/armeriasanmartin/"
+        },
+        "latitude": 43.458432,
+        "longitude": -3.8088636
+    },
+    {
+        "url": "https://www.comerciosantander.com/airsoft-corsair",
+        "nombre": "AIRSOFT CORSAIR",
+        "descripcion": "Venta de artículos Airsoft.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Magallanes, 43",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Calle Magallanes, 43, 39007, Santander"
+        },
+        "telefono": "942790094",
+        "web": "http://www.airsoftcorsair.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4619248,
+        "longitude": -3.8170002
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/alabe-yoga",
+        "nombre": "ALABE YOGA",
+        "descripcion": "Yoga. Acupuntura japonesa. (Horario sujeto a grupos).",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Canalejas, 70",
+            "codigo_postal": "39004",
+            "completa": "Calle Canalejas, 70, 39004"
+        },
+        "telefono": "616843097",
+        "web": "https://alabeyoga.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:00-15:00",
+                "tarde": "17:30-21:45"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/alabeyoga/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4654167,
+        "longitude": -3.7877829
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/azul-marino-new-travel",
+        "nombre": "AZUL MARINO NEW TRAVEL",
+        "descripcion": "Agencia de viajes.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Miguel Artigas, 6",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Miguel Artigas, 6, 39002, Santander"
+        },
+        "telefono": "942261817",
+        "web": "https://www.viajesazulmarino.com",
+        "horarios": null,
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/azulmarinoviajes",
+            "twitter": "https://twitter.com/azulmarinoviaje",
+            "instagram": "https://www.instagram.com/azulmarinoviajes/"
+        },
+        "latitude": 43.4622641,
+        "longitude": -3.8113745
+    },
+    {
+        "url": "https://www.comerciosantander.com/artym-acarte",
+        "nombre": "ARTYM BY A.C.ARTE",
+        "descripcion": "Tienda de bellas artes y manualidades.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Las Cagigas, 3",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Las Cagigas, 3, 39011, Santander"
+        },
+        "telefono": "942079626",
+        "web": "https://artym.es",
+        "horarios": {
+            "Lunes - Miércoles": {},
+            "Lunes - Viernes": {},
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/ArtymACarte/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/artym_by_acarte/"
+        },
+        "latitude": 43.456248,
+        "longitude": -3.8546475
+    },
+    {
+        "url": "https://www.comerciosantander.com/b-travel-brand",
+        "nombre": "B THE TRAVEL BRAND",
+        "descripcion": "Agencia de Viajes.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cervantes, 10",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Cervantes, 10, 39001, Santander"
+        },
+        "telefono": "942214004",
+        "web": "http://www.bthetravelbrand.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/bthetravelbrand",
+            "twitter": "https://twitter.com/bthetravelbrand",
+            "instagram": "https://www.instagram.com/bthetravelbrand/"
+        },
+        "latitude": 43.4627596,
+        "longitude": -3.8113701
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/anytime-fitness-santander",
+        "nombre": "ANYTIME FITNESS SANTANDER",
+        "descripcion": "Gimnasio.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Jose Rioja, 1",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Jose Rioja, 1, 39001, Santander"
+        },
+        "telefono": "690824486",
+        "web": "https://www.anytimefitness.es/gimnasio-santander",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "6:00",
+                "tarde": "-2:00"
+            },
+            "Sábado": {
+                "manana": "6:00",
+                "tarde": "-21:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/be-santander-repuente",
+        "nombre": "BE UP SANTANDER. REPUENTE",
+        "descripcion": "Club Deportivo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Repuente, 1",
+            "codigo_postal": "39012",
+            "ciudad": "Santander",
+            "completa": "Calle Repuente, 1, 39012, Santander"
+        },
+        "telefono": "942324802",
+        "web": "https://www.centrosbeup.es/santander",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "7:00",
+                "tarde": "-23:00"
+            },
+            "Sábado": {
+                "manana": "8:30",
+                "tarde": "-22:00"
+            },
+            "Domingo": {
+                "manana": "9:00",
+                "tarde": "-21:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/beupsantander",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/beupsantander/"
+        },
+        "latitude": 43.4693868,
+        "longitude": -3.8261298
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/bicicletas-biga",
+        "nombre": "BICICLETAS BIGA",
+        "descripcion": "Venta y reparación bicicletas y accesorios.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Guevara, 3",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Guevara, 3, 39001, Santander"
+        },
+        "telefono": "942054199",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/bigabicicletas"
+        },
+        "latitude": 43.4638128,
+        "longitude": -3.809879
+    },
+    {
+        "url": "https://www.comerciosantander.com/basico-centro-de-danza",
+        "nombre": "BASICO CENTRO DE DANZA",
+        "descripcion": "Centro de danza.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Plaza de la leña, 3",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Plaza de la leña, 3, 39001, Santander"
+        },
+        "telefono": "942052480",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "11:00-13:00",
+                "tarde": "17:00-21:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/basicodanza/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4636542,
+        "longitude": -3.810866
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/basic-fit",
+        "nombre": "BASIC FIT",
+        "descripcion": "Gimnasio.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Marqués de la Hermida, 24",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Marqués de la Hermida, 24, 39009, Santander"
+        },
+        "telefono": null,
+        "web": "http://www.basic-fit.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "7:00",
+                "tarde": "-22:30"
+            },
+            "Sábado y Domingo": {
+                "manana": "9:00",
+                "tarde": "-16:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/BasicFitEspana/",
+            "twitter": "https://twitter.com/BasicFit_ESP",
+            "instagram": "https://www.instagram.com/basicfites/"
+        },
+        "latitude": 43.4549385,
+        "longitude": -3.8157136
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/borbolla-intersport-guevara",
+        "nombre": "BORBOLLA INTERSPORT. GUEVARA",
+        "descripcion": "Prendas deportivas para señora, caballero, niño.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Guevara, 39",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Guevara, 39, 39001, Santander"
+        },
+        "telefono": "942212471",
+        "web": "http://www.intersport.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:15",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/Intersport.es/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/www.intersport.es/"
+        },
+        "latitude": 43.4639178,
+        "longitude": -3.8043459
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/be-santander-gregorio-marañon",
+        "nombre": "BE UP SANTANDER. GREGORIO MARAÑON",
+        "descripcion": "Club Deportivo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Dr. Gregorio Marañón, S/N",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Calle Dr. Gregorio Marañón, S/N, 39005, Santander"
+        },
+        "telefono": "942324802",
+        "web": "https://www.centrosbeup.es/santander",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "7:00",
+                "tarde": "-23:00"
+            },
+            "Sábado": {
+                "manana": "8:00",
+                "tarde": "-23:00"
+            },
+            "Domingo": {
+                "manana": "9:00",
+                "tarde": "-21:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/beupsantander",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/beupsantander/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/bicicletas-la-pindia",
+        "nombre": "BICICLETAS LA PINDIA",
+        "descripcion": "Venta y taller de bicicletas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda José Hierro, 48",
+            "codigo_postal": "39006",
+            "ciudad": "Santander",
+            "completa": "Avda José Hierro, 48, 39006, Santander"
+        },
+        "telefono": "614260665",
+        "web": "https://www.lapindia.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-13:00",
+                "tarde": "16:30-20:00"
+            },
+            "": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/lapindia/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/black-ball-surf-shop-school",
+        "nombre": "BLACK BALL SURF SHOP @ SCHOOL",
+        "descripcion": "Somos escuela de Surf. Realizamos venta y alquiler de material de Surf.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Panamá S/N",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Calle Panamá S/N, 39005, Santander"
+        },
+        "telefono": "942290163",
+        "web": "http://www.blackballsurf.es",
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Sábado": {},
+            "Lunes - Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4725802,
+        "longitude": -3.7834909
+    },
+    {
+        "url": "https://www.comerciosantander.com/body-and-mind",
+        "nombre": "BODY AND MIND",
+        "descripcion": "Artes marciales. Fiftness.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Peñas Rocías, 11",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Peñas Rocías, 11, 39011, Santander"
+        },
+        "telefono": "942054706",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/bymsantander/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/brooklyn-fitboxing",
+        "nombre": "BROOKLYN FITBOXING",
+        "descripcion": "Gimnasio unisex. Fitboxing.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Guevara, 11",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Guevara, 11, 39001, Santander"
+        },
+        "telefono": "627340123",
+        "web": "https://www.brooklynfitboxing.com",
+        "horarios": {
+            "Lunes y Miércoles": {
+                "manana": "8:00-14:00",
+                "tarde": "16:00-21:00"
+            },
+            "Martes y Jueves": {
+                "manana": "10:00-14:30",
+                "tarde": "16:30-20:30"
+            },
+            "Viernes": {
+                "manana": "10:00-14:00",
+                "tarde": "16:00-19:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/brooklynfitboxing",
+            "twitter": "https://twitter.com/BrooklynFitbox",
+            "instagram": "https://www.instagram.com/brooklynfitboxing/"
+        },
+        "latitude": 43.4637856,
+        "longitude": -3.8089609
+    },
+    {
+        "url": "https://www.comerciosantander.com/centro-danza-armengou",
+        "nombre": "CENTRO DANZA ARMENGOU",
+        "descripcion": "Centro Autorizado de Ballet Clásico y Danza española a partir de 4 años.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Rampa de Sotileza, 1",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Rampa de Sotileza, 1, 39008, Santander"
+        },
+        "telefono": "942222627",
+        "web": "https://armengou.es",
+        "horarios": {
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/CENTRO.AUTORIZADO.DE.DANZA.ARMENGOU/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/cadarmengou/"
+        },
+        "latitude": 43.4600797,
+        "longitude": -3.8102639
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/centro-pilates-azhul",
+        "nombre": "CENTRO PILATES AZHUL",
+        "descripcion": "Centro de Pilates. (Horario sujeto a grupos).",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Los Abedules, 4",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Los Abedules, 4, 39011, Santander"
+        },
+        "telefono": "672266793",
+        "web": null,
+        "horarios": {
+            "Lunes": {},
+            "Martes y Jueves": {},
+            "Miércoles": {},
+            "Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4572944,
+        "longitude": -3.8530794
+    },
+    {
+        "url": "https://www.comerciosantander.com/decimas-cc-el-alisal",
+        "nombre": "DECIMAS. C.C. EL ALISAL",
+        "descripcion": "Moda y calzado deportivo para señora, caballero y niño.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Centro Comercial El Alisal",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Centro Comercial El Alisal, 39011, Santander"
+        },
+        "telefono": "942345772",
+        "web": "http://www.decimas.com",
+        "horarios": {
+            "Lunes - Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/DecimasOficial",
+            "twitter": "https://twitter.com/decimasoficial",
+            "instagram": "https://www.instagram.com/decimas_es/"
+        },
+        "latitude": 43.4576127,
+        "longitude": -3.8620022
+    },
+    {
+        "url": "https://www.comerciosantander.com/decimas-0",
+        "nombre": "DECIMAS. C.C. PEÑACASTILLO",
+        "descripcion": "Moda y calzado deportivo para señora, caballero y niño.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Centro Comercial Peñacastillo",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Centro Comercial Peñacastillo, 39011, Santander"
+        },
+        "telefono": "942320140",
+        "web": "http://www.decimas.com",
+        "horarios": {
+            "Lunes - Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/DecimasOficial",
+            "twitter": "https://twitter.com/decimasoficial",
+            "instagram": "https://www.instagram.com/decimas_es/"
+        },
+        "latitude": 43.4447675,
+        "longitude": -3.854827
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/different-fitness",
+        "nombre": "DIFFERENT FITNESS",
+        "descripcion": "Gimnasio. Centro deportivo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Laredo, 15",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle Laredo, 15, 39003, Santander"
+        },
+        "telefono": "681908119",
+        "web": "https://www.differentfitnes.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "7:30",
+                "tarde": "-21:15"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/DifferentFitness",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/different_fitness_santander/"
+        },
+        "latitude": 43.464797,
+        "longitude": -3.8016242
+    },
+    {
+        "url": "https://www.comerciosantander.com/el-informal",
+        "nombre": "EL INFORMAL",
+        "descripcion": "Regalo, complementos y fiesta.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Fernando, 32",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle San Fernando, 32, 39010, Santander"
+        },
+        "telefono": "942075858",
+        "web": "http://www.elinformaldisfraces.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:30"
+            },
+            "Sábado": {
+                "manana": "10:00 - 14:00",
+                "tarde": "17:00 - 20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/ElInformal2",
+            "twitter": "https://twitter.com/ELInformal2",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.460095,
+        "longitude": -3.821216
+    },
+    {
+        "url": "https://www.comerciosantander.com/crono-sport-nutricion",
+        "nombre": "CRONO SPORT NUTRICION",
+        "descripcion": "Nutrición. Complementos. Asesoramiento.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Magallanes, 24",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Calle Magallanes, 24, 39007, Santander"
+        },
+        "telefono": "942048767",
+        "web": "http://www.cronosportnutricion.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 14:00",
+                "tarde": "17:00 - 20:30"
+            },
+            "Sábado": {
+                "manana": "10:00 - 14:00",
+                "tarde": "17:00 - 19:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/CronoSportNutricion",
+            "twitter": "https://twitter.com/cronosportnutri",
+            "instagram": "https://www.instagram.com/cronosportnutricion/"
+        },
+        "latitude": 43.4625318,
+        "longitude": -3.8146649
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/cristina-osorio-arte-y-movimiento",
+        "nombre": "CRISTINA OSORIO. ARTE Y MOVIMIENTO",
+        "descripcion": "Academia de Baile.(Horario sujeto a grupos).",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Los Indianos, 4",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Los Indianos, 4, 39010, Santander"
+        },
+        "telefono": "669987925",
+        "web": "https://cristinaosorio.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:30-13:30",
+                "tarde": "17:30-20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/cristinaosorioflamencura",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/_cristina_osorio_/"
+        },
+        "latitude": 43.4605668,
+        "longitude": -3.8210394
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/en-palmitas",
+        "nombre": "EN PALMITAS",
+        "descripcion": "Artículos para el cuidado y la diversión de los más pequeños.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Martín del Pino, 28",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle San Martín del Pino, 28, 39011, Santander"
+        },
+        "telefono": "611091199",
+        "web": "https://enpalmitas.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-13:30",
+                "tarde": "16:30-19:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/enpalmitass/"
+        },
+        "latitude": 43.4409858,
+        "longitude": -3.8511441
+    },
+    {
+        "url": "https://www.comerciosantander.com/deportes-cumbres",
+        "nombre": "DEPORTES CUMBRES",
+        "descripcion": "Artículos deportivos.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Guevara, 8",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Guevara, 8, 39001, Santander"
+        },
+        "telefono": "942221740",
+        "web": "http://www.deportescumbres.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:30 - 20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/Deportes-Cumbres-Santander-125593622172400/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4636385,
+        "longitude": -3.8097513
+    },
+    {
+        "url": "https://www.comerciosantander.com/escuela-de-surf-sardinero",
+        "nombre": "ESCUELA DE SURF SARDINERO",
+        "descripcion": "Escuela oficial de Surf RIP CURL.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Plaza de Italia, s/n (Bajos del Sardinero)",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Plaza de Italia, s/n (Bajos del Sardinero), 39005, Santander"
+        },
+        "telefono": "942270301",
+        "web": "http://www.escueladesurfsardinero.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:30 - 14:00",
+                "tarde": "16:00 - 18:00"
+            },
+            "Sábado y Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/eiger-sport",
+        "nombre": "EIGER SPORT",
+        "descripcion": "Material deportivo y prendas de montaña.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Santa Lucía, 21",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle Santa Lucía, 21, 39003, Santander"
+        },
+        "telefono": "942360575",
+        "web": "http://www.eigersport.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:30"
+            },
+            "Sábado": {
+                "manana": "10:00 - 13:30",
+                "tarde": "17:00 - 20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/escuela-de-surf-molinucos",
+        "nombre": "ESCUELA DE SURF MOLINUCOS",
+        "descripcion": "Escuela de Surf. Venta y alquiler de material de Surf.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Dr. Gregorio Marañón, 1",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Calle Dr. Gregorio Marañón, 1, 39005, Santander"
+        },
+        "telefono": "628172700",
+        "web": "http://www.escueladesurfmolinucos.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "17:30 - 19:30"
+            },
+            "Sábado y Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/Escueladesurfmolinucos/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/escueladesurfmolinucos/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/estudio-sol-yoga-y-pilates",
+        "nombre": "ESTUDIO SOL YOGA Y PILATES",
+        "descripcion": "Escuela yoga y pilates.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle del Sol, 52",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle del Sol, 52, 39003, Santander"
+        },
+        "telefono": "672270330",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-13:30",
+                "tarde": "16:30-21:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/solestudiosantander/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/solestudiosantander/"
+        },
+        "latitude": 43.4652245,
+        "longitude": -3.7973817
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/fany-intersport-rualasal",
+        "nombre": "FANY INTERSPORT. RUALASAL",
+        "descripcion": "Prendas deportivas de señora, caballero y niño.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Rualasal, 23",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Rualasal, 23, 39001, Santander"
+        },
+        "telefono": "942212210",
+        "web": "http://www.intersport.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:15",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/Intersport.es/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/www.intersport.es/"
+        },
+        "latitude": 43.4629153,
+        "longitude": -3.8058399
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/escuela-de-yoga-tradicional",
+        "nombre": "ESCUELA DE YOGA TRADICIONAL",
+        "descripcion": "Escuela de Yoga.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Los Acebedos, 6",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Los Acebedos, 6, 39001, Santander"
+        },
+        "telefono": "606547249",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4637641,
+        "longitude": -3.8121738
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/estudio-danza-y-movimiento-begoña-machin",
+        "nombre": "ESTUDIO DANZA Y MOVIMIENTO BEGOÑA MACHIN",
+        "descripcion": "Academia de Baile. Pilates.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Tres de Noviembre, 6",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Tres de Noviembre, 6, 39010, Santander"
+        },
+        "telefono": "669090069",
+        "web": "https://www.begomachindanza.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:30-12:30",
+                "tarde": "16:30-21:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/people/Bego%C3%B1a-Machin-Estudio-de-Danza-y-Movimiento/100057159172550/",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "https://www.instagram.com/begona_machin/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/filatelia-cantabria",
+        "nombre": "FILATELIA CANTABRIA",
+        "descripcion": "Filatelia y numismática.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Santa Lucía, 31",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle Santa Lucía, 31, 39003, Santander"
+        },
+        "telefono": "942214577",
+        "web": "http://www.filateliacantabria.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 14:00",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4643782,
+        "longitude": -3.801645
+    },
+    {
+        "url": "https://www.comerciosantander.com/fisio-fitness-613",
+        "nombre": "FISIO FITNESS 613",
+        "descripcion": "Fisioterapia. Entrenamiento personal. Pilates.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda Pedro San Martín, 12",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Avda Pedro San Martín, 12, 39007, Santander"
+        },
+        "telefono": "682441646",
+        "web": "http://www.santander613.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:00 - 14:00",
+                "tarde": "16:00 - 21:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/people/Santander-613-Fisio-Fitness/100063620378182/",
+            "twitter": "https://twitter.com/Santander613",
+            "instagram": "https://www.instagram.com/fisioyfitness_santander_6_13/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/freak-santander",
+        "nombre": "FREAK SANTANDER",
+        "descripcion": "Juegos de mesa. Libros. Cómics. Figuras. Funkos.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Ruiz Zorrilla, 16",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Ruiz Zorrilla, 16, 39009, Santander"
+        },
+        "telefono": "621189763",
+        "web": "https://freaksantander.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-13:30",
+                "tarde": "17:00-20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/freaksantander",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/freaksantander/"
+        },
+        "latitude": 43.4557588,
+        "longitude": -3.814434
+    },
+    {
+        "url": "https://www.comerciosantander.com/godofredo",
+        "nombre": "GODOFREDO",
+        "descripcion": "Confección marinera, artículos de buceo y pesca.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Pereda, 31",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Paseo Pereda, 31, 39004, Santander"
+        },
+        "telefono": "942215751",
+        "web": "http://www.godofredopesca.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:00 - 20:00"
+            },
+            "Sábado": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:00 - 20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/GodofredoRopaMarinera/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4624241,
+        "longitude": -3.7990518
+    },
+    {
+        "url": "https://www.comerciosantander.com/fitness-center",
+        "nombre": "FITNESS CENTER",
+        "descripcion": "Gimnasio.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle del Sol, 30",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle del Sol, 30, 39003, Santander"
+        },
+        "telefono": "942794719",
+        "web": "https://fitnesscenter.provis.es",
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4651736,
+        "longitude": -3.7998161
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/fisiopilates-irene-amantegui",
+        "nombre": "FISIOPILATES IRENE AMANTEGUI",
+        "descripcion": "Fisioterapia. Pilates (Horario sujeto a cita previa)",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Los Encinares, 10",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Los Encinares, 10, 39011, Santander"
+        },
+        "telefono": "942058850",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:00-13:00",
+                "tarde": "15:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/goldbeach-surfboards",
+        "nombre": "GOLDBEACH SURFBOARDS",
+        "descripcion": "En Goldbeach estamos especializados en la elaboración de tablas de surf, longboard, sup, kit... a medida.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Camarreal, 112-B",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Camarreal, 112-B, 39011, Santander"
+        },
+        "telefono": "630955208",
+        "web": "http://www.goldbeachsurf.com",
+        "horarios": null,
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/goldbeachsurf",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/goldbeachsurfboards/"
+        },
+        "latitude": 43.4459663,
+        "longitude": -3.8742832
+    },
+    {
+        "url": "https://www.comerciosantander.com/gimnasio-lee",
+        "nombre": "GIMNASIO LEE",
+        "descripcion": "Artes marciales. Taekwondo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Marqués de la Hermida, 26",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Marqués de la Hermida, 26, 39009, Santander"
+        },
+        "telefono": "942038085",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4547453,
+        "longitude": -3.8163635
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/gamexperience",
+        "nombre": "GAMEXPERIENCE",
+        "descripcion": "Venta de artículos coleccionables: FuncoPop, figuras, anime, cartas coleccionables (TCG), videojuegos y merch oficial.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Miguel Artigas, 9",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Miguel Artigas, 9, 39002, Santander"
+        },
+        "telefono": "629819615",
+        "web": "https://gamexperience.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-14:00",
+                "tarde": "16:30-20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/gamexperience.es/"
+        },
+        "latitude": 43.4621655,
+        "longitude": -3.8114815
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/h-de-hipica-honduras",
+        "nombre": "H. DE HIPICA. HONDURAS",
+        "descripcion": "Gran variedad de productos para el jinete y el caballo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Honduras, 15",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Calle Honduras, 15, 39005, Santander"
+        },
+        "telefono": "670826468",
+        "web": "https://www.hdehipica.net",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:30-14:00",
+                "tarde": "17:00-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/HdeHipica/",
+            "twitter": "https://twitter.com/hdehipica",
+            "instagram": "https://www.instagram.com/hdehipica/"
+        },
+        "latitude": 43.4698805,
+        "longitude": -3.8002481
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/halcon-viajes-cervantes",
+        "nombre": "HALCON VIAJES. CERVANTES",
+        "descripcion": "Agencia de Viajes.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cervantes, 15",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Cervantes, 15, 39001, Santander"
+        },
+        "telefono": "942238474",
+        "web": "http://ww.halconviajes.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:30 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/halconviajes.oficial/",
+            "twitter": "https://twitter.com/halconviajes",
+            "instagram": "https://www.instagram.com/halconviajescom/"
+        },
+        "latitude": 43.462845,
+        "longitude": -3.811484
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/imagina-santander",
+        "nombre": "IMAGINA SANTANDER",
+        "descripcion": "Juguetería. Librería. Talleres de animación.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Lealtad, 22",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Lealtad, 22, 39002, Santander"
+        },
+        "telefono": "611670694",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-13:30",
+                "tarde": "16:30-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4599616,
+        "longitude": -3.8081278
+    },
+    {
+        "url": "https://www.comerciosantander.com/halcon-viajes-0",
+        "nombre": "HALCON VIAJES. SAN FERNANDO",
+        "descripcion": "Agencia de Viajes.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Fernando, 30",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle San Fernando, 30, 39010, Santander"
+        },
+        "telefono": "942237647",
+        "web": "http://ww.halconviajes.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/halconviajes.oficial/",
+            "twitter": "https://twitter.com/halconviajes",
+            "instagram": "https://www.instagram.com/halconviajescom/"
+        },
+        "latitude": 43.4601357,
+        "longitude": -3.8210851
+    },
+    {
+        "url": "https://www.comerciosantander.com/juguettos-0",
+        "nombre": "JUGUETTOS. CADIZ",
+        "descripcion": "Juguetería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cádiz, 13",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Cádiz, 13, 39002, Santander"
+        },
+        "telefono": "942396504",
+        "web": "http://www.juguettos.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 14:00",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {
+                "manana": "10:00 - 13:30",
+                "tarde": "17:00 - 20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/juguettos/",
+            "twitter": "https://twitter.com/juguettos",
+            "instagram": "https://www.instagram.com/juguettos/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/healthy-body-gym",
+        "nombre": "HEALTHY BODY GYM",
+        "descripcion": "Gimnasio. Pilates. Tai chi. Karate.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Subida al Gurugú, 4",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Calle Subida al Gurugú, 4, 39004, Santander"
+        },
+        "telefono": "617120162",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "8:00",
+                "tarde": "-22:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/hbgsantander/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/gimnasio_healthybodygym/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/infican-viajes",
+        "nombre": "INFICAN VIAJES",
+        "descripcion": "Agencia de viajes, mayorista y minorista.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Floranes, 44",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Floranes, 44, 39010, Santander"
+        },
+        "telefono": "942050097",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-13:30",
+                "tarde": "16:30-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/InficanViajes/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4605379,
+        "longitude": -3.8229385
+    },
+    {
+        "url": "https://www.comerciosantander.com/lapiz-factory",
+        "nombre": "LAPIZ  FACTORY",
+        "descripcion": "Material de Bellas Artes. Talleres de dibujo y pintura.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Emeterio, 3 (Casimiro Sainz)",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle San Emeterio, 3 (Casimiro Sainz), 39003, Santander"
+        },
+        "telefono": "661753079",
+        "web": "http://www.lapizfactory.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "11:00 - 13:30",
+                "tarde": "18:00 - 19:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/people/Lapiz-Factory/100067824174762/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/jumping-clay",
+        "nombre": "JUMPING CLAY",
+        "descripcion": "Centro de actividades extraescolares con contenido educativo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Altamira, 306",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Paseo Altamira, 306, 39007, Santander"
+        },
+        "telefono": "942363084",
+        "web": "https://www.ociodecolores.es",
+        "horarios": {
+            "Lunes - Sábado": {
+                "manana": "10:00 - 14:00",
+                "tarde": "16:00 - 20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/JumpingClay.Santander/",
+            "twitter": "https://twitter.com/JumpClayStder",
+            "instagram": "https://www.instagram.com/jumpingclaysantander/"
+        },
+        "latitude": 43.4623279,
+        "longitude": -3.8282212
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/juguettos-vargas",
+        "nombre": "JUGUETTOS. VARGAS",
+        "descripcion": "Juguetería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Vargas, 57",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Vargas, 57, 39010, Santander"
+        },
+        "telefono": "942372204",
+        "web": "http://www.juguettos.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 14:00",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/juguettos/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/juguettos/"
+        },
+        "latitude": 43.4594084,
+        "longitude": -3.8219035
+    },
+    {
+        "url": "https://www.comerciosantander.com/las-zapatillas-rosas",
+        "nombre": "LAS ZAPATILLAS ROSAS",
+        "descripcion": "Artículos de danza y ballet.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Lealtad, 3 (entresuelo)",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Lealtad, 3 (entresuelo), 39002, Santander"
+        },
+        "telefono": "942361003",
+        "web": "https://laszapatillasrosas.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:00",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/life-skate-farm",
+        "nombre": "LIFE SKATE FARM",
+        "descripcion": "Escuela y venta de Skate.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Marie Curie, 38",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Marie Curie, 38, 39011, Santander"
+        },
+        "telefono": "699762930",
+        "web": "https://lifeskatefarm.com",
+        "horarios": {
+            "Martes - Viernes": {},
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/lifeskatefarm",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/lifeskatefarm/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/megagym",
+        "nombre": "MEGAGYM",
+        "descripcion": "Gimnasio deportivo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Altamira, 184",
+            "codigo_postal": "39006",
+            "ciudad": "Santander",
+            "completa": "Paseo Altamira, 184, 39006, Santander"
+        },
+        "telefono": "942217127",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:30 - 22:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://es-la.facebook.com/pages/Mega-Gym/332595853531424",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4683201,
+        "longitude": -3.8094445
+    },
+    {
+        "url": "https://www.comerciosantander.com/movego-santander",
+        "nombre": "MOVE&GO SANTANDER",
+        "descripcion": "Centro Deportivo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Autonomía, 2",
+            "codigo_postal": "39012",
+            "ciudad": "Santander",
+            "completa": "Calle Autonomía, 2, 39012, Santander"
+        },
+        "telefono": "942391535",
+        "web": "http://www.moveandgo.es",
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Sábado": {},
+            "Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/movegosantander/",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "https://www.instagram.com/moveandgosantander/"
+        },
+        "latitude": 43.4832751,
+        "longitude": -3.7916027
+    },
+    {
+        "url": "https://www.comerciosantander.com/marisma-wellness-center",
+        "nombre": "MARISMA WELLNESS CENTER",
+        "descripcion": "Club deportivo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda del Stadium, 17",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Avda del Stadium, 17, 39005, Santander"
+        },
+        "telefono": "942037041",
+        "web": "http://www.clubdeportivomarisma.com",
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Sábado": {},
+            "Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/duinclub/"
+        },
+        "latitude": 43.4741797,
+        "longitude": -3.7916406
+    },
+    {
+        "url": "https://www.comerciosantander.com/moratinos-gym",
+        "nombre": "MORATINOS GYM",
+        "descripcion": "Gimnasio.Culturismo & Fitness.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Virgen del Camino, 5-6",
+            "codigo_postal": "39006",
+            "ciudad": "Santander",
+            "completa": "Calle Virgen del Camino, 5-6, 39006, Santander"
+        },
+        "telefono": "626423265",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-13:30",
+                "tarde": "16:30-22:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4686348,
+        "longitude": -3.7986242
+    },
+    {
+        "url": "https://www.comerciosantander.com/nordeste",
+        "nombre": "NORDESTE",
+        "descripcion": "Velería y artículos naúticos.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda José Hierro, 46",
+            "codigo_postal": "39012",
+            "ciudad": "Santander",
+            "completa": "Avda José Hierro, 46, 39012, Santander"
+        },
+        "telefono": "942235556",
+        "web": "http://www.velerianordeste.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 14:00",
+                "tarde": "16:30 - 20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/pages/Veleria-Nordeste-SLU/172581692762462",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/mind-pilates-estudio",
+        "nombre": "MIND PILATES ESTUDIO",
+        "descripcion": "Pilates.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda de Cantabria, 26",
+            "codigo_postal": "39012",
+            "ciudad": "Santander",
+            "completa": "Avda de Cantabria, 26, 39012, Santander"
+        },
+        "telefono": "609123221",
+        "web": "https://mindpilates.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:00-13:00",
+                "tarde": "17:00-21:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/mindpilatesstudio",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/merygomezibars/"
+        },
+        "latitude": 43.4780974,
+        "longitude": -3.7964658
+    },
+    {
+        "url": "https://www.comerciosantander.com/nautalia",
+        "nombre": "NAUTALIA",
+        "descripcion": "Agencia de viajes.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cádiz, 10",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Cádiz, 10, 39002, Santander"
+        },
+        "telefono": "942130702",
+        "web": "http://www.nautaliaviajes.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:45 - 13:45",
+                "tarde": "16:30 - 20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/NautaliaViajes",
+            "twitter": "https://twitter.com/nautaliaviajes",
+            "instagram": "https://www.instagram.com/nautaliaviajes/"
+        },
+        "latitude": 43.4600154,
+        "longitude": -3.8083566
+    },
+    {
+        "url": "https://www.comerciosantander.com/obregon-bellas-artes",
+        "nombre": "OBREGON BELLAS ARTES",
+        "descripcion": "Somos especialistas en las áreas de: Dibujo. Pintura. Bellas Artes.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Calderón de la Barca, 9",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Calderón de la Barca, 9, 39002, Santander"
+        },
+        "telefono": "942312061",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:45 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4596077,
+        "longitude": -3.8081375
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/pangea-travel-store",
+        "nombre": "PANGEA THE TRAVEL STORE",
+        "descripcion": "Viaja como eres!. (Viajes a tú medida)",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Rualasal, 21",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Rualasal, 21, 39001, Santander"
+        },
+        "telefono": "942691221",
+        "web": "https://www.pangea.es",
+        "horarios": {
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/pangeaesp/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/pangeaes/"
+        },
+        "latitude": 43.4629051,
+        "longitude": -3.8059394
+    },
+    {
+        "url": "https://www.comerciosantander.com/oxfam-intermon",
+        "nombre": "OXFAM INTERMON",
+        "descripcion": "Comercio Justo: Alimentación. Regalo, complementos, librería y papelería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cervantes, 7",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Cervantes, 7, 39001, Santander"
+        },
+        "telefono": "942312611",
+        "web": "http://www.oxfamintermon.org",
+        "horarios": {
+            "Lunes - Sábado": {
+                "manana": "10:00-13:30",
+                "tarde": "17:15-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/OxfamIntermon",
+            "twitter": "https://twitter.com/OxfamIntermon",
+            "instagram": "https://www.instagram.com/oxfamintermon/"
+        },
+        "latitude": 43.4624772,
+        "longitude": -3.8116012
+    },
+    {
+        "url": "https://www.comerciosantander.com/novo-sport",
+        "nombre": "NOVO SPORT",
+        "descripcion": "Gimnasio deportivo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Francisco Cubría, 3",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Calle Francisco Cubría, 3, 39007, Santander"
+        },
+        "telefono": "942373522",
+        "web": "http://www.novosportgimnasio.com",
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/novosportgimnasio/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/novosport_gym/"
+        },
+        "latitude": 43.461771,
+        "longitude": -3.8195585
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/obsession-surf-school",
+        "nombre": "OBSESSION SURF SCHOOL",
+        "descripcion": "Escuela. Venta y alquiler productos de surf.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Plaza de Italia, s/n (Bajos del Sardinero)",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Plaza de Italia, s/n (Bajos del Sardinero), 39005, Santander"
+        },
+        "telefono": "601500558",
+        "web": "https://obsessionsurf.com",
+        "horarios": {
+            "Martes - Jueves": {},
+            "Viernes": {},
+            "Sábado y Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/obsessionsurf.santander/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/obsession_surf_santander/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/personal-market-nutrition",
+        "nombre": "PERSONAL MARKET NUTRITION",
+        "descripcion": "Nutrición deportiva.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Luis, 25",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle San Luis, 25, 39010, Santander"
+        },
+        "telefono": "942376265",
+        "web": "http://www.personalmarketnutrition.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-13:30",
+                "tarde": "17:00-20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4619843,
+        "longitude": -3.8154283
+    },
+    {
+        "url": "https://www.comerciosantander.com/obsession-surf-santander",
+        "nombre": "OBSESSION SURF SANTANDER",
+        "descripcion": "Somos especialistas en: SURF. SNOW. SKATE.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Repuente, 32",
+            "codigo_postal": "39012",
+            "ciudad": "Santander",
+            "completa": "Calle Repuente, 32, 39012, Santander"
+        },
+        "telefono": "620993132",
+        "web": "https://obsessionsurf.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:30-13:30",
+                "tarde": "17:30-20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/obsessionsurf.santander/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/obsessionsurfshop/"
+        },
+        "latitude": 43.4644618,
+        "longitude": -3.8347957
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/parda-entrenamiento-personal",
+        "nombre": "PARDA ENTRENAMIENTO PERSONAL",
+        "descripcion": "Entrenamiento personal y recuperación de lesiones. (El horario está sujeto a cita previa)",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Guevara, 21",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Guevara, 21, 39001, Santander"
+        },
+        "telefono": "610380347",
+        "web": "https://pardagym.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:00",
+                "tarde": "-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.463766,
+        "longitude": -3.8079714
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/pilates-santander-center",
+        "nombre": "PILATES SANTANDER CENTER",
+        "descripcion": "Pilates. Entrenamiento funcional y personal. Aereo yoga. Formación para instructores de Pilates.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San José, 10",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle San José, 10, 39003, Santander"
+        },
+        "telefono": "687741981",
+        "web": "https://www.pilatessantandercenter.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "8:00",
+                "tarde": "-21:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "https://twitter.com/intent/tweet",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.463242,
+        "longitude": -3.806598
+    },
+    {
+        "url": "https://www.comerciosantander.com/patubici",
+        "nombre": "PATUBICI",
+        "descripcion": "Venta de bicicletas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Alta, 69",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Calle Alta, 69, 39008, Santander"
+        },
+        "telefono": "942236444",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/Patubici-201289289930762/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4590929,
+        "longitude": -3.8167914
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/salesport-club",
+        "nombre": "SALESPORT CLUB",
+        "descripcion": "Centro Deportivo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Altamira, 73",
+            "codigo_postal": "39006",
+            "ciudad": "Santander",
+            "completa": "Paseo Altamira, 73, 39006, Santander"
+        },
+        "telefono": "942319922",
+        "web": "https://salesportclub.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "7:00",
+                "tarde": "-22:15"
+            },
+            "Sábado": {
+                "manana": "8:00",
+                "tarde": "-21:00"
+            },
+            "Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/SaleSportClub/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4668519,
+        "longitude": -3.8092542
+    },
+    {
+        "url": "https://www.comerciosantander.com/regate-sport",
+        "nombre": "REGATE SPORT",
+        "descripcion": "Material deportivo. Somos especialistas en fútbol.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Calderón de la Barca, 15",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Calderón de la Barca, 15, 39002, Santander"
+        },
+        "telefono": "942220022",
+        "web": "https://regatesport.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:15"
+            },
+            "Sábado": {
+                "manana": "10:00 - 13:45",
+                "tarde": "17:00 - 20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/RegatesportES",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://instagram.com/@regatesport"
+        },
+        "latitude": 43.4597967,
+        "longitude": -3.807371
+    },
+    {
+        "url": "https://www.comerciosantander.com/roller-danz",
+        "nombre": "ROLLER DANZ",
+        "descripcion": "Especialistas en artículos de danza, rítmica y patinaje.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San José, 12",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle San José, 12, 39003, Santander"
+        },
+        "telefono": "942070007",
+        "web": "http://www.rollerdanz.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4632433,
+        "longitude": -3.8064832
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/pilates-santander-studio",
+        "nombre": "PILATES SANTANDER STUDIO",
+        "descripcion": "Pilates (Horario sujeto a grupos).",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Tres de Noviembre, 43",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Tres de Noviembre, 43, 39010, Santander"
+        },
+        "telefono": "617126127",
+        "web": "https://www.pilatessantanderstudio.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "8:00",
+                "tarde": "-22:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/pilatea-castelar",
+        "nombre": "PILATEA CASTELAR",
+        "descripcion": "Pilates. Entrenamiento personal.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Castelar, 23",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Calle Castelar, 23, 39004, Santander"
+        },
+        "telefono": "942213136",
+        "web": null,
+        "horarios": {
+            "Lunes - Jueves": {
+                "manana": "7:00",
+                "tarde": "-22:00"
+            },
+            "Viernes": {
+                "manana": "7:00",
+                "tarde": "-16:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/PilatesCastelar/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4631048,
+        "longitude": -3.7934171
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/sandra-gutierrez-centro-de-bienestar",
+        "nombre": "SANDRA GUTIERREZ. CENTRO DE BIENESTAR",
+        "descripcion": "Clases dirigidas: Pilates. Yoga. Baile. Meditación. (Horario sujeto a cita previa).",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Universidad, 80",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Calle Universidad, 80, 39005, Santander"
+        },
+        "telefono": "611707881",
+        "web": "http://www.sandragutierrez.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-12:30",
+                "tarde": "17:00-22:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/profile.php",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://instagram.com/sandragutierrez_bienestar"
+        },
+        "latitude": 43.4703739,
+        "longitude": -3.7959467
+    },
+    {
+        "url": "https://www.comerciosantander.com/tiger",
+        "nombre": "TIGER",
+        "descripcion": "Complementos, regalos.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Calvo Sotelo, 14",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Calvo Sotelo, 14, 39002, Santander"
+        },
+        "telefono": "942223035",
+        "web": "http://www.tiger-stores.es",
+        "horarios": {
+            "Lunes - Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/FlyingTigerCopenhagen",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/flyingtiger/"
+        },
+        "latitude": 43.461277,
+        "longitude": -3.8083216
+    },
+    {
+        "url": "https://www.comerciosantander.com/tienda-del-racing",
+        "nombre": "TIENDA DEL RACING",
+        "descripcion": "Tienda oficial del Real Racing Club.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Real Racing Club S/N",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Calle Real Racing Club S/N, 39005, Santander"
+        },
+        "telefono": "942949401",
+        "web": "https://latiendadelracing.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 14:00",
+                "tarde": "17:00 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/titan-flow",
+        "nombre": "TITAN FLOW",
+        "descripcion": "Venta y taller patinetes eléctricos, movilidad reducida.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Castilla, 83",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Castilla, 83, 39009, Santander"
+        },
+        "telefono": "642395399",
+        "web": "https://titanflow.com.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:00-14:00",
+                "tarde": "16:00-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/p/Titan-Flow-61553122551565/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/titanflowsantander/"
+        },
+        "latitude": 43.4539047,
+        "longitude": -3.8226945
+    },
+    {
+        "url": "https://www.comerciosantander.com/solodart",
+        "nombre": "SOLODART",
+        "descripcion": "Tienda de dardos física y online.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Fernando, 72",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle San Fernando, 72, 39010, Santander"
+        },
+        "telefono": "942418505",
+        "web": "http://www.solodart.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:30 - 13:30",
+                "tarde": "17:30 - 20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.459048,
+        "longitude": -3.8251834
+    },
+    {
+        "url": "https://www.comerciosantander.com/urban-gym",
+        "nombre": "URBAN GYM",
+        "descripcion": "Gimnasio y centro de entrenamiento personalizado.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Lope de Vega, 11",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle Lope de Vega, 11, 39003, Santander"
+        },
+        "telefono": "634523609",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/Urbangym-Santander-1430765320518600/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4634839,
+        "longitude": -3.7998001
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/samhata-casa-del-yoga",
+        "nombre": "SAMHATA CASA DEL YOGA",
+        "descripcion": "Clases de yoga dirigidas. (Horario sujeto a grupos).",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cardenal Cisneros, 15",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Cardenal Cisneros, 15, 39001, Santander"
+        },
+        "telefono": "653058100",
+        "web": "https://yogasamhata.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-12:00",
+                "tarde": "18:00-19:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/samhatayoga_santander"
+        },
+        "latitude": 43.4632929,
+        "longitude": -3.8125646
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/viajes-azul-marino",
+        "nombre": "VIAJES AZUL MARINO",
+        "descripcion": "Agencia de viajes.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Floranes, 50",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Floranes, 50, 39010, Santander"
+        },
+        "telefono": "942233900",
+        "web": "https://www.azulmarino.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-13:30",
+                "tarde": "17:00-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/azulmarinoviajes",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/azulmarinoviajes/"
+        },
+        "latitude": 43.4602116,
+        "longitude": -3.8241112
+    },
+    {
+        "url": "https://www.comerciosantander.com/viajes-azul-marinocom",
+        "nombre": "VIAJES AZUL MARINO.com",
+        "descripcion": "Agencia de viajes para todos los presupuestos.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Fernando, 70",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle San Fernando, 70, 39010, Santander"
+        },
+        "telefono": "942131115",
+        "web": "http://www.viajesazulmarino.com",
+        "horarios": {
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/azulmarinoviajes",
+            "twitter": "https://twitter.com/azulmarinoviaje",
+            "instagram": "https://www.instagram.com/azulmarinoviajes/"
+        },
+        "latitude": 43.4591091,
+        "longitude": -3.8249446
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/viajes-el-corte-ingles",
+        "nombre": "VIAJES EL CORTE INGLES",
+        "descripcion": "Agencia de Viajes.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Castilla, 1",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Castilla, 1, 39002, Santander"
+        },
+        "telefono": "942318291",
+        "web": "http://www.viajeselcorteingles.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 14:00",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/viajeselcorteingles",
+            "twitter": "https://twitter.com/VECI_Esp",
+            "instagram": "https://www.instagram.com/viajeselcorteingles/"
+        },
+        "latitude": 43.458432,
+        "longitude": -3.8088636
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/tanndem-gimnasio-deporte-y-salud",
+        "nombre": "TANNDEM GIMNASIO. DEPORTE Y SALUD",
+        "descripcion": "Preparación física y fisioterapia. (Solicitar cita previa).",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle La Unión, 7",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Calle La Unión, 7, 39004, Santander"
+        },
+        "telefono": "661409227",
+        "web": "https://tanndemdeporteysalud.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "7:00",
+                "tarde": "-21:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/tanndemdeporteysalud/"
+        },
+        "latitude": 43.4631078,
+        "longitude": -3.7878575
+    },
+    {
+        "url": "https://www.comerciosantander.com/viajes-anjana-tour",
+        "nombre": "VIAJES ANJANA TOUR",
+        "descripcion": "Agencia de Viajes.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Hernán Cortés, 47",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle Hernán Cortés, 47, 39003, Santander"
+        },
+        "telefono": "942075636",
+        "web": "http://www.viajesanjanatour.com",
+        "horarios": {
+            "Lunes - Jueves": {},
+            "Viernes": {},
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/anjanatour/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4631478,
+        "longitude": -3.7988486
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/ushna-yoga",
+        "nombre": "USHNA YOGA",
+        "descripcion": "Pilates (frío y calor). Yoga (frío y calor). Meditación. Barre. Hiit. Horario sujeto a grupos (individual y con familias).",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Andres del Río, 7",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Calle Andres del Río, 7, 39004, Santander"
+        },
+        "telefono": "611765765",
+        "web": "https://www.ushna.es",
+        "horarios": null,
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/ushna.yoga",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/ushna.yoga/"
+        },
+        "latitude": 43.4645912,
+        "longitude": -3.7957026
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/viajes-halcon-floranes",
+        "nombre": "VIAJES HALCON. FLORANES",
+        "descripcion": "Agencia de viajes.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Floranes, 23",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Floranes, 23, 39010, Santander"
+        },
+        "telefono": "942238010",
+        "web": "https://www.halconviajes.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/halconviajes.oficial/",
+            "twitter": "https://twitter.com/halconviajes",
+            "instagram": "https://www.instagram.com/halconviajescom/"
+        },
+        "latitude": 43.4608747,
+        "longitude": -3.8208806
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/viajes-eroski-azul-marino",
+        "nombre": "VIAJES EROSKI. AZUL MARINO",
+        "descripcion": "Viajes a medida. Damos servicio a nuestros clientes de lunes a domingo a través de WhatsApp.Los sábados por la mañana estamos abiertos (15 abril hasta 12 de octubre).",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Ruiz Zorrilla, 3",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Ruiz Zorrilla, 3, 39009, Santander"
+        },
+        "telefono": "637746060",
+        "web": "http://www.viajeseroski.es",
+        "horarios": {
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/viajeseroski",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "https://www.instagram.com/viajeseroski/"
+        },
+        "latitude": 43.4564636,
+        "longitude": -3.8145242
+    },
+    {
+        "url": "https://www.comerciosantander.com/viajes-nuberu",
+        "nombre": "VIAJES NUBERU",
+        "descripcion": "Agencia de Viajes.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Los Encinares, 10",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Los Encinares, 10, 39011, Santander"
+        },
+        "telefono": "942079517",
+        "web": "https://viajesnuberu.grupoairmet.com/",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "17:00 - 20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/weon",
+        "nombre": "WE/ON",
+        "descripcion": "Centro Deportivo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cardenal Cisneros, 65-67",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Calle Cardenal Cisneros, 65-67, 39007, Santander"
+        },
+        "telefono": "942240260",
+        "web": "https://www.weonclub.com",
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Sábado y Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/weon.sportsclub/"
+        },
+        "latitude": 43.4624323,
+        "longitude": -3.8198704
+    },
+    {
+        "url": "https://www.comerciosantander.com/viajes-mesana",
+        "nombre": "VIAJES MESANA",
+        "descripcion": "Agencia de Viajes.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Pereda, 33",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Paseo Pereda, 33, 39004, Santander"
+        },
+        "telefono": "942367110",
+        "web": "http://www.viajesmesana.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:00 - 14:00",
+                "tarde": "16:30 - 19:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4624701,
+        "longitude": -3.7985715
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/x-fit-santander",
+        "nombre": "X FIT SANTANDER",
+        "descripcion": "Gimnasio. Artes marciales.(En agosto los sábados estará cerrado al público)",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Profesor Jimenez Díaz, 19",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Calle Profesor Jimenez Díaz, 19, 39007, Santander"
+        },
+        "telefono": "942236315",
+        "web": "https://xfit.com.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "7:00",
+                "tarde": "-22:30"
+            },
+            "Sábado": {
+                "manana": "10:00",
+                "tarde": "-18:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/eixamplefit",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "https://www.instagram.com/p/CUpz8r0jbvd/"
+        },
+        "latitude": 43.4608493,
+        "longitude": -3.8246529
+    },
+    {
+        "url": "https://www.comerciosantander.com/yates-cosas-boatique",
+        "nombre": "YATES & COSAS BOATIQUE",
+        "descripcion": "Ropa, complementos y decoración naútica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Hernán Cortés, 40",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle Hernán Cortés, 40, 39003, Santander"
+        },
+        "telefono": "942216520",
+        "web": "http://www.yatesycosasboatique.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:30-13:45",
+                "tarde": "17:00-20:00"
+            },
+            "Sábado": {
+                "manana": "10:30-14:00",
+                "tarde": "17:30-20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4631594,
+        "longitude": -3.7974653
+    },
+    {
+        "url": "https://www.comerciosantander.com/victor-bikes-bmk-santander",
+        "nombre": "VICTOR BIKES BMK SANTANDER",
+        "descripcion": "Venta y reparación de bicicletas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle La Torre, 82",
+            "codigo_postal": "39012",
+            "ciudad": "Santander",
+            "completa": "Calle La Torre, 82, 39012, Santander"
+        },
+        "telefono": "659884055",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/BicimarketSantander/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/explore/locations/1508313162595144/victor-bikes-bicimarket-santander/"
+        },
+        "latitude": 43.472304,
+        "longitude": -3.8198335
+    },
+    {
+        "url": "https://www.comerciosantander.com/viajes-turytour",
+        "nombre": "VIAJES TURYTOUR",
+        "descripcion": "Agencia de Viajes.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cuesta, 4",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Cuesta, 4, 39002, Santander"
+        },
+        "telefono": "942217201",
+        "web": "http://www.grupostar.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:30 - 20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/ViajesGrupoStar/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/grupostarviajes/"
+        },
+        "latitude": 43.4612897,
+        "longitude": -3.8100219
+    },
+    {
+        "url": "https://www.comerciosantander.com/turybike",
+        "nombre": "TURYBIKE",
+        "descripcion": "Servicio de alquiler y venta de bicicletas eléctricas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Plaza de las Estaciones, S/N",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Plaza de las Estaciones, S/N, 39002, Santander"
+        },
+        "telefono": "627242025",
+        "web": "http://www.turybike.com",
+        "horarios": {
+            "Array": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4593837,
+        "longitude": -3.810145
+    },
+    {
+        "url": "https://www.comerciosantander.com/zafiro-tours",
+        "nombre": "ZAFIRO TOURS",
+        "descripcion": "Agencia de viajes.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cardenal Cisneros, 42",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Calle Cardenal Cisneros, 42, 39007, Santander"
+        },
+        "telefono": "942760816",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 14:00",
+                "tarde": "17:00 - 20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/zafirotourssantander/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4634263,
+        "longitude": -3.8141356
+    }
+]

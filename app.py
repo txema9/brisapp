@@ -1,8 +1,10 @@
 import base64
 
+from pathlib import Path
+
 import streamlit as st
 import streamlit.components.v1 as components
-from PIL import Image
+
 
 st.set_page_config(
     page_title="BRISA",
@@ -10,26 +12,106 @@ st.set_page_config(
     layout="wide"
 )
 
-# 1. leer HTML
-with open("index.html", "r", encoding="utf-8") as f:
+
+BASE_DIR = (
+    Path(__file__)
+    .resolve()
+    .parent
+)
+
+
+# =========================
+# HTML
+# =========================
+
+html_path = (
+    BASE_DIR
+    / "frontend"
+    / "index.html"
+)
+
+with open(
+    html_path,
+    "r",
+    encoding="utf-8"
+) as f:
+
     html = f.read()
 
-# 2. favicon/logo/fondo
-with open("titulo.png", "rb") as f:
-    logo_b64 = base64.b64encode(f.read()).decode()
 
-logo_src = f"data:image/png;base64,{logo_b64}"
+# =========================
+# LOGO
+# =========================
 
-with open("santander.png", "rb") as f:
-    bg_b64 = base64.b64encode(f.read()).decode()
+logo_path = (
+    BASE_DIR
+    / "frontend"
+    / "assets"
+    / "titulo.png"
+)
 
-bg_src = f"data:image/png;base64,{bg_b64}"
+with open(
+    logo_path,
+    "rb"
+) as f:
 
-# 3. reemplazo
-html = html.replace("LOGO_SRC", logo_src)
-html = html.replace("BACKGROUND_SRC", bg_src)
-# 4. render
+    logo_b64 = base64.b64encode(
+        f.read()
+    ).decode()
+
+
+logo_src = (
+    f"data:image/png;base64,{logo_b64}"
+)
+
+
+# =========================
+# BACKGROUND
+# =========================
+
+background_path = (
+    BASE_DIR
+    / "frontend"
+    / "assets"
+    / "santander.png"
+)
+
+with open(
+    background_path,
+    "rb"
+) as f:
+
+    bg_b64 = base64.b64encode(
+        f.read()
+    ).decode()
+
+
+bg_src = (
+    f"data:image/png;base64,{bg_b64}"
+)
+
+
+# =========================
+# REPLACE
+# =========================
+
+html = html.replace(
+    "LOGO_SRC",
+    logo_src
+)
+
+html = html.replace(
+    "BACKGROUND_SRC",
+    bg_src
+)
+
+
+# =========================
+# RENDER
+# =========================
+
 components.html(
     html,
     height=900,
-    scrolling=False)
+    scrolling=False
+)

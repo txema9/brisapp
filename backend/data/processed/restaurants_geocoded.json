@@ -1,0 +1,3539 @@
+[
+    {
+        "nombre_del_restaurante": "A MI MANERA",
+        "direccion": "Bo Bolado 38, Monte, Santander",
+        "telefono": "942 706 007",
+        "dias_de_cierre": "Lunes y el martes, en temporada baja",
+        "precio_medio": "40-45 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "ÁGAVE AZUL",
+        "direccion": "C/ del Sol 40, Santander",
+        "telefono": "942 218 952",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "20-25 €",
+        "latitude": 43.4651688,
+        "longitude": -3.7981681
+    },
+    {
+        "nombre_del_restaurante": "AL NORTE",
+        "direccion": "Plz.Italia 1, Santander +1",
+        "telefono": "942 041 633",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "30-35 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "ABRA SARDINERO",
+        "direccion": "Plaza las Brisas 1, Santander",
+        "telefono": "624 073 524",
+        "dias_de_cierre": "Lunes y martes",
+        "precio_medio": "30-35 €",
+        "latitude": 43.4740085,
+        "longitude": -3.7858915
+    },
+    {
+        "nombre_del_restaurante": "AGUA SALADA",
+        "direccion": "C/ San Simón 2, Santander",
+        "telefono": "665 960 096",
+        "dias_de_cierre": "Lunes y martes",
+        "precio_medio": "40.0",
+        "latitude": 43.4642978,
+        "longitude": -3.8025881
+    },
+    {
+        "nombre_del_restaurante": "ARROCERÍA SANTANDER VEINTE",
+        "direccion": "Bajada del Caleruco 73, Santander",
+        "telefono": "942 321 648",
+        "dias_de_cierre": "Domingo y lunes noche",
+        "precio_medio": "25-30 €",
+        "latitude": 43.4669129,
+        "longitude": -3.8306881
+    },
+    {
+        "nombre_del_restaurante": "ASADOR LECHAZO ARANDA",
+        "direccion": "C/ Tetuán 15, Santander",
+        "telefono": "942 214 823",
+        "dias_de_cierre": "Lunes y martes noche; miércoles completo (Temporada baja)",
+        "precio_medio": "50-60 €",
+        "latitude": 43.4656296,
+        "longitude": -3.7954931
+    },
+    {
+        "nombre_del_restaurante": "BAR DEL PUERTO",
+        "direccion": "C/ Hernán Cortés 63, Santander",
+        "telefono": "942 213 001",
+        "dias_de_cierre": "En temporada baja, domingos tarde y lunes",
+        "precio_medio": "90-100 €",
+        "latitude": 43.4633359,
+        "longitude": -3.7969046
+    },
+    {
+        "nombre_del_restaurante": "BODEGA ANTONIO",
+        "direccion": "C/ Rubio 2, Santander",
+        "telefono": "942 231 115",
+        "dias_de_cierre": "Noches de domingo a jueves",
+        "precio_medio": "35-40 €",
+        "latitude": 43.4622644,
+        "longitude": -3.8119427
+    },
+    {
+        "nombre_del_restaurante": "BALNEARIO DE LA MAGDALENA",
+        "direccion": "C/ Horadada 10, Santander",
+        "telefono": "942 000 138",
+        "dias_de_cierre": "",
+        "precio_medio": "40-50 €",
+        "latitude": 43.4672333,
+        "longitude": -3.7747503
+    },
+    {
+        "nombre_del_restaurante": "BAR SARDINERO",
+        "direccion": "Avenida de Pontejos 16, Santander +1",
+        "telefono": "942 365 178",
+        "dias_de_cierre": "Lunes",
+        "precio_medio": "30.0",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "BODEGA CIGALEÑA",
+        "direccion": "C/ Daoíz y Velarde 19, Santander",
+        "telefono": "942 213 062",
+        "dias_de_cierre": "Martes y miércoles",
+        "precio_medio": "50-60 €",
+        "latitude": 43.4632207,
+        "longitude": -3.8008101
+    },
+    {
+        "nombre_del_restaurante": "BODEGA DEL RIOJANO",
+        "direccion": "C/ Río de la Pila 5, Santander",
+        "telefono": "942 216 750",
+        "dias_de_cierre": "Domingo noche",
+        "precio_medio": "40-50 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "BRÉTEMA EN FISTERRA",
+        "direccion": "C/ Peña Herbosa 6, Santander",
+        "telefono": "942 301 887",
+        "dias_de_cierre": "Domingos por la tarde y lunes",
+        "precio_medio": "25-30 €",
+        "latitude": 43.4635057,
+        "longitude": -3.7981176
+    },
+    {
+        "nombre_del_restaurante": "CAFÉ CENTRO BOTÍN",
+        "direccion": "C/ Muelle de Albareda, P.º de Pereda, s/n, Santander",
+        "telefono": "942 047 150",
+        "dias_de_cierre": "Lunes en invierno",
+        "precio_medio": "25-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "BODEGA LA MONTAÑA",
+        "direccion": "C/ San Fernando, 28, Santander",
+        "telefono": "",
+        "dias_de_cierre": "Domingo",
+        "precio_medio": "25-30 €",
+        "latitude": 43.2663747,
+        "longitude": -4.0599085
+    },
+    {
+        "nombre_del_restaurante": "CADELO",
+        "direccion": "C/ Santa Lucia 33, Santander",
+        "telefono": "942 221 051",
+        "dias_de_cierre": "Domingo y lunes",
+        "precio_medio": "40-50 €",
+        "latitude": 43.4643876,
+        "longitude": -3.8014683
+    },
+    {
+        "nombre_del_restaurante": "CAFETERÍA ÍBERO",
+        "direccion": "C/ Alfredo Pérez Guillén 11, Santander",
+        "telefono": "942 072 974",
+        "dias_de_cierre": "Lunes",
+        "precio_medio": "15-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "CAÑADÍO",
+        "direccion": "C/ Gómez Oreña 15, Santander",
+        "telefono": "942 314 149",
+        "dias_de_cierre": "Domingo",
+        "precio_medio": "50-60 €",
+        "latitude": 43.4636772,
+        "longitude": -3.8017545
+    },
+    {
+        "nombre_del_restaurante": "CASA CIRANA",
+        "direccion": "C/ Bonifaz 13, Santander",
+        "telefono": "942 526 698",
+        "dias_de_cierre": "Las noches de lunes a jueves y los domingos completo",
+        "precio_medio": "50-60 €",
+        "latitude": 43.4640363,
+        "longitude": -3.7975695
+    },
+    {
+        "nombre_del_restaurante": "CASA LITA",
+        "direccion": "Paseo Pereda 37, Santander",
+        "telefono": "942 364 830",
+        "dias_de_cierre": "Lunes",
+        "precio_medio": "20-25 €",
+        "latitude": 43.4625906,
+        "longitude": -3.7972392
+    },
+    {
+        "nombre_del_restaurante": "CASA AJERO",
+        "direccion": "C/ Daoíz y Velarde 18, Santander",
+        "telefono": "942 218 386",
+        "dias_de_cierre": "Lunes",
+        "precio_medio": "30-35 €",
+        "latitude": 43.4630792,
+        "longitude": -3.8012345
+    },
+    {
+        "nombre_del_restaurante": "CASA JOSÉ",
+        "direccion": "C/Mocejón 2, Barrio Pesquero (Santander)",
+        "telefono": "942 135 381",
+        "dias_de_cierre": "Martes",
+        "precio_medio": "35-40 €",
+        "latitude": 43.451145,
+        "longitude": -3.819336
+    },
+    {
+        "nombre_del_restaurante": "CASA MARIANO",
+        "direccion": "C/ Vargas 23, Santander",
+        "telefono": "942 230 024",
+        "dias_de_cierre": "Domingo tarde y lunes completo",
+        "precio_medio": "25-30 €",
+        "latitude": 43.4605385,
+        "longitude": -3.8177562
+    },
+    {
+        "nombre_del_restaurante": "CASETA DE BOMBAS",
+        "direccion": "C/ Gamazo s/n, Santander",
+        "telefono": "942 742 668",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "50-60 €",
+        "latitude": 43.4621987,
+        "longitude": -3.7888208
+    },
+    {
+        "nombre_del_restaurante": "CORTÉS",
+        "direccion": "C/ Hernán Cortés 35, Santander",
+        "telefono": "942 403 900",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "25-35 €",
+        "latitude": 43.4629683,
+        "longitude": -3.8006939
+    },
+    {
+        "nombre_del_restaurante": "DE MORRO FINO",
+        "direccion": "Avda. Los Castros 41, Santander",
+        "telefono": "942 551 612",
+        "dias_de_cierre": "Domingo tarde y lunes",
+        "precio_medio": "40-50 €",
+        "latitude": 43.4720933,
+        "longitude": -3.7923998
+    },
+    {
+        "nombre_del_restaurante": "CASIMIRA",
+        "direccion": "C/ Casimiro Sainz 8, Santander",
+        "telefono": "942 031 295",
+        "dias_de_cierre": "Domingo tarde y lunes",
+        "precio_medio": "35-40 €",
+        "latitude": 43.4644514,
+        "longitude": -3.7965859
+    },
+    {
+        "nombre_del_restaurante": "DARÍA",
+        "direccion": "C/ Bonifaz 19, Santander",
+        "telefono": "942 550 787",
+        "dias_de_cierre": "Domingo y lunes",
+        "precio_medio": "40-50 €",
+        "latitude": 43.4639769,
+        "longitude": -3.797035
+    },
+    {
+        "nombre_del_restaurante": "DELUZ",
+        "direccion": "C/ Ramón y Cajal 18, Santander",
+        "telefono": "942 290 606",
+        "dias_de_cierre": "Domingo tarde y lunes",
+        "precio_medio": "55-65 €",
+        "latitude": 36.0156645,
+        "longitude": -5.6033559
+    },
+    {
+        "nombre_del_restaurante": "EL BARCO",
+        "direccion": "Avda. del Faro 24, Mataleñas",
+        "telefono": "942 391 760",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "35-40 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "EL DESFILADERO",
+        "direccion": "Avda. los Ciruelos 21, El Alisal. Santander",
+        "telefono": "942 332 118",
+        "dias_de_cierre": "Domingos tarde y lunes",
+        "precio_medio": "40-50 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "EL HIPÓDROMO DE SUSO",
+        "direccion": "Avenida del Faro s/n, Santander",
+        "telefono": "942 393 433",
+        "dias_de_cierre": "Martes",
+        "precio_medio": "30-40 €",
+        "latitude": 43.4844529,
+        "longitude": -3.7922056
+    },
+    {
+        "nombre_del_restaurante": "EL BONITO TASCA-BAR",
+        "direccion": "C/ Casimiro Sainz 11, Santander",
+        "telefono": "942 367 191",
+        "dias_de_cierre": "De lunes a miércoles",
+        "precio_medio": "30-35 €",
+        "latitude": 43.4642791,
+        "longitude": -3.7969056
+    },
+    {
+        "nombre_del_restaurante": "EL DESVÁN",
+        "direccion": "C/ Bonifaz 22, Santander",
+        "telefono": "638 381 412",
+        "dias_de_cierre": "Martes",
+        "precio_medio": "35-40 €",
+        "latitude": 43.4640036,
+        "longitude": -3.7969904
+    },
+    {
+        "nombre_del_restaurante": "EL HOSTEL & CO.",
+        "direccion": "Plz. de las Estaciones s/n (edificio ADIF), Santander +1",
+        "telefono": "942 361 139",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "30-35 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "EL ITALIANO",
+        "direccion": "C/ Calderón de la Barca 9, Santander",
+        "telefono": "942 212 168",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "35-40 €",
+        "latitude": 43.4596077,
+        "longitude": -3.8081375
+    },
+    {
+        "nombre_del_restaurante": "EL MACHI IDA Y VUELTA",
+        "direccion": "C/ Calderón de la Barca 9, Santander",
+        "telefono": "942 218 722",
+        "dias_de_cierre": "Todas las noches",
+        "precio_medio": "35-45 €",
+        "latitude": 43.4596077,
+        "longitude": -3.8081375
+    },
+    {
+        "nombre_del_restaurante": "EL PERRO DE SAN ROQUE",
+        "direccion": "Av. de los Infantes 85, Local 8, bajo. El Sardinero (Santander)",
+        "telefono": "687 470 720",
+        "dias_de_cierre": "Domingo noche, lunes y martes",
+        "precio_medio": "45-50 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "EL LLAR",
+        "direccion": "C/Santa Catalina 15, Corbán (Santander)",
+        "telefono": "942 347 035",
+        "dias_de_cierre": "Domingo noche y lunes",
+        "precio_medio": "40-45 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "EL MUELLE DEL BARRIO PESQUERO",
+        "direccion": "Avda. Sotileza 36, Barrio Pesquero (Santander)",
+        "telefono": "942 364 217",
+        "dias_de_cierre": "Noches de domingo a jueves",
+        "precio_medio": "35-45 €",
+        "latitude": 43.4508893,
+        "longitude": -3.8198474
+    },
+    {
+        "nombre_del_restaurante": "EL POZO",
+        "direccion": "C/ Inés Diego del Noval 60, Cueto",
+        "telefono": "942 030 490",
+        "dias_de_cierre": "En invierno, lunes completo y tardes de domingo a jueves",
+        "precio_medio": "40-45 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "EL RINCONCITO",
+        "direccion": "C/ Aviche 3, Monte",
+        "telefono": "942 284 144",
+        "dias_de_cierre": "Martes por la tarde y miércoles",
+        "precio_medio": "25-30 €",
+        "latitude": 43.4659527,
+        "longitude": -3.8129131
+    },
+    {
+        "nombre_del_restaurante": "GAMBRINUS",
+        "direccion": "Avda. de los Castros 153, Santander",
+        "telefono": "942 355 934",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4645382,
+        "longitude": -3.828017
+    },
+    {
+        "nombre_del_restaurante": "GELÍN",
+        "direccion": "Avda. Nueva Montaña 2, Nueva Montaña",
+        "telefono": "942 332 733",
+        "dias_de_cierre": "Domingo completo; lunes y martes tarde",
+        "precio_medio": "45-55 €",
+        "latitude": 43.4400561,
+        "longitude": -3.8431103
+    },
+    {
+        "nombre_del_restaurante": "EL SERBAL",
+        "direccion": "Avda. Manuel García Lago, 1E, Santander",
+        "telefono": "942 222 515",
+        "dias_de_cierre": "Domingo y martes noche, y lunes",
+        "precio_medio": "80-100 €",
+        "latitude": 43.4806025,
+        "longitude": -3.7879253
+    },
+    {
+        "nombre_del_restaurante": "GASTROBAR COSTA 43 +1",
+        "direccion": "C/ Joaquín Costa 43, Santander +1",
+        "telefono": "942 282 009",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "20-35 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "GRAN CASINO DEL SARDINERO",
+        "direccion": "Plz. de Italia s/n, Santander",
+        "telefono": "942 291 032",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "GRAN HOTEL SARDINERO",
+        "direccion": "Plz. de Italia 1, Santander",
+        "telefono": "942 271 100",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "35-40 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "HOTEL BAHÍA",
+        "direccion": "C/ Cádiz 22, Santander",
+        "telefono": "942 205 024",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "50-55 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "KANDELA",
+        "direccion": "C/ Bonifaz 9, Santander",
+        "telefono": "942 526 583",
+        "dias_de_cierre": "Domingo noche y lunes",
+        "precio_medio": "40-50 €",
+        "latitude": 43.464007,
+        "longitude": -3.7979387
+    },
+    {
+        "nombre_del_restaurante": "HO'OPONOPONO",
+        "direccion": "C/ Peña Herbosa 23, Santander",
+        "telefono": "942 189 994",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4635843,
+        "longitude": -3.7978846
+    },
+    {
+        "nombre_del_restaurante": "HOTEL RHIN GARDEN",
+        "direccion": "Avda. de los Castros 17, Santander",
+        "telefono": "942 032 727",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "45-50 €",
+        "latitude": 43.4732774,
+        "longitude": -3.7870923
+    },
+    {
+        "nombre_del_restaurante": "LA BOMBI",
+        "direccion": "C/ Casimiro Sainz 15, Santander +1",
+        "telefono": "942 213 028",
+        "dias_de_cierre": "Martes",
+        "precio_medio": "80-100 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA BRÚJULA",
+        "direccion": "C/ San Fernando 52, Santander",
+        "telefono": "942 354 898",
+        "dias_de_cierre": "Lunes tarde",
+        "precio_medio": "20-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA CAPITANA",
+        "direccion": "C/ Castelar 5, Santander",
+        "telefono": "942 223 975",
+        "dias_de_cierre": "Domingo noche y lunes",
+        "precio_medio": "50-55 €",
+        "latitude": 43.4632801,
+        "longitude": -3.7956208
+    },
+    {
+        "nombre_del_restaurante": "LA CASA DE REVERT",
+        "direccion": "Avda. del Estadio 2, Santander",
+        "telefono": "942 281 806",
+        "dias_de_cierre": "Domingo noche y lunes",
+        "precio_medio": "30-35 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA BUENA MOZA",
+        "direccion": "C/ Victoriano Fernández 49, San Román",
+        "telefono": "942 346 085",
+        "dias_de_cierre": "Lunes. Tardes de sábado a jueves",
+        "precio_medio": "30-40 €",
+        "latitude": 43.4699743,
+        "longitude": -3.8588065
+    },
+    {
+        "nombre_del_restaurante": "LA CARNAZA",
+        "direccion": "Plaza de Cañadío 1, Santander",
+        "telefono": "942 555 447",
+        "dias_de_cierre": "Lunes",
+        "precio_medio": "20-25 €",
+        "latitude": 43.4636541,
+        "longitude": -3.8013884
+    },
+    {
+        "nombre_del_restaurante": "LA CASA DEL INDIANO",
+        "direccion": "C/ Hernán Cortés 4, Mercado del Este, Santander",
+        "telefono": "942 074 660",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "40-45 €",
+        "latitude": 43.4624481,
+        "longitude": -3.8046155
+    },
+    {
+        "nombre_del_restaurante": "LA CASONA DEL JUDÍO",
+        "direccion": "C/ Repuente 20, Monte, Santander",
+        "telefono": "942 342 726",
+        "dias_de_cierre": "Lunes y martes",
+        "precio_medio": "120-200 €",
+        "latitude": 43.4686352,
+        "longitude": -3.8291356
+    },
+    {
+        "nombre_del_restaurante": "LA CHULILLA",
+        "direccion": "Avda. Sotileza 36, Bo Pesquero, Santander",
+        "telefono": "942 313 655",
+        "dias_de_cierre": "Lunes y miércoles tarde",
+        "precio_medio": "35-40 €",
+        "latitude": 43.4508893,
+        "longitude": -3.8198474
+    },
+    {
+        "nombre_del_restaurante": "LA FLOR DE MIRANDA",
+        "direccion": "Paseo de Altamira 2, Santander",
+        "telefono": "942 281 081",
+        "dias_de_cierre": "Miércoles",
+        "precio_medio": "60-65 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA CÁTEDRA",
+        "direccion": "C/ del Medio 5, Santander",
+        "telefono": "942 760 126",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "25-30 €",
+        "latitude": 43.4627424,
+        "longitude": -3.8047904
+    },
+    {
+        "nombre_del_restaurante": "LA CONVENIENTE",
+        "direccion": "C/ Gómez Oreña 9, Santander",
+        "telefono": "942 212 887",
+        "dias_de_cierre": "Domingo",
+        "precio_medio": "25-30 €",
+        "latitude": 43.4635522,
+        "longitude": -3.8025215
+    },
+    {
+        "nombre_del_restaurante": "LA GLORIA DE CARRIEDO",
+        "direccion": "C/ Cádiz 12, Santander +1",
+        "telefono": "942 215 081",
+        "dias_de_cierre": "Domingo",
+        "precio_medio": "15-25 €",
+        "latitude": 36.3553378,
+        "longitude": -6.1141034
+    },
+    {
+        "nombre_del_restaurante": "LA GRUTA DE JOSÉ",
+        "direccion": "Plz. Cabildos 9, Barrio Pesquero, Santander",
+        "telefono": "942 134 718",
+        "dias_de_cierre": "Martes",
+        "precio_medio": "40-45 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA MANO DE FÁTIMA",
+        "direccion": "C/ Lope de Vega, 23, Santander",
+        "telefono": "942 796 032 y 685 063 596",
+        "dias_de_cierre": "Lunes y las comidas de los martes",
+        "precio_medio": "25-30 €",
+        "latitude": 43.464134,
+        "longitude": -3.7998947
+    },
+    {
+        "nombre_del_restaurante": "LA MULATA",
+        "direccion": "C/ Tetuán s/n, Santander",
+        "telefono": "942 363 785",
+        "dias_de_cierre": "Domingo tarde y lunes en temporada baja",
+        "precio_medio": "60.0",
+        "latitude": 43.4661301,
+        "longitude": -3.7923719
+    },
+    {
+        "nombre_del_restaurante": "LA HERMOSA DE ALBA",
+        "direccion": "C/ Tetuán 34 bajo, Santander",
+        "telefono": "942 809 108",
+        "dias_de_cierre": "Domingo y lunes",
+        "precio_medio": "45-50 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA MAYOR",
+        "direccion": "C/ Juan de la Cosa 5, Santander",
+        "telefono": "942 216 973",
+        "dias_de_cierre": "Martes noche y miércoles",
+        "precio_medio": "45-50 €",
+        "latitude": 43.2631465,
+        "longitude": -4.0635046
+    },
+    {
+        "nombre_del_restaurante": "LA NUEVA GAVIOTA",
+        "direccion": "C/ Marqués de la Ensenada 32, Bo Pesquero, Santander",
+        "telefono": "942 304 112",
+        "dias_de_cierre": "Lunes",
+        "precio_medio": "35-40 €",
+        "latitude": 43.4522422,
+        "longitude": -3.8176534
+    },
+    {
+        "nombre_del_restaurante": "LA NUNCIA BY SERGIO TOCA",
+        "direccion": "C/ Arriba 67, Cueto (Santander)",
+        "telefono": "942 398 697",
+        "dias_de_cierre": "Domingo noche; lunes y miércoles",
+        "precio_medio": "30-40 €",
+        "latitude": 43.4788338,
+        "longitude": -3.810179
+    },
+    {
+        "nombre_del_restaurante": "LA POSADA DEL MAR",
+        "direccion": "C/ Castelar 19, Santander",
+        "telefono": "942 213 023",
+        "dias_de_cierre": "Domingo noche y lunes",
+        "precio_medio": "80.0",
+        "latitude": 43.4631381,
+        "longitude": -3.7938995
+    },
+    {
+        "nombre_del_restaurante": "LA RADIO",
+        "direccion": "Paseo de Altamira 103, Santander",
+        "telefono": "942 232 628",
+        "dias_de_cierre": "Domingo noche y lunes",
+        "precio_medio": "40-50 €",
+        "latitude": 43.4645411,
+        "longitude": -3.8190324
+    },
+    {
+        "nombre_del_restaurante": "LA PIRULA",
+        "direccion": "C/ Peña Herbosa 21, Santander",
+        "telefono": "942 225 785",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "30-35 €",
+        "latitude": 43.4635783,
+        "longitude": -3.7980563
+    },
+    {
+        "nombre_del_restaurante": "LA PRENSA",
+        "direccion": "Bo La Torre 86, Monte",
+        "telefono": "942 320 182",
+        "dias_de_cierre": "Martes",
+        "precio_medio": "35-40 €",
+        "latitude": 43.4699491,
+        "longitude": -3.8246481
+    },
+    {
+        "nombre_del_restaurante": "LA SANTANDERINA",
+        "direccion": "C/ Rubio 10, Santander",
+        "telefono": "942 049 172",
+        "dias_de_cierre": "Domingo noche y lunes",
+        "precio_medio": "30-35 €",
+        "latitude": 43.462274,
+        "longitude": -3.8130392
+    },
+    {
+        "nombre_del_restaurante": "LA TUCHO",
+        "direccion": "C/ San Román 12, Corbán Santander",
+        "telefono": "942 336 177 y 673 752 220",
+        "dias_de_cierre": "Lunes",
+        "precio_medio": "50-55 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA VINOTECA",
+        "direccion": "C/ Hernán Cortés 38, Santander",
+        "telefono": "942 075 741",
+        "dias_de_cierre": "Domingo noche y lunes",
+        "precio_medio": "60.0",
+        "latitude": 43.4630999,
+        "longitude": -3.798047
+    },
+    {
+        "nombre_del_restaurante": "LALOLA",
+        "direccion": "C/ Inés Diego del Noval 31, Cueto",
+        "telefono": "942 393 203",
+        "dias_de_cierre": "Lunes tarde y martes completo",
+        "precio_medio": "30-35 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA VENTANA",
+        "direccion": "C/ El Somo 114, S. Román Llanilla",
+        "telefono": "942 337 035",
+        "dias_de_cierre": "Domingo",
+        "precio_medio": "40-45 €",
+        "latitude": 43.4662339,
+        "longitude": -3.8631034
+    },
+    {
+        "nombre_del_restaurante": "LA VOLADORA",
+        "direccion": "C/ Bonifaz 21, Santander",
+        "telefono": "942 259 761",
+        "dias_de_cierre": "Noches de domingo, martes y miércoles, y lunes completo",
+        "precio_medio": "35-45 €",
+        "latitude": 43.4640902,
+        "longitude": -3.7970849
+    },
+    {
+        "nombre_del_restaurante": "LAMARTI",
+        "direccion": "C/ Hernán Cortés 47, Santander +1",
+        "telefono": "942 786 815",
+        "dias_de_cierre": "Domingo noche",
+        "precio_medio": "25-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LAS OLAS",
+        "direccion": "Bo Corbanera 98, La Maruca (Santander)",
+        "telefono": "942 342 027",
+        "dias_de_cierre": "Martes",
+        "precio_medio": "30-35 €",
+        "latitude": 43.4781023,
+        "longitude": -3.8368858
+    },
+    {
+        "nombre_del_restaurante": "LAURY",
+        "direccion": "Avda. Pedro San Martín 4, Santander",
+        "telefono": "942 330 109",
+        "dias_de_cierre": "Noches de domingo a jueves",
+        "precio_medio": "50-60 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LOS PEÑUCAS",
+        "direccion": "C/ Marqués de la Ensenada 35, Bo Pesquero",
+        "telefono": "942 229 445",
+        "dias_de_cierre": "Miércoles",
+        "precio_medio": "30-40 €",
+        "latitude": 43.4514621,
+        "longitude": -3.8201456
+    },
+    {
+        "nombre_del_restaurante": "LAS TERRAZAS DE CARMEN",
+        "direccion": "Avda. Marqués de la Hermida 7, Santander",
+        "telefono": "942 353 678",
+        "dias_de_cierre": "Lunes tarde y martes",
+        "precio_medio": "25-30 €",
+        "latitude": 43.4520804,
+        "longitude": -3.8254182
+    },
+    {
+        "nombre_del_restaurante": "LOS INFANTES GOURMET",
+        "direccion": "C/ Maura 21, Santander",
+        "telefono": "942 074 300",
+        "dias_de_cierre": "Martes en invierno",
+        "precio_medio": "45-50 €",
+        "latitude": 36.0161179,
+        "longitude": -5.604263
+    },
+    {
+        "nombre_del_restaurante": "MACHINERO",
+        "direccion": "C/ Juan de Santander 16, Santander",
+        "telefono": "942 314 921",
+        "dias_de_cierre": "Domingo completo y sábado noche en invierno",
+        "precio_medio": "35-40 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "MAMASANA",
+        "direccion": "C/ Daoíz y Velarde 10, Santander",
+        "telefono": "942 013 992 y 631 700 566",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4630121,
+        "longitude": -3.8022521
+    },
+    {
+        "nombre_del_restaurante": "MAREA ALTA HOTEL DORMA SARDINERO",
+        "direccion": "Avda. Reina Victoria 153, Santander",
+        "telefono": "942 274 300",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "35-40 €",
+        "latitude": 43.4713536,
+        "longitude": -3.780727
+    },
+    {
+        "nombre_del_restaurante": "MARISQUERÍA ACUARIO",
+        "direccion": "C/ Gregorio Marañón 1, Santander",
+        "telefono": "942 277 127",
+        "dias_de_cierre": "Martes en invierno",
+        "precio_medio": "40-50 €",
+        "latitude": 43.4798115,
+        "longitude": -3.7894205
+    },
+    {
+        "nombre_del_restaurante": "MARCELLO",
+        "direccion": "C/ Floranes 29, Santander",
+        "telefono": "942 373 007",
+        "dias_de_cierre": "Domingo y lunes",
+        "precio_medio": "20-25 €",
+        "latitude": 43.4606664,
+        "longitude": -3.8217703
+    },
+    {
+        "nombre_del_restaurante": "MAREMONDO",
+        "direccion": "Plaza de Italia s/n, Santander",
+        "telefono": "942 273 034",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "45-50 €",
+        "latitude": 43.4723707,
+        "longitude": -3.7824849
+    },
+    {
+        "nombre_del_restaurante": "MARUCHO",
+        "direccion": "C/ Tetuán 21, Santander",
+        "telefono": "655 850 186 y 637 675 982 +1",
+        "dias_de_cierre": "Martes tarde y miércoles completo",
+        "precio_medio": "60.0",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "MESÓN GELE",
+        "direccion": "C/ Eduardo Benot 4, Santander",
+        "telefono": "942 221 021",
+        "dias_de_cierre": "Domingo noche y lunes",
+        "precio_medio": "30-40€",
+        "latitude": 36.7423842,
+        "longitude": -5.7990818
+    },
+    {
+        "nombre_del_restaurante": "MESÓN LOS ARCOS",
+        "direccion": "C/ Hernán Cortés 3-C/ del Medio 4, Santander",
+        "telefono": "942 222 092",
+        "dias_de_cierre": "Martes",
+        "precio_medio": "30-35 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "MI ALACENA GOURMET",
+        "direccion": "C/ Peña Herbosa 33-Bajo, Santander",
+        "telefono": "942 042 796",
+        "dias_de_cierre": "Domingos y festivos tarde",
+        "precio_medio": "30-40 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "MESÓN GOYA",
+        "direccion": "C/ Daoíz y Velarde 25, Santander +1",
+        "telefono": "942 213 066",
+        "dias_de_cierre": "Martes",
+        "precio_medio": "40-45 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "MESÓN PARRILLA BRASAS",
+        "direccion": "C/ Peña Herbosa 3, Santander",
+        "telefono": "942 361 284",
+        "dias_de_cierre": "Martes a mediodía y miércoles completo",
+        "precio_medio": "30-35 €",
+        "latitude": 43.4634344,
+        "longitude": -3.7994167
+    },
+    {
+        "nombre_del_restaurante": "MIXTO SUSHI-NIKKEI",
+        "direccion": "C/ Santa Lucía 12, Santander",
+        "telefono": "644 294 355",
+        "dias_de_cierre": "Domingo y lunes",
+        "precio_medio": "25-30 €",
+        "latitude": 43.4642282,
+        "longitude": -3.8015913
+    },
+    {
+        "nombre_del_restaurante": "MÓDENA",
+        "direccion": "C/ Eduardo Benot 6, Santander",
+        "telefono": "942 313 371",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "20-25 €",
+        "latitude": 43.4626967,
+        "longitude": -3.8007154
+    },
+    {
+        "nombre_del_restaurante": "ORIGEN RESTAURANTE ASADOR",
+        "direccion": "C/ La Torre 79, Santander",
+        "telefono": "942 290 713",
+        "dias_de_cierre": "Domingo noche y lunes",
+        "precio_medio": "35-50 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "PARRILLA GINÉS",
+        "direccion": "Avda. Castañeda 15, Santander",
+        "telefono": "942 281 020",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "25-35 €",
+        "latitude": 43.4757241,
+        "longitude": -3.7892015
+    },
+    {
+        "nombre_del_restaurante": "NACHOS&CO",
+        "direccion": "C/ Josefina de la Maza 6, local 8b. Santander",
+        "telefono": "942 030 959",
+        "dias_de_cierre": "Lunes",
+        "precio_medio": "20-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "PANORAMA-HOTEL CHIQUI",
+        "direccion": "Avda. García Lago 9, Santander",
+        "telefono": "686 388 007",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "35-40 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "PEÑA CANDIL",
+        "direccion": "Plz. del Progreso 9, Santander",
+        "telefono": "942 313 025",
+        "dias_de_cierre": "Domingo tarde y lunes completo",
+        "precio_medio": "40-50 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "PICOS DE EUROPA",
+        "direccion": "C/ Vargas 15, Santander",
+        "telefono": "942 231 036",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "25-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "QUERIDA MARGARITA",
+        "direccion": "C/ Andrés del Río 7, Santander",
+        "telefono": "630 341 743",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "30.0",
+        "latitude": 43.464858,
+        "longitude": -3.7964997
+    },
+    {
+        "nombre_del_restaurante": "ROCAMAR",
+        "direccion": "C/ Panamá 2, Santander +1",
+        "telefono": "942 290 962",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "25-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "QUERIDA MAR",
+        "direccion": "Avda. García Lago, El Sardinero, Santander",
+        "telefono": "633 164 536",
+        "dias_de_cierre": "Domingos y martes noche; Lunes",
+        "precio_medio": "30.0",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "RAMPALAY",
+        "direccion": "C/ Daoíz y Velarde 9, Santander",
+        "telefono": "942 313 367",
+        "dias_de_cierre": "Martes",
+        "precio_medio": "25-35 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "SOUL SIMANCAS",
+        "direccion": "C/ Vargas 57, Santander",
+        "telefono": "942 189 175",
+        "dias_de_cierre": "Lunes",
+        "precio_medio": "20-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "TABERNA DEL HERRERO HERNÁN CORTÉS",
+        "direccion": "C/ Hernán Cortés 47, Santander",
+        "telefono": "942 410 015",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "35-40 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "TABERNA DEL HERRERO RUBIO",
+        "direccion": "C/ Rubio 4, Santander",
+        "telefono": "942 055 419",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "35-40 €",
+        "latitude": 43.4622725,
+        "longitude": -3.8122205
+    },
+    {
+        "nombre_del_restaurante": "TABERNA SANTOÑA",
+        "direccion": "C/ José Ramón López Dóriga 3, Santander +1",
+        "telefono": "942 220 011",
+        "dias_de_cierre": "Martes",
+        "precio_medio": "20-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "TABERNA DEL HERRERO PEÑACASTILLO",
+        "direccion": "El Castro 24, Pol. El Campón, Peñacastillo, Santander",
+        "telefono": "942 320 243",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "35-40 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "TABERNA DEL HERRERO S-20 +1",
+        "direccion": "Bajada del Caleruco 59, Santander",
+        "telefono": "620 290 152",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "35-40 €",
+        "latitude": 43.4636114,
+        "longitude": -3.8310294
+    },
+    {
+        "nombre_del_restaurante": "TACOS POINT",
+        "direccion": "El Corte Inglés. Av. Nueva Montaña, Santander",
+        "telefono": "942 065 967",
+        "dias_de_cierre": "Ninguno",
+        "precio_medio": "20-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "TANUKI",
+        "direccion": "Avda. Dr. Diego Madrazo nº 3, Valdenoja, Santander",
+        "telefono": "610 999 196",
+        "dias_de_cierre": "Domingo y lunes",
+        "precio_medio": "30-35 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "TRATTORÍA MODERNA GARBO",
+        "direccion": "C/ Bonifaz 19, Santander",
+        "telefono": "641 785 260",
+        "dias_de_cierre": "Domingo y lunes completo",
+        "precio_medio": "40.0",
+        "latitude": 43.4639769,
+        "longitude": -3.797035
+    },
+    {
+        "nombre_del_restaurante": "VERMUTERÍA DE VICIO",
+        "direccion": "C/ Cádiz 18, Santander +1",
+        "telefono": "942 403 553",
+        "dias_de_cierre": "Domingo tarde y lunes",
+        "precio_medio": "25-30 €",
+        "latitude": 36.7731888,
+        "longitude": -6.3615358
+    },
+    {
+        "nombre_del_restaurante": "TETUÁN 23",
+        "direccion": "C/ Tetuán nº 23, Santander",
+        "telefono": "942 417 580",
+        "dias_de_cierre": "Domingo noche y martes y miércoles completos",
+        "precio_medio": "40-45 €",
+        "latitude": 43.4661301,
+        "longitude": -3.7923719
+    },
+    {
+        "nombre_del_restaurante": "UMMA",
+        "direccion": "C/ Del Sol 47, Santander",
+        "telefono": "942 219 595",
+        "dias_de_cierre": "Domingo noche, lunes y martes",
+        "precio_medio": "60.0",
+        "latitude": 43.4654054,
+        "longitude": -3.7978371
+    },
+    {
+        "nombre_del_restaurante": "VERMUTERÍA SOLÓRZANO",
+        "direccion": "C/ Peña Herbosa 17, Santander",
+        "telefono": "942 222 724",
+        "dias_de_cierre": "Noches de domingo a miércoles",
+        "precio_medio": "20-25 €",
+        "latitude": 43.4635402,
+        "longitude": -3.7982944
+    },
+    {
+        "nombre_del_restaurante": "A BANDA, ARROZ Y MÁS",
+        "direccion": "C/ Peña Herbosa 15, Santander",
+        "telefono": "942 938 877",
+        "dias_de_cierre": "",
+        "precio_medio": "35-40 €",
+        "latitude": 43.4635105,
+        "longitude": -3.798613
+    },
+    {
+        "nombre_del_restaurante": "ABEL",
+        "direccion": "C/ Fernando de los Ríos 62, Santander",
+        "telefono": "942 313 503",
+        "dias_de_cierre": "",
+        "precio_medio": "25-30 €",
+        "latitude": 43.4690547,
+        "longitude": -3.802898
+    },
+    {
+        "nombre_del_restaurante": "AJÍ LIMÓN BY NELLY",
+        "direccion": "C/ Virgen del Camino 6, Santander",
+        "telefono": "623 569 374",
+        "dias_de_cierre": "",
+        "precio_medio": "25-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "ALASKA",
+        "direccion": "Po Pereda 16, Santander",
+        "telefono": "942 225 210",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "AMARELLA CAFÉ & BISTRÓ",
+        "direccion": "C/ Calderón de la Barca 15, Santander",
+        "telefono": "942 821 675",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": 43.4597887,
+        "longitude": -3.807444
+    },
+    {
+        "nombre_del_restaurante": "AMAZONIA",
+        "direccion": "C/ José Ortega y Gasset 31, Peñacastillo, Santander",
+        "telefono": "697 713 402",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "ÁNCORA",
+        "direccion": "C/ Marcos Ruiloba Palazuelos 10, Polígono de Raos, Santander",
+        "telefono": "629 494 077",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4352682,
+        "longitude": -3.8346385
+    },
+    {
+        "nombre_del_restaurante": "ARRABAL 11",
+        "direccion": "C/ Arrabal 11, Santander",
+        "telefono": "942 030 616",
+        "dias_de_cierre": "",
+        "precio_medio": "35-40 €",
+        "latitude": 43.4630864,
+        "longitude": -3.8048165
+    },
+    {
+        "nombre_del_restaurante": "ASADOR LA MONTAÑA",
+        "direccion": "C/ Francisco Tomás y Valiente 11B, bajo 10, Santander",
+        "telefono": "611 435 766",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "ATEKA MONTE",
+        "direccion": "C/ Repuente 13, Santander",
+        "telefono": "942 340 105",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4694595,
+        "longitude": -3.8275848
+    },
+    {
+        "nombre_del_restaurante": "ATRAQUE TAPAS",
+        "direccion": "C/ Peña Herbosa 20, Santander",
+        "telefono": "942 087 108",
+        "dias_de_cierre": "",
+        "precio_medio": "20-30 €",
+        "latitude": 43.463571,
+        "longitude": -3.7970561
+    },
+    {
+        "nombre_del_restaurante": "ATYPIQUE",
+        "direccion": "C/ Castelar 11, Santander",
+        "telefono": "661 179 256",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.463222,
+        "longitude": -3.7949143
+    },
+    {
+        "nombre_del_restaurante": "AVENIDA CANDINA",
+        "direccion": "Avda. Candina 6, Santander",
+        "telefono": "942 301 768",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4530638,
+        "longitude": -3.8297472
+    },
+    {
+        "nombre_del_restaurante": "BALNEARIO DE LA CONCHA",
+        "direccion": "Avda. Reina Victoria 46, Santander",
+        "telefono": "942 290 919",
+        "dias_de_cierre": "",
+        "precio_medio": "40-45 €",
+        "latitude": 43.4713947,
+        "longitude": -3.77962
+    },
+    {
+        "nombre_del_restaurante": "BAMBALINAS HOTEL DORMA COLISEUM",
+        "direccion": "C/ Plaza de los Remedios 1, Santander",
+        "telefono": "942 318 081",
+        "dias_de_cierre": "",
+        "precio_medio": "25-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "BAO KING",
+        "direccion": "C/ Hernán Cortés 51, Santander",
+        "telefono": "942 045 777",
+        "dias_de_cierre": "",
+        "precio_medio": "25-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "BAR 1º DE MAYO",
+        "direccion": "Avda. 1º de Mayo 28-bajo, Santander",
+        "telefono": "655 022 716",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "BAR ADARZO",
+        "direccion": "Bº Adarzo 135 A, Peñacastillo (Santander)",
+        "telefono": "942 322 003",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "BAR CARIBE",
+        "direccion": "C/ Joaquín Costa 47, Santander",
+        "telefono": "942 785 411",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4715451,
+        "longitude": -3.7823218
+    },
+    {
+        "nombre_del_restaurante": "BAR COS",
+        "direccion": "C/ Calderón de la Barca 11, Santander",
+        "telefono": "942 074 747",
+        "dias_de_cierre": "",
+        "precio_medio": "30-40 €",
+        "latitude": 43.4597548,
+        "longitude": -3.807566
+    },
+    {
+        "nombre_del_restaurante": "BAR HERMANOS MANRIQUE",
+        "direccion": "Paseo de Altamira 230, Santander",
+        "telefono": "942 392 536",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4671974,
+        "longitude": -3.815074
+    },
+    {
+        "nombre_del_restaurante": "BAR MORA",
+        "direccion": "C/ Río Cubas 10, Santander",
+        "telefono": "942 275 023",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "BEDOYA",
+        "direccion": "Avda. del Deporte 13, Santander",
+        "telefono": "942 341 874",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.460055,
+        "longitude": -3.8530453
+    },
+    {
+        "nombre_del_restaurante": "BEDOYA 2",
+        "direccion": "Avda. Los Castros 53, Santander",
+        "telefono": "669 611 606",
+        "dias_de_cierre": "Domingos y festivos",
+        "precio_medio": "",
+        "latitude": 43.4717539,
+        "longitude": -3.7957366
+    },
+    {
+        "nombre_del_restaurante": "BELLINI",
+        "direccion": "Paseo de Altamira 306, Santander",
+        "telefono": "942 033 803",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4623524,
+        "longitude": -3.828163
+    },
+    {
+        "nombre_del_restaurante": "BEMOL",
+        "direccion": "Paseo de Altamira 206 bajo, Santander",
+        "telefono": "942 055 031",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "BODEGA FARÓN",
+        "direccion": "C/ Juan Guerrero Urreisti 4, Santander",
+        "telefono": "942 020 050",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "BODEGA FUENTE DÉ",
+        "direccion": "C/ Peña Herbosa 5, Santander",
+        "telefono": "942 213 058",
+        "dias_de_cierre": "",
+        "precio_medio": "25.0",
+        "latitude": 43.4634551,
+        "longitude": -3.7992764
+    },
+    {
+        "nombre_del_restaurante": "BODEGAS MAZÓN",
+        "direccion": "C/ Hernán Cortés 57, Santander",
+        "telefono": "942 215 752",
+        "dias_de_cierre": "",
+        "precio_medio": "25-30 €",
+        "latitude": 43.4632399,
+        "longitude": -3.797712
+    },
+    {
+        "nombre_del_restaurante": "BODI MATALEÑAS",
+        "direccion": "C/ Autonomía 2, Santander",
+        "telefono": "942 391 881",
+        "dias_de_cierre": "",
+        "precio_medio": "20-30 €",
+        "latitude": 43.4832751,
+        "longitude": -3.7916027
+    },
+    {
+        "nombre_del_restaurante": "BOLERA MATEO GRIJUELA",
+        "direccion": "C/ Gerardo Diego 38, Santander",
+        "telefono": "650 347 363",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20€",
+        "latitude": 36.7696849,
+        "longitude": -6.3391813
+    },
+    {
+        "nombre_del_restaurante": "BRITANNIA",
+        "direccion": "C/ Luis Riera Vega, Santander",
+        "telefono": "942 139 510",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": 43.4680034,
+        "longitude": -3.8335093
+    },
+    {
+        "nombre_del_restaurante": "BRUMA",
+        "direccion": "C/ Peña Herbosa 9, Santander",
+        "telefono": "942 406 702",
+        "dias_de_cierre": "",
+        "precio_medio": "25-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "BRUTALE",
+        "direccion": "C/ Ataúlfo Argenta Músico 35, Santander",
+        "telefono": "842 863 683",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "CAFÉ BAR TATEN",
+        "direccion": "C/ Hermanos Calderón 22, Santander",
+        "telefono": "642 550 982",
+        "dias_de_cierre": "",
+        "precio_medio": "10-15 €",
+        "latitude": 43.4425196,
+        "longitude": -3.8542135
+    },
+    {
+        "nombre_del_restaurante": "CAFÉ CHEMA",
+        "direccion": "C/San José 13. Santander",
+        "telefono": "942 049 374",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "CAFÉ ESCUDERO",
+        "direccion": "Avda. Los Castros 53, Santander",
+        "telefono": "942 27 40 63",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4717589,
+        "longitude": -3.7956255
+    },
+    {
+        "nombre_del_restaurante": "CAFÉ LA VIÑA",
+        "direccion": "C/ San Fernando 22, Santander",
+        "telefono": "942 375 018",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.2661106,
+        "longitude": -4.0600788
+    },
+    {
+        "nombre_del_restaurante": "CAFÉ LOS ROBLES",
+        "direccion": "C/ San Martín del Pino 5, Santander",
+        "telefono": "633 422 453",
+        "dias_de_cierre": "",
+        "precio_medio": "10-15 €",
+        "latitude": 43.4486554,
+        "longitude": -3.8534459
+    },
+    {
+        "nombre_del_restaurante": "CAFÉ POMBO",
+        "direccion": "C/ Hernán Cortés 21, Santander",
+        "telefono": "942 220 466",
+        "dias_de_cierre": "",
+        "precio_medio": "25-30 €",
+        "latitude": 43.4627994,
+        "longitude": -3.8023093
+    },
+    {
+        "nombre_del_restaurante": "CAFETERÍA ANTAY",
+        "direccion": "Paseo de Altamira 184, Santander",
+        "telefono": "942 215 821",
+        "dias_de_cierre": "",
+        "precio_medio": "10-15 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "CAFETERÍA DHARMA",
+        "direccion": "Av. Primero de Mayo 64, Santander",
+        "telefono": "942 690 767",
+        "dias_de_cierre": "",
+        "precio_medio": "10-15 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "CAFETERÍA GÓMEZ FUSIÓN",
+        "direccion": "C/ Paseo de Pereda 21. Santander",
+        "telefono": "942 133 100",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "CAFETERÍA PALMA",
+        "direccion": "C/ San Fernando 72, Santander",
+        "telefono": "942 231 073",
+        "dias_de_cierre": "",
+        "precio_medio": "10-25 €",
+        "latitude": 43.459048,
+        "longitude": -3.8251834
+    },
+    {
+        "nombre_del_restaurante": "CAFETERÍA PETRA",
+        "direccion": "Paseo Canallejas 63, Santander",
+        "telefono": "942 873 938 y 692 493 327",
+        "dias_de_cierre": "",
+        "precio_medio": "10-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "CAFETERÍA RÚA",
+        "direccion": "C/ Rualasal 15, Santander",
+        "telefono": "942 142 333",
+        "dias_de_cierre": "",
+        "precio_medio": "10.0",
+        "latitude": 43.4628799,
+        "longitude": -3.8064095
+    },
+    {
+        "nombre_del_restaurante": "CAL",
+        "direccion": "C/ Daoíz y Velarde 18, Santander",
+        "telefono": "640 522 861",
+        "dias_de_cierre": "",
+        "precio_medio": "25-35 €",
+        "latitude": 43.4630792,
+        "longitude": -3.8012345
+    },
+    {
+        "nombre_del_restaurante": "CAMPING VIRGEN DEL MAR",
+        "direccion": "Avda. Virgen del Mar 60, Santander",
+        "telefono": "942 342 425",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "CAÑAS",
+        "direccion": "C/ Ricardo León 3, Santander",
+        "telefono": "942 807 794",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "CAPTAIN CHICKEN",
+        "direccion": "C/ Tetuán 23. Santander",
+        "telefono": "681 163 746",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4657706,
+        "longitude": -3.7950149
+    },
+    {
+        "nombre_del_restaurante": "CARNIBALL SMASH BURGER",
+        "direccion": "C/ Alonso Ercilla 4 y Gómez Oreña 13, Santander",
+        "telefono": "942 042 764",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "CARPANTA Y MÁS",
+        "direccion": "C/ Floranes 10E, Santander",
+        "telefono": "942 041 676",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "CASA ALEGRÍA",
+        "direccion": "C/ Casimiro Sainz 3, Santander",
+        "telefono": "942 792 370",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 42.99558,
+        "longitude": -4.1399834
+    },
+    {
+        "nombre_del_restaurante": "CASA ARAUJO",
+        "direccion": "C/ Perines 18, Santander",
+        "telefono": "645 973 606",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4610728,
+        "longitude": -3.8222175
+    },
+    {
+        "nombre_del_restaurante": "CASA MIGUEL",
+        "direccion": "C/ Virgen del Mar 4, Corbán (Santander)",
+        "telefono": "942 321 773",
+        "dias_de_cierre": "",
+        "precio_medio": "40-45 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "CASA SAMPEDRO",
+        "direccion": "Bº Adarzo 94, Peñacastillo (Santander)",
+        "telefono": "942 321 365",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": 43.4515339,
+        "longitude": -3.866121
+    },
+    {
+        "nombre_del_restaurante": "CASA TEO",
+        "direccion": "C/ Vargas 1, Santander",
+        "telefono": "942 302 822",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4603018,
+        "longitude": -3.8189018
+    },
+    {
+        "nombre_del_restaurante": "CASTILLA 23",
+        "direccion": "C/ Castilla 23, Santander",
+        "telefono": "942 228 100",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "CERVECERÍA CASTILLA 75",
+        "direccion": "C/ Castilla 75, Santander",
+        "telefono": "660 839 724",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4541597,
+        "longitude": -3.821723
+    },
+    {
+        "nombre_del_restaurante": "CHIRINGUITO DEL EMBARCADERO",
+        "direccion": "Paseo Marítimo s/n, Santander",
+        "telefono": "942 216 753",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": 43.421921,
+        "longitude": -3.4439049
+    },
+    {
+        "nombre_del_restaurante": "CHOCOLATERÍA ÁLIVA",
+        "direccion": "C/ Daoíz y Velarde 7, Santander",
+        "telefono": "942 222 049",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4630283,
+        "longitude": -3.8028525
+    },
+    {
+        "nombre_del_restaurante": "CHOCOLATERÍA VALOR",
+        "direccion": "C/ Castelar 27, Santander",
+        "telefono": "942 946 580",
+        "dias_de_cierre": "",
+        "precio_medio": "10-15 €",
+        "latitude": 43.46308,
+        "longitude": -3.7931274
+    },
+    {
+        "nombre_del_restaurante": "COMO EL DULCE DE LECHE",
+        "direccion": "Pasaje de Arcillero 3, Santander",
+        "telefono": "693 004 109",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4626467,
+        "longitude": -3.8066377
+    },
+    {
+        "nombre_del_restaurante": "CONDE LUNA",
+        "direccion": "C/Inés Diego del Noval 11, Cueto (Santander)",
+        "telefono": "942 391 716",
+        "dias_de_cierre": "",
+        "precio_medio": "40-50 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "CORONNA",
+        "direccion": "C/ Gregorio Marañón 1, Santander",
+        "telefono": "942 275 619",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4798115,
+        "longitude": -3.7894205
+    },
+    {
+        "nombre_del_restaurante": "CRUZ BLANCA",
+        "direccion": "C/ Hernán Cortés 24, Santander",
+        "telefono": "942 364 295",
+        "dias_de_cierre": "",
+        "precio_medio": "20-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "CUCHARA CANALLA",
+        "direccion": "C/ San José 17, Santander",
+        "telefono": "942 062 509",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": 43.4629793,
+        "longitude": -3.805368
+    },
+    {
+        "nombre_del_restaurante": "DATE EL GUSTO",
+        "direccion": "C/ Los Plátanos 5, bajo, Santander",
+        "telefono": "601 570 193",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "DE LEÓN",
+        "direccion": "Av. Virgen del Mar 10, Corbán, Santander",
+        "telefono": "942 310 245",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": 43.4661988,
+        "longitude": -3.8680319
+    },
+    {
+        "nombre_del_restaurante": "DI PIAZZOLLA",
+        "direccion": "C/ Floranes 13, Santander",
+        "telefono": "682 628 283",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "DONDE ROBER",
+        "direccion": "C/ José Ortega y Gasset 32, Santander",
+        "telefono": "686 503 285",
+        "dias_de_cierre": "",
+        "precio_medio": "10-15 €",
+        "latitude": 36.7118385,
+        "longitude": -6.1087559
+    },
+    {
+        "nombre_del_restaurante": "DONDENANDO",
+        "direccion": "C/ Joaquín Costa 43, Santander",
+        "telefono": "942 377 171",
+        "dias_de_cierre": "",
+        "precio_medio": "25-30 €",
+        "latitude": 43.4712761,
+        "longitude": -3.782574
+    },
+    {
+        "nombre_del_restaurante": "DONDE SIEMPRE",
+        "direccion": "C/ Valdenoja 33, Santander",
+        "telefono": "942 055 767",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4807345,
+        "longitude": -3.7937872
+    },
+    {
+        "nombre_del_restaurante": "DUBLÍN",
+        "direccion": "C/ Vargas 2, Santander",
+        "telefono": "942 409 981",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "EDUARDO'S",
+        "direccion": "C/ Peña Herbosa 13, Santander",
+        "telefono": "942 093 798",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4635126,
+        "longitude": -3.7987393
+    },
+    {
+        "nombre_del_restaurante": "EKEKO CHIFA BAR",
+        "direccion": "C/ Tres de Noviembre 22, Santander",
+        "telefono": "604 839 417",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "EL CASTELLANO",
+        "direccion": "C/ Burgos 32, Santander",
+        "telefono": "942 185 249",
+        "dias_de_cierre": "",
+        "precio_medio": "30-40 €",
+        "latitude": 43.4612633,
+        "longitude": -3.8167727
+    },
+    {
+        "nombre_del_restaurante": "EL ALBA",
+        "direccion": "Av. Los Castros 71, Santander",
+        "telefono": "622 008 035",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4696521,
+        "longitude": -3.8059187
+    },
+    {
+        "nombre_del_restaurante": "EL APAPACHO",
+        "direccion": "C/ Del Medio 9 bajo, Santander",
+        "telefono": "615 609 888",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4627906,
+        "longitude": -3.8048338
+    },
+    {
+        "nombre_del_restaurante": "EL BULÍN DE LA TASCA",
+        "direccion": "C/Gándara 3, Santander",
+        "telefono": "942 360 756",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4628892,
+        "longitude": -3.7984329
+    },
+    {
+        "nombre_del_restaurante": "EL BÚNKER",
+        "direccion": "C/Marqués de la Hermida 44, Santander",
+        "telefono": "602 610 589",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4539756,
+        "longitude": -3.8199146
+    },
+    {
+        "nombre_del_restaurante": "EL CACHALOTE",
+        "direccion": "Plz. Cañadío 5, Santander",
+        "telefono": "942 035 041",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "EL CHUMARRU",
+        "direccion": "C/ La Montañesa 7, Santander",
+        "telefono": "942 222 614",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4655307,
+        "longitude": -3.7924694
+    },
+    {
+        "nombre_del_restaurante": "EL CUCHARÓN",
+        "direccion": "Paseo de Altamira 55, bajo, Santander",
+        "telefono": "942 142 498",
+        "dias_de_cierre": "",
+        "precio_medio": "20-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "EL DILUVIO",
+        "direccion": "C/ Ataúlfo Argenta 14, Santander",
+        "telefono": "942 218 563",
+        "dias_de_cierre": "",
+        "precio_medio": "10-15 €",
+        "latitude": 43.4620858,
+        "longitude": -3.8042662
+    },
+    {
+        "nombre_del_restaurante": "EL ESCONDRIJO",
+        "direccion": "Bo Adarzo 106, Peñacastillo",
+        "telefono": "942 325 156",
+        "dias_de_cierre": "",
+        "precio_medio": "30-40 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "EL ESPAÑOL",
+        "direccion": "C/ A. Rodríguez 5, Santander",
+        "telefono": "942 223 022 y 611 024 648",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "EL FARO",
+        "direccion": "Av. El Faro 26, Santander",
+        "telefono": "942 391 518",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "EL FIGÓN",
+        "direccion": "C/ Cardenal Cisneros 5, Santander",
+        "telefono": "942 235 366",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": 43.4631324,
+        "longitude": -3.8115902
+    },
+    {
+        "nombre_del_restaurante": "EL GALLINERO",
+        "direccion": "C/ Tetuán 37, Santander",
+        "telefono": "942 136 078",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4660809,
+        "longitude": -3.7938854
+    },
+    {
+        "nombre_del_restaurante": "EL PARQUE DE TRUEBA",
+        "direccion": "Avda. Manuel García Lago 2, Santander",
+        "telefono": "942 271 032",
+        "dias_de_cierre": "",
+        "precio_medio": "35-40 €",
+        "latitude": 43.4806025,
+        "longitude": -3.7879253
+    },
+    {
+        "nombre_del_restaurante": "EL RINCÓN",
+        "direccion": "C/ Francisco Tomás y Valiente 11, Santander",
+        "telefono": "942 419 551",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4391359,
+        "longitude": -3.8417505
+    },
+    {
+        "nombre_del_restaurante": "EL SACACORCHOS",
+        "direccion": "C/ Doctor Diego Madrazo 21, Valdenoja, Santander",
+        "telefono": "942 534 294",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "EL SARDI",
+        "direccion": "Plz. Rubén Darío s/n, Edificio Feygón, Santander",
+        "telefono": "942 378 675",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "EL SOL",
+        "direccion": "C/ Santa Lucía 32, Santander",
+        "telefono": "942 215 805",
+        "dias_de_cierre": "",
+        "precio_medio": "25-30 €",
+        "latitude": 36.4696651,
+        "longitude": -6.1970572
+    },
+    {
+        "nombre_del_restaurante": "EL SOLECITO",
+        "direccion": "C/ Albericia 13 bajo, Santander",
+        "telefono": "625 936 053 y 942 325 118",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4617734,
+        "longitude": -3.8350641
+    },
+    {
+        "nombre_del_restaurante": "EL SUIZO",
+        "direccion": "Paseo Pereda 28, Santander",
+        "telefono": "942 215 864",
+        "dias_de_cierre": "",
+        "precio_medio": "20-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "EL TÍVOLI",
+        "direccion": "C/ Marcelino Sanz de Sautuola 8, Santander",
+        "telefono": "942 219 472",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "EL VIVERO",
+        "direccion": "C/ Marqués de la Ensenada 5, Santander",
+        "telefono": "942 902 154",
+        "dias_de_cierre": "",
+        "precio_medio": "20-40 €",
+        "latitude": 36.4754313,
+        "longitude": -6.1927896
+    },
+    {
+        "nombre_del_restaurante": "ELEONORA PIZZA",
+        "direccion": "C/ Ataúlfo Argenta 70, Santander",
+        "telefono": "942 417 233",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 36.7678781,
+        "longitude": -6.3458275
+    },
+    {
+        "nombre_del_restaurante": "EN LA BRASA",
+        "direccion": "C/ Hernán Cortés 4, Mercado del Este, Santander",
+        "telefono": "942 052 991",
+        "dias_de_cierre": "",
+        "precio_medio": "25-35 €",
+        "latitude": 43.4624481,
+        "longitude": -3.8046155
+    },
+    {
+        "nombre_del_restaurante": "ESTRAGO",
+        "direccion": "Pl. de Pombo 3, Santander",
+        "telefono": "690 341 224",
+        "dias_de_cierre": "",
+        "precio_medio": "20-30 €",
+        "latitude": 43.4624707,
+        "longitude": -3.8030559
+    },
+    {
+        "nombre_del_restaurante": "FOCACCERÍA BELLO BELLO",
+        "direccion": "C/ San Simón 5, Santander",
+        "telefono": "942 033 983",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "GALERÍA CULTURAS",
+        "direccion": "C/ Agustin de Colosia 4, Santander",
+        "telefono": "942 791 416",
+        "dias_de_cierre": "",
+        "precio_medio": "25-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "GASTRO ESPACIO",
+        "direccion": "C/ Magallanes 34, Santander",
+        "telefono": "635 780 962",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4624506,
+        "longitude": -3.8157582
+    },
+    {
+        "nombre_del_restaurante": "GASTROBAR LOS ARENALES",
+        "direccion": "C/ Castilla 65, Santander",
+        "telefono": "942 551 430",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": 43.4548186,
+        "longitude": -3.8192734
+    },
+    {
+        "nombre_del_restaurante": "GOLF MATALEÑAS",
+        "direccion": "Av. del Faro s/n, Mataleñas",
+        "telefono": "942 550 923",
+        "dias_de_cierre": "",
+        "precio_medio": "35-45 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "GRAN CAFÉ SANTANDER",
+        "direccion": "C/ Francisco Tomás y Valiente 11, Santander",
+        "telefono": "942 286 583",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4390202,
+        "longitude": -3.841976
+    },
+    {
+        "nombre_del_restaurante": "GRAN HOTEL VICTORIA",
+        "direccion": "C/ María Luisa Pelayo 38, Santander",
+        "telefono": "942 291 100",
+        "dias_de_cierre": "",
+        "precio_medio": "40-45 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "HAMBURGUESERÍA DAVILA'S",
+        "direccion": "Paso de Altamira 276, Santander",
+        "telefono": "942 032 817",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "HOTEL REAL 'EL PUNTAL'",
+        "direccion": "Paseo de Pérez Galdós 28, Santander",
+        "telefono": "942 272 550",
+        "dias_de_cierre": "",
+        "precio_medio": "40-50 €",
+        "latitude": 43.4650602,
+        "longitude": -3.7820732
+    },
+    {
+        "nombre_del_restaurante": "HOTEL SAN MILLÁN",
+        "direccion": "C/ Ortega y Gasset 94, Peñacastillo (Santander)",
+        "telefono": "942 345 677",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "HOTEL SANTEMAR",
+        "direccion": "C/ Joaquín Costa 28, Santander",
+        "telefono": "942 272 900",
+        "dias_de_cierre": "",
+        "precio_medio": "35-40 €",
+        "latitude": 43.4697525,
+        "longitude": -3.7834232
+    },
+    {
+        "nombre_del_restaurante": "IBIZA",
+        "direccion": "C/ Arrabal 25, Santander",
+        "telefono": "942 314 316",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4634895,
+        "longitude": -3.8043066
+    },
+    {
+        "nombre_del_restaurante": "IL BOCCONE",
+        "direccion": "C/ San Luis 22, Santander",
+        "telefono": "942 102 768",
+        "dias_de_cierre": "",
+        "precio_medio": "25-35 €",
+        "latitude": 43.461779,
+        "longitude": -3.8159818
+    },
+    {
+        "nombre_del_restaurante": "IL PICCOLINO",
+        "direccion": "C/ Dr. Gregorio Marañón 1, Santander",
+        "telefono": "942 013 027",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "IRON'S BURGER",
+        "direccion": "C/ Santa Lucía 50, Santander",
+        "telefono": "942 031 096",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4645841,
+        "longitude": -3.7973999
+    },
+    {
+        "nombre_del_restaurante": "ISABOR",
+        "direccion": "C/ Menéndez Pelayo 49, Santander",
+        "telefono": "680 868 276",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.2615008,
+        "longitude": -4.0685766
+    },
+    {
+        "nombre_del_restaurante": "ISAE",
+        "direccion": "C/ Fernando de los Ríos 56, Santander",
+        "telefono": "942 223 538",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "KAFETEROS",
+        "direccion": "Mercado de la Esperanza, puesto 12, Santander",
+        "telefono": "636 010 325",
+        "dias_de_cierre": "",
+        "precio_medio": "10-15 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "KANEDA",
+        "direccion": "C/ Río de la Pila 18, Santander",
+        "telefono": "942 363 796",
+        "dias_de_cierre": "",
+        "precio_medio": "30-35 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "KAYAK",
+        "direccion": "C/ Rubio 4, Santander",
+        "telefono": "642 655 492",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4622725,
+        "longitude": -3.8122205
+    },
+    {
+        "nombre_del_restaurante": "KISS",
+        "direccion": "Av. Los Castros 77 bajo, Santander",
+        "telefono": "942 310 369",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA ABACERÍA",
+        "direccion": "C/ Marcelino Sanz de Sautuola 11, Santander",
+        "telefono": "686 148 628",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA ATALAYA DE MAYTE",
+        "direccion": "C/ Panamá 1, Santander",
+        "telefono": "676 959 060",
+        "dias_de_cierre": "",
+        "precio_medio": "40-50 €",
+        "latitude": 43.472646,
+        "longitude": -3.7836947
+    },
+    {
+        "nombre_del_restaurante": "LA BARRUCA",
+        "direccion": "C/ Calderón de la Barca 10 y Francisco Tomás y Valiente 7, Santander",
+        "telefono": "942 078 585 y 942 042 803",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA BENA",
+        "direccion": "C/ Lope de Vega 15, Santander",
+        "telefono": "",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": 43.4637325,
+        "longitude": -3.7997215
+    },
+    {
+        "nombre_del_restaurante": "LA BODEGA",
+        "direccion": "C/ Joaquín Costa 41, Santander",
+        "telefono": "942 271 053",
+        "dias_de_cierre": "",
+        "precio_medio": "25-35 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA BOQUERÍA",
+        "direccion": "C/ Peña Herbosa 19, Santander",
+        "telefono": "942 108 835 y 692 342 082",
+        "dias_de_cierre": "",
+        "precio_medio": "20-30 €",
+        "latitude": 43.4635559,
+        "longitude": -3.798179
+    },
+    {
+        "nombre_del_restaurante": "LA BRAÑA BEER&FOOD",
+        "direccion": "C/ San Celedonio 41, Santander",
+        "telefono": "942 210 619",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4648526,
+        "longitude": -3.8058996
+    },
+    {
+        "nombre_del_restaurante": "LA CANDELITA",
+        "direccion": "C/ Tristana 18, Monte, Santander",
+        "telefono": "942 321 280",
+        "dias_de_cierre": "",
+        "precio_medio": "30-35 €",
+        "latitude": 43.4705168,
+        "longitude": -3.8306101
+    },
+    {
+        "nombre_del_restaurante": "LA CANTINA AZTECA",
+        "direccion": "C/ Burgos 9 interior, Santander",
+        "telefono": "942 097 279",
+        "dias_de_cierre": "",
+        "precio_medio": "20-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA CAÑÍA",
+        "direccion": "C/ Joaquín Costa 45, Santander",
+        "telefono": "942 270 491",
+        "dias_de_cierre": "",
+        "precio_medio": "35.0",
+        "latitude": 43.471442,
+        "longitude": -3.7824111
+    },
+    {
+        "nombre_del_restaurante": "LA CASONA SABOR GUARANÍ",
+        "direccion": "C/ Cuesta 4, Santander",
+        "telefono": "689 519 491",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4612897,
+        "longitude": -3.8100219
+    },
+    {
+        "nombre_del_restaurante": "LA CATEDRAL",
+        "direccion": "Plz. Atarazanas 2, Santander",
+        "telefono": "942 222 048",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA CEPA DEL PAPI",
+        "direccion": "C/ Peñas Redondas 4, Santander",
+        "telefono": "647 573 773",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.461454,
+        "longitude": -3.8163581
+    },
+    {
+        "nombre_del_restaurante": "LA COCINA DE MATUTE",
+        "direccion": "Avda. Dr. Diego Madrazo 9 bajo, Santander",
+        "telefono": "942 873 352",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA CRISIS",
+        "direccion": "C/ Juan José Pérez del Molino 26, Santander",
+        "telefono": "657 976 534",
+        "dias_de_cierre": "",
+        "precio_medio": "15.0",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA ESQUINA DEL ARRABAL",
+        "direccion": "C/ Arrabal 20, Santander",
+        "telefono": "678 314 865",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4631391,
+        "longitude": -3.8044882
+    },
+    {
+        "nombre_del_restaurante": "LA ESQUINUCA",
+        "direccion": "C/ Guevara 23, Santander",
+        "telefono": "673 795 745",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.463746,
+        "longitude": -3.8070022
+    },
+    {
+        "nombre_del_restaurante": "LA FAVORITA",
+        "direccion": "Plz. La Esperanza 2, Santander",
+        "telefono": "942 795 068",
+        "dias_de_cierre": "",
+        "precio_medio": "10-15 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA FLOR DEL ALTA",
+        "direccion": "Paseo de Altamira 224, Santander",
+        "telefono": "942 322 695",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4673728,
+        "longitude": -3.8147551
+    },
+    {
+        "nombre_del_restaurante": "LA FRONTERA",
+        "direccion": "C/ Jorge Sepúlveda 9, Cueto (Santander)",
+        "telefono": "942 394 979",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4741643,
+        "longitude": -3.8114764
+    },
+    {
+        "nombre_del_restaurante": "LA GALERNA",
+        "direccion": "C/ Perines 8, Santander",
+        "telefono": "942 370 425",
+        "dias_de_cierre": "",
+        "precio_medio": "30-35 €",
+        "latitude": 43.4604252,
+        "longitude": -3.8219201
+    },
+    {
+        "nombre_del_restaurante": "LA GRACIOSA",
+        "direccion": "C/ Ruiz Zorrilla 13, Santander",
+        "telefono": "942 181 160",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": 43.4557551,
+        "longitude": -3.8141618
+    },
+    {
+        "nombre_del_restaurante": "LA GUITARRA DE CARMEN",
+        "direccion": "Av. Valdecilla 15, Santander",
+        "telefono": "642 148 517",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4580723,
+        "longitude": -3.827721
+    },
+    {
+        "nombre_del_restaurante": "LA JARA",
+        "direccion": "C/ Peña Herbosa 20, Santander",
+        "telefono": "942 181 949",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": 43.463571,
+        "longitude": -3.7970561
+    },
+    {
+        "nombre_del_restaurante": "LA MALINCHE",
+        "direccion": "C/ Hernán Cortés 41, Santander",
+        "telefono": "942 055 703",
+        "dias_de_cierre": "",
+        "precio_medio": "30-35 €",
+        "latitude": 43.4630364,
+        "longitude": -3.7999425
+    },
+    {
+        "nombre_del_restaurante": "LA MAR",
+        "direccion": "C/ Peña Herbosa 11, Santander",
+        "telefono": "665 704 463",
+        "dias_de_cierre": "",
+        "precio_medio": "",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA MERLA CRAFT BEER BURGER",
+        "direccion": "C/ San Simón 6, Santander",
+        "telefono": "942 873 487",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4644894,
+        "longitude": -3.8025708
+    },
+    {
+        "nombre_del_restaurante": "LA MOLDOVEANU",
+        "direccion": "C/ Las Rederas 5, Santander",
+        "telefono": "602 031 996",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4533275,
+        "longitude": -3.8226556
+    },
+    {
+        "nombre_del_restaurante": "LA PATITA",
+        "direccion": "C/ Vargas 29, Santander",
+        "telefono": "942 014 597",
+        "dias_de_cierre": "",
+        "precio_medio": "30-35 €",
+        "latitude": 43.4604686,
+        "longitude": -3.8180623
+    },
+    {
+        "nombre_del_restaurante": "LA PEPITA",
+        "direccion": "C/ Casimiro Sainz 17, Santander",
+        "telefono": "942 135 275",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4645598,
+        "longitude": -3.7969774
+    },
+    {
+        "nombre_del_restaurante": "LA PEPITERÍA",
+        "direccion": "C/ Fernando de los Ríos 42, Santander",
+        "telefono": "637 489 220",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4694979,
+        "longitude": -3.7980251
+    },
+    {
+        "nombre_del_restaurante": "LA PLAYA TORTILLERÍA",
+        "direccion": "C/ Marqués de la Hermida 56, Santander",
+        "telefono": "942 691 201",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.45328,
+        "longitude": -3.8217187
+    },
+    {
+        "nombre_del_restaurante": "LA POLAR",
+        "direccion": "C/ Jesús de Monasterio 20, Santander",
+        "telefono": "942 130 258",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA PRIMERA DEL SARDINERO",
+        "direccion": "Plaza de Italia, El Sardinero, Santander",
+        "telefono": "942 401 633",
+        "dias_de_cierre": "",
+        "precio_medio": "35.0",
+        "latitude": 43.4720614,
+        "longitude": -3.7828181
+    },
+    {
+        "nombre_del_restaurante": "LA RAMONOTECA",
+        "direccion": "C/ del Medio 2, Santander",
+        "telefono": "942 036 050",
+        "dias_de_cierre": "",
+        "precio_medio": "25-30 €",
+        "latitude": 43.4630402,
+        "longitude": -3.8038907
+    },
+    {
+        "nombre_del_restaurante": "LA RANA VERDE",
+        "direccion": "C/ Daoíz y Velarde 30, Santander",
+        "telefono": "942 222 402",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4632019,
+        "longitude": -3.7999942
+    },
+    {
+        "nombre_del_restaurante": "LA REPANOCHA",
+        "direccion": "C/ Rubio 12, Santander",
+        "telefono": "942 186 049",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4622152,
+        "longitude": -3.8125794
+    },
+    {
+        "nombre_del_restaurante": "LA SARTENUCA",
+        "direccion": "C/ Cardenal Cisneros 14, Santander",
+        "telefono": "942 186 049",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4636141,
+        "longitude": -3.8168104
+    },
+    {
+        "nombre_del_restaurante": "LA SOLANA DE DÁVILA",
+        "direccion": "Paseo de Altamira 126, Santander",
+        "telefono": "722 345 849",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4674283,
+        "longitude": -3.8063734
+    },
+    {
+        "nombre_del_restaurante": "LA TABERNA DE VICENTE",
+        "direccion": "C/ Capitán Palacios 2, Santander",
+        "telefono": "942 345 528",
+        "dias_de_cierre": "",
+        "precio_medio": "50-60 €",
+        "latitude": 43.4527969,
+        "longitude": -3.823829
+    },
+    {
+        "nombre_del_restaurante": "LA TAPADERA",
+        "direccion": "C/ Santa Lucía 36, Santander",
+        "telefono": "623 002 744",
+        "dias_de_cierre": "",
+        "precio_medio": "20-30 €",
+        "latitude": 43.4643631,
+        "longitude": -3.7990161
+    },
+    {
+        "nombre_del_restaurante": "LA TASCA",
+        "direccion": "C/ Peña Herbosa 13, Santander",
+        "telefono": "942 311 381 y 682 800 949",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4634949,
+        "longitude": -3.7987774
+    },
+    {
+        "nombre_del_restaurante": "LA TASCA STADIUM",
+        "direccion": "Bajos del Campo de Sport del Sardinero, Santander",
+        "telefono": "942 273 947 y 655 968 168",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LA TERTULIA",
+        "direccion": "C/ La Pereda 8, Santander",
+        "telefono": "655 479 352",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4811285,
+        "longitude": -3.7968586
+    },
+    {
+        "nombre_del_restaurante": "LA TIENDA DE FINA",
+        "direccion": "Bo Santiago el Mayor 73, Nueva Montaña, Santander",
+        "telefono": "942 352 294",
+        "dias_de_cierre": "",
+        "precio_medio": "20-30 €",
+        "latitude": 43.4381688,
+        "longitude": -3.8483864
+    },
+    {
+        "nombre_del_restaurante": "LA TRAÍDA",
+        "direccion": "Paseo de Altamira 326, Santander",
+        "telefono": "611 012 972",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4616478,
+        "longitude": -3.8299027
+    },
+    {
+        "nombre_del_restaurante": "LA TUTA",
+        "direccion": "C/ Del Medio 4, Santander",
+        "telefono": "942 074 225",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4627906,
+        "longitude": -3.8048338
+    },
+    {
+        "nombre_del_restaurante": "LÁBARO",
+        "direccion": "C/ Las Rederas 4, Santander",
+        "telefono": "942 109 209",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4535019,
+        "longitude": -3.8229283
+    },
+    {
+        "nombre_del_restaurante": "LANARDA",
+        "direccion": "C/ Capitán Palacios 2, Santander",
+        "telefono": "942 377 665",
+        "dias_de_cierre": "",
+        "precio_medio": "30-35 €",
+        "latitude": 43.4527969,
+        "longitude": -3.823829
+    },
+    {
+        "nombre_del_restaurante": "LAS CAMPANILLAS",
+        "direccion": "C/ Vargas 37, Santander",
+        "telefono": "647 175 409",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LAS ESTACIONES",
+        "direccion": "C/ Castilla 11, Santander",
+        "telefono": "624 004 165",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4581549,
+        "longitude": -3.8098782
+    },
+    {
+        "nombre_del_restaurante": "LAS HIJAS DE FLORENCIO",
+        "direccion": "Po Pereda 23, Santander",
+        "telefono": "942 310 475",
+        "dias_de_cierre": "",
+        "precio_medio": "10-15 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LAS MARISMAS",
+        "direccion": "Avda. Parayas 15D, Ciudad del Transporte",
+        "telefono": "942 103 522",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "LEALTAD 3",
+        "direccion": "C/ Lealtad 3, Santander",
+        "telefono": "942 793 890",
+        "dias_de_cierre": "",
+        "precio_medio": "10-15 €",
+        "latitude": 43.4604763,
+        "longitude": -3.8080717
+    },
+    {
+        "nombre_del_restaurante": "LEVEL FRESH CLUB",
+        "direccion": "C/ Santa Lucía 37, Santander",
+        "telefono": "942 552 457",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4643527,
+        "longitude": -3.8008507
+    },
+    {
+        "nombre_del_restaurante": "LOS AMIGOS DE PETER",
+        "direccion": "C/ Bonifaz 23, Santander",
+        "telefono": "636 236 930",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.464094,
+        "longitude": -3.796947
+    },
+    {
+        "nombre_del_restaurante": "MACHUPICHU RESTOBAR",
+        "direccion": "C/José de Bustamante y Guerra 1, Santander",
+        "telefono": "686 273 239",
+        "dias_de_cierre": "",
+        "precio_medio": "25-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "MAGNOLIA",
+        "direccion": "C/ Tetuán 21, Santander",
+        "telefono": "942 377 089",
+        "dias_de_cierre": "",
+        "precio_medio": "35-40 €",
+        "latitude": 43.4656973,
+        "longitude": -3.7952434
+    },
+    {
+        "nombre_del_restaurante": "MALACHE",
+        "direccion": "C/ Francisco Tomás y Valiente 3, Santander",
+        "telefono": "942 033 155",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.4392902,
+        "longitude": -3.8389336
+    },
+    {
+        "nombre_del_restaurante": "MAMMA MÍA",
+        "direccion": "C/Inés Diego del Noval 39, Santander",
+        "telefono": "942 392 240",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "MANIL",
+        "direccion": "C/Cardenal Cisneros 96, Santander",
+        "telefono": "942 370 471",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4619939,
+        "longitude": -3.8201336
+    },
+    {
+        "nombre_del_restaurante": "MANILA",
+        "direccion": "C/ Colonia Los Pinares A-5, Santander",
+        "telefono": "942 277 667",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "MAR DE CORTÉS",
+        "direccion": "Plaza Rubén Darío, Santander",
+        "telefono": "942 693 534",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4780272,
+        "longitude": -3.7893406
+    },
+    {
+        "nombre_del_restaurante": "MARAMANÁ COFFEE HOUSE",
+        "direccion": "Av. Dr. Diego Madrazo, 10, 39012 Santander",
+        "telefono": "",
+        "dias_de_cierre": "",
+        "precio_medio": "10-15 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "MASAMADRE",
+        "direccion": "C/ La Marina 1 (esquina C/ Del Medio), Santander",
+        "telefono": "942 215 524",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "MÁSTIL",
+        "direccion": "C/ Ataúlfo Argenta Músico 35, Santander",
+        "telefono": "614 446 461",
+        "dias_de_cierre": "",
+        "precio_medio": "20-30€",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "MATICES WINE & FOOD",
+        "direccion": "C/ Peña Herbosa 15 bajo, Santander",
+        "telefono": "942 136 447",
+        "dias_de_cierre": "",
+        "precio_medio": "25-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "MAULA GASTROBAR",
+        "direccion": "Av. Reina Victoria 39, Santander",
+        "telefono": "942 942 423",
+        "dias_de_cierre": "",
+        "precio_medio": "20-30 €",
+        "latitude": 43.4637656,
+        "longitude": -3.7883313
+    },
+    {
+        "nombre_del_restaurante": "MAX SPORTS CAFÉ",
+        "direccion": "Avda. de Maura s/n, Los Pinares del Sardinero, Santander",
+        "telefono": "942 281 248",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "MESÓN CAMPOS",
+        "direccion": "C/ Hernán Cortés 40, Santander",
+        "telefono": "942 314 769",
+        "dias_de_cierre": "",
+        "precio_medio": "35-40 €",
+        "latitude": 43.4631594,
+        "longitude": -3.7974653
+    },
+    {
+        "nombre_del_restaurante": "MESÓN LA CABAÑA",
+        "direccion": "Paseo de Altamira 180, Santander",
+        "telefono": "942 367 620",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4676156,
+        "longitude": -3.8088989
+    },
+    {
+        "nombre_del_restaurante": "MESÓN LA CABAÑA 2.0",
+        "direccion": "C/ María Cristina 1E, bajo, Santander",
+        "telefono": "942 225 584",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "MESÓN LOS ABEDULES",
+        "direccion": "C/ Los Abedules 9, Santander",
+        "telefono": "641 133 225",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.456482,
+        "longitude": -3.8534051
+    },
+    {
+        "nombre_del_restaurante": "MI FAVORITO BAR RESTAURANTE",
+        "direccion": "C/ Peña Herbosa 13, Santander",
+        "telefono": "649 570 616",
+        "dias_de_cierre": "",
+        "precio_medio": "25-35 €",
+        "latitude": 43.4634949,
+        "longitude": -3.7987774
+    },
+    {
+        "nombre_del_restaurante": "MIMOSA",
+        "direccion": "Paseo de Altamira 47, Santander",
+        "telefono": "942 311 690",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "MOONLIGHT",
+        "direccion": "C/ San José 12, Santander",
+        "telefono": "627 044 252",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "MR. UCHU",
+        "direccion": "C/ Jerónimo Sainz de la Maza 4, Santander",
+        "telefono": "676 860 258",
+        "dias_de_cierre": "",
+        "precio_medio": "25-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "NEPTUNO SANTANDER",
+        "direccion": "C/ Marqués de la Hermida 2, Santander",
+        "telefono": "942 403 044",
+        "dias_de_cierre": "",
+        "precio_medio": "35-40 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "NEPTUNO-PALACIO DEL MAR",
+        "direccion": "C/ Alcalde Vega Lamera 5, Santander",
+        "telefono": "942 392 400",
+        "dias_de_cierre": "",
+        "precio_medio": "35-40 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "NEW BAHÍA HERBOSA",
+        "direccion": "C/ Ruiz Zorrilla 20, Santander",
+        "telefono": "942 220 453",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4555171,
+        "longitude": -3.8143198
+    },
+    {
+        "nombre_del_restaurante": "NÓMADA PIZZA",
+        "direccion": "C/ Menéndez Pelayo 18, Santander",
+        "telefono": "942 821 412",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "ÓLEO",
+        "direccion": "C/ Isla de Óleo, Polígono Nueva Montaña, Santander",
+        "telefono": "942 881 110",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "OLIVIA SANTANDER",
+        "direccion": "C/ Peña Herbosa 11, Santander",
+        "telefono": "942 055 090",
+        "dias_de_cierre": "",
+        "precio_medio": "35-40 €",
+        "latitude": 43.4634783,
+        "longitude": -3.7989535
+    },
+    {
+        "nombre_del_restaurante": "ÓRALE ANTOJITOS MEXICANOS",
+        "direccion": "C/ Vía Cornelia 11 y Río de la Pila 12, Santander",
+        "telefono": "942 793 729 y 942 148 457",
+        "dias_de_cierre": "",
+        "precio_medio": "25-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "PALACIO DE EXPOSICIONES",
+        "direccion": "Calle Real Racing Club 3, Santander",
+        "telefono": "942 281 020",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "PAPONDO",
+        "direccion": "Av. del Deporte 3, bloque 9, Santander",
+        "telefono": "679 624 026",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "PAROLE PIZZA & PINSA",
+        "direccion": "C/ Hernán Cortés 4, Mercado del Este, Santander",
+        "telefono": "635 968 549",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4624481,
+        "longitude": -3.8046155
+    },
+    {
+        "nombre_del_restaurante": "PARRILLA LA LEÑA",
+        "direccion": "Plaza de la Leña 6 bajo, Santander",
+        "telefono": "651 540 622",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": 43.4637294,
+        "longitude": -3.8108456
+    },
+    {
+        "nombre_del_restaurante": "PASSAROLA",
+        "direccion": "C/ La Torre 117, Monte (Santander)",
+        "telefono": "646 663 093",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "PERRO LOCO EL REMO",
+        "direccion": "C/ Anjana 4, Santander",
+        "telefono": "626 402 825",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4588155,
+        "longitude": -3.8205592
+    },
+    {
+        "nombre_del_restaurante": "PIZZERÍA BASILICUM",
+        "direccion": "C/Francisco Tomás y Valiente 5B, Santander",
+        "telefono": "942 417 401",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4392948,
+        "longitude": -3.8402076
+    },
+    {
+        "nombre_del_restaurante": "PIZZERÍA PINOCHO",
+        "direccion": "C/ del Sol 42, Santander",
+        "telefono": "942 363 690",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4652087,
+        "longitude": -3.79796
+    },
+    {
+        "nombre_del_restaurante": "PIZZERÍA SIBARITA'S",
+        "direccion": "C/ Narciso Cuevas 4, Santander",
+        "telefono": "942 254 400",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4607867,
+        "longitude": -3.8205666
+    },
+    {
+        "nombre_del_restaurante": "PIZZERÍA VITTORIO",
+        "direccion": "Bajada de la Encina 6, Santander",
+        "telefono": "942 050 509",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.470204,
+        "longitude": -3.7904218
+    },
+    {
+        "nombre_del_restaurante": "POLICOTES",
+        "direccion": "C/ Mariano Fernández Fontecha 4, Santander",
+        "telefono": "942 378 071",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "PORTUGUÉS",
+        "direccion": "C/ Juan Guerrero Urreisti 18, Peñacastillo (Santander)",
+        "telefono": "671 166 393",
+        "dias_de_cierre": "",
+        "precio_medio": "20-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "PRONTO! PIZZA",
+        "direccion": "Avda. Herrera Oria 120 bajo, Santander",
+        "telefono": "942 058 058",
+        "dias_de_cierre": "",
+        "precio_medio": "10-15 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "PUNTO Y COMA",
+        "direccion": "C/ Francisco Tomás y Valiente 7C bajo, Santander",
+        "telefono": "",
+        "dias_de_cierre": "",
+        "precio_medio": "5-15 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "QUEBEC",
+        "direccion": "C/ Isabel II 19; Plaza de las Cervezas 16; C/ Jesús de Monasterio 6 y C/ Amós de Escalante 6, Santander",
+        "telefono": "942 041 340",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "QUESOBA CHEESE BAR",
+        "direccion": "C/ Hernán Cortés 4, Mercado del Este, Santander",
+        "telefono": "620 463 182",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4624481,
+        "longitude": -3.8046155
+    },
+    {
+        "nombre_del_restaurante": "REMIGIO SPORT TAVERN",
+        "direccion": "C/ Lavapiés 2, Santander",
+        "telefono": "942 324 552",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": 43.4629169,
+        "longitude": -3.839232
+    },
+    {
+        "nombre_del_restaurante": "RESTAURANTE CHINO LA GRAN MURALLA",
+        "direccion": "C/ Vargas 47, Santander",
+        "telefono": "942 373 915",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4601122,
+        "longitude": -3.8193319
+    },
+    {
+        "nombre_del_restaurante": "ROSAMUNDA",
+        "direccion": "Bº Corbanera 31, Monte, Santander",
+        "telefono": "613 833 925",
+        "dias_de_cierre": "",
+        "precio_medio": "50.0",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "ROSÉ CATERING",
+        "direccion": "Plz Cañadío 1, Santander",
+        "telefono": "942 788 203",
+        "dias_de_cierre": "",
+        "precio_medio": "",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "ROSSO VERO",
+        "direccion": "Paseo Pereda 8, Santander",
+        "telefono": "942 140 736",
+        "dias_de_cierre": "",
+        "precio_medio": "10-15 €",
+        "latitude": 43.4619345,
+        "longitude": -3.8040813
+    },
+    {
+        "nombre_del_restaurante": "ROYALTY",
+        "direccion": "C/ Calderón de la Barca 7, Santander",
+        "telefono": "942 312 474",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.459541,
+        "longitude": -3.8083759
+    },
+    {
+        "nombre_del_restaurante": "SABOR Y TRADICIÓN",
+        "direccion": "C/ Florida 18, Santander",
+        "telefono": "942 302 337",
+        "dias_de_cierre": "",
+        "precio_medio": "20-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "SALITRE",
+        "direccion": "C/ Hernán Cortés 14, Santander",
+        "telefono": "942 133 220",
+        "dias_de_cierre": "",
+        "precio_medio": "25-35 €",
+        "latitude": 36.8018418,
+        "longitude": -6.3345704
+    },
+    {
+        "nombre_del_restaurante": "SALVAJE SANTANDER",
+        "direccion": "C/ Ataúlfo Argenta 31, Santander",
+        "telefono": "942 786 175",
+        "dias_de_cierre": "",
+        "precio_medio": "35-45 €",
+        "latitude": 43.4627316,
+        "longitude": -3.7990057
+    },
+    {
+        "nombre_del_restaurante": "SANDOÑANA",
+        "direccion": "C/ Casimiro Sainz 17, Santander",
+        "telefono": "942 314 274",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "SANTA CAFÉ BAR",
+        "direccion": "C/ Marcelino Sanz de Sautuola 17, Santander",
+        "telefono": "613 250 878",
+        "dias_de_cierre": "",
+        "precio_medio": "10-15 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "SANTANDER 1941",
+        "direccion": "C/ Ataúlfo Argenta 54, Santander",
+        "telefono": "942 746 043",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "SANTLIVIS",
+        "direccion": "Avda. Pedro San Martín 1, Santander",
+        "telefono": "942 348 011",
+        "dias_de_cierre": "",
+        "precio_medio": "30-35 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "SANTO Y SEÑA-CASCARILLA",
+        "direccion": "C/ Rubio 14, Santander",
+        "telefono": "942 126 127",
+        "dias_de_cierre": "",
+        "precio_medio": "20-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "SEÑA WINE BAR",
+        "direccion": "C/ Tetuán 31, Santander",
+        "telefono": "942 055 524",
+        "dias_de_cierre": "",
+        "precio_medio": "40-50 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "SIBARITA'S",
+        "direccion": "C/ Narciso Cuevas 4, Santander",
+        "telefono": "942 054 400",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4607867,
+        "longitude": -3.8205666
+    },
+    {
+        "nombre_del_restaurante": "SIBONEY",
+        "direccion": "C/ Castelar 7, Santander",
+        "telefono": "942 221 483",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": 43.4632493,
+        "longitude": -3.7953036
+    },
+    {
+        "nombre_del_restaurante": "SIBUYA URBAN SUSHI BAR",
+        "direccion": "Po Pereda 20, Santander",
+        "telefono": "842 848 444",
+        "dias_de_cierre": "",
+        "precio_medio": "25-35 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "SIDRERÍA EL PEGOLLU",
+        "direccion": "C/ Peñas Redondas 17, Santander",
+        "telefono": "942 370 416",
+        "dias_de_cierre": "",
+        "precio_medio": "20-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "SIGLO XXI",
+        "direccion": "C/ San Martín del Pino 24, 9 bajo, Santander",
+        "telefono": "942 034 536",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "SIN VUELTAS",
+        "direccion": "Pl. La Leña 4, Santander",
+        "telefono": "942 055 097",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.463802,
+        "longitude": -3.8107787
+    },
+    {
+        "nombre_del_restaurante": "SMASH COW",
+        "direccion": "C/ Enseñanza 3, Santander",
+        "telefono": "942 211 302",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": 43.4636132,
+        "longitude": -3.8107477
+    },
+    {
+        "nombre_del_restaurante": "SUMO",
+        "direccion": "C/ Castelar 11, Santander",
+        "telefono": "942 106 776",
+        "dias_de_cierre": "",
+        "precio_medio": "25-35 €",
+        "latitude": 43.463222,
+        "longitude": -3.7949143
+    },
+    {
+        "nombre_del_restaurante": "SUTAKITO MEXICANO",
+        "direccion": "C/ Francisco de Quevedo 12, Santander",
+        "telefono": "642 639 973",
+        "dias_de_cierre": "",
+        "precio_medio": "25-30 €",
+        "latitude": 43.4641199,
+        "longitude": -3.8087029
+    },
+    {
+        "nombre_del_restaurante": "TABERNA ALAMAR",
+        "direccion": "C/ Joaquín Costa 43, Santander",
+        "telefono": "942 790 009",
+        "dias_de_cierre": "",
+        "precio_medio": "35-40 €",
+        "latitude": 43.4712761,
+        "longitude": -3.782574
+    },
+    {
+        "nombre_del_restaurante": "TAJ MAHAL",
+        "direccion": "C/ Santa Lucía 46, Santander",
+        "telefono": "942 070 803",
+        "dias_de_cierre": "",
+        "precio_medio": "20-30 €",
+        "latitude": 43.4645371,
+        "longitude": -3.7976844
+    },
+    {
+        "nombre_del_restaurante": "TATAMI",
+        "direccion": "C/ Doctor Fleming 3, Santander",
+        "telefono": "942 760 666",
+        "dias_de_cierre": "",
+        "precio_medio": "35-45 €",
+        "latitude": 36.0152438,
+        "longitude": -5.6036977
+    },
+    {
+        "nombre_del_restaurante": "TAXCO TACOS Y CHELAS",
+        "direccion": "C/ San Emeterio 3, Santander",
+        "telefono": "682 843 026",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4648423,
+        "longitude": -3.7971226
+    },
+    {
+        "nombre_del_restaurante": "TEBEO FOOD & GAMES",
+        "direccion": "C/ Floranes 23 bajo, Santander",
+        "telefono": "942 032 515",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "TELA MARINERA",
+        "direccion": "C/ Ataúlfo Argenta 49, Santander",
+        "telefono": "942 365 408",
+        "dias_de_cierre": "",
+        "precio_medio": "25-35 €",
+        "latitude": 43.4628839,
+        "longitude": -3.7972019
+    },
+    {
+        "nombre_del_restaurante": "TENTEMPIÉ",
+        "direccion": "C/ Hernán Cortés 4 (Mercado del Este), Santander",
+        "telefono": "942 074 660",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4624481,
+        "longitude": -3.8046155
+    },
+    {
+        "nombre_del_restaurante": "THE WINERY",
+        "direccion": "C/ Santa Lucía 23, Santander",
+        "telefono": "614 417 564",
+        "dias_de_cierre": "",
+        "precio_medio": "20-25 €",
+        "latitude": 43.4642255,
+        "longitude": -3.8023059
+    },
+    {
+        "nombre_del_restaurante": "TINDER BAR",
+        "direccion": "C/ Francisco de Cáceres, Santander",
+        "telefono": "679 263 976",
+        "dias_de_cierre": "",
+        "precio_medio": "20-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "TRÉBEDE DE SIMANCAS",
+        "direccion": "Avda. Herrera Oria 104, Santander",
+        "telefono": "942 014 607",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4559689,
+        "longitude": -3.8525963
+    },
+    {
+        "nombre_del_restaurante": "TRIBECA BAR&LUNCH",
+        "direccion": "C/ Hernán Cortés 18, Santander",
+        "telefono": "942 051 221",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": 43.462871,
+        "longitude": -3.8004448
+    },
+    {
+        "nombre_del_restaurante": "TROLE BAR",
+        "direccion": "C/ Juan Guerrero Urreisti 19, Santander",
+        "telefono": "643 448 300",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "VACANZE ROMANE",
+        "direccion": "C/ Burgos 14, Santander",
+        "telefono": "942 095 615",
+        "dias_de_cierre": "",
+        "precio_medio": "5.0",
+        "latitude": 43.4615264,
+        "longitude": -3.8152989
+    },
+    {
+        "nombre_del_restaurante": "VARGAS 47",
+        "direccion": "C/ Vargas 47, Santander",
+        "telefono": "942 087 635",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 43.4601122,
+        "longitude": -3.8193319
+    },
+    {
+        "nombre_del_restaurante": "VERDERAME",
+        "direccion": "Po Canalejas 31, Santander",
+        "telefono": "644 106 935",
+        "dias_de_cierre": "",
+        "precio_medio": "15-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "VIENTO EN POPA",
+        "direccion": "Plaza de Amaliach 5, Santander",
+        "telefono": "942 367 362",
+        "dias_de_cierre": "",
+        "precio_medio": "25-35 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "VIVA LA PEPA 1812",
+        "direccion": "C/ Río de la Pila 10, Santander",
+        "telefono": "942 314 556",
+        "dias_de_cierre": "",
+        "precio_medio": "20-30 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "WABI SABI CAFÉ & CRAFT",
+        "direccion": "C/ San Celedonio 41, Santander",
+        "telefono": "942 140 361",
+        "dias_de_cierre": "",
+        "precio_medio": "10-20 €",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "YGRIEGO",
+        "direccion": "C/ Marcelino Sanz de Sautuola 19, Santander",
+        "telefono": "942 690 560",
+        "dias_de_cierre": "",
+        "precio_medio": "25.0",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "nombre_del_restaurante": "YLIS",
+        "direccion": "C/ Santa Lucía 3 bajo, Santander",
+        "telefono": "942 690 838",
+        "dias_de_cierre": "",
+        "precio_medio": "15-25 €",
+        "latitude": 36.5307177,
+        "longitude": -6.2989596
+    }
+]

@@ -1,0 +1,2656 @@
+[
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/artpapel",
+        "nombre": "ARTPAPEL",
+        "descripcion": "Conservación, restauración de libros, documentos, obras de arte sobre papel. Encuadernación.Book Shop – Santander.Espacio creativo dedicado a las artes del libro, la impresión artesanal, los libros de artista y las pequeñas ediciones.(Talleres sujetos a grupos las tardes de los jueves y viernes).",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cardenal Cisneros, 31",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Cardenal Cisneros, 31, 39001, Santander"
+        },
+        "telefono": "678077766",
+        "web": "https://artpapelbookstudio.com",
+        "horarios": {
+            "Lunes - Miércoles": {},
+            "Jueves y Viernes": {
+                "manana": "10:00-14:00",
+                "tarde": "17:00-20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/artpapelitaly/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/artpapelsantander/"
+        },
+        "latitude": 43.4631775,
+        "longitude": -3.814187
+    },
+    {
+        "url": "https://www.comerciosantander.com/asunto-tornasol",
+        "nombre": "ASUNTO TORNASOL",
+        "descripcion": "Compra venta de libros y cómics.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Juan Antonio Gutiérrez de la Concha, 11",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Juan Antonio Gutiérrez de la Concha, 11, 39009, Santander"
+        },
+        "telefono": "942251417",
+        "web": "https://libreriaasuntotornasol.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:00",
+                "tarde": "17:00 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/p/Librer%C3%ADa-Asunto-Tornasol-100065399953063/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/libreriaasunto/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/bivaq",
+        "nombre": "BIVAQ",
+        "descripcion": "Papelería. Material escolar. Tecnología. Juegos didácticos.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Los Barbajos, 3",
+            "codigo_postal": "39012",
+            "ciudad": "Santander",
+            "completa": "Calle Los Barbajos, 3, 39012, Santander"
+        },
+        "telefono": "942790636",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4637875,
+        "longitude": -3.8386176
+    },
+    {
+        "url": "https://www.comerciosantander.com/bazar-musical",
+        "nombre": "BAZAR MUSICAL",
+        "descripcion": "Instrumentos musicales y accesorios.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Guevara, 10",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Guevara, 10, 39001, Santander"
+        },
+        "telefono": "942227162",
+        "web": "https://bazarmusical.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/BAZAR-MUSICAL-SANTANDER-194894863891098/",
+            "twitter": "https://twitter.com/BazarMusicalSDR",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4636756,
+        "longitude": -3.8093762
+    },
+    {
+        "url": "https://www.comerciosantander.com/centro-de-impresion-los-osos",
+        "nombre": "CENTRO DE IMPRESION LOS OSOS",
+        "descripcion": "Impresión y encuadernación. Material de oficina.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Altamira, 314",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Paseo Altamira, 314, 39007, Santander"
+        },
+        "telefono": "942033098",
+        "web": "https://impresionlososos.com.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:30 - 20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/people/Centro-de-Impresi%C3%B3n-Los-Osos/100063487602636/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4618874,
+        "longitude": -3.8293987
+    },
+    {
+        "url": "https://www.comerciosantander.com/copisteria-akik",
+        "nombre": "COPISTERIA AKIK",
+        "descripcion": "Fotocopias.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Plaza Progreso S/N",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Plaza Progreso S/N, 39009, Santander"
+        },
+        "telefono": "942362954",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-13:30",
+                "tarde": "16:00-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4573088,
+        "longitude": -3.8112415
+    },
+    {
+        "url": "https://www.comerciosantander.com/copisteria-impresion",
+        "nombre": "COPISTERIA IMPRESION",
+        "descripcion": "Copistería e impresiones.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda de Los Castros, 81",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Avda de Los Castros, 81, 39005, Santander"
+        },
+        "telefono": "942074998",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:30 - 20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/Jcn72/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4695056,
+        "longitude": -3.8074416
+    },
+    {
+        "url": "https://www.comerciosantander.com/copisteria-los-rios",
+        "nombre": "COPISTERIA LOS RIOS",
+        "descripcion": "Pequeño negocio dedicado a la reprografía tanto en color como en blanco y negro.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda Los Castros, 69 interior",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Avda Los Castros, 69 interior, 39005, Santander"
+        },
+        "telefono": "942313076",
+        "web": "http://www.copisterialosrios.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-13:30",
+                "tarde": "16:30-19:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/copy-express-ruiz-de-alda",
+        "nombre": "COPY EXPRESS. RUIZ DE ALDA",
+        "descripcion": "Copistería. Papelería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Juan de Santander, 16",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Juan de Santander, 16, 39009, Santander"
+        },
+        "telefono": "942071741",
+        "web": "https://www.copisteriaexpress.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4552605,
+        "longitude": -3.815261
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/copy-express-santa-clara",
+        "nombre": "COPY EXPRESS. SANTA CLARA",
+        "descripcion": "Papelería y copistería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Santa Clara, 1",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Santa Clara, 1, 39001, Santander"
+        },
+        "telefono": "942014242",
+        "web": "http://www.copisteriaexpress.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-13:30",
+                "tarde": "16:30-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4622712,
+        "longitude": -3.8076462
+    },
+    {
+        "url": "https://www.comerciosantander.com/aida-books-more-santander",
+        "nombre": "AIDA BOOKS & MORE SANTANDER",
+        "descripcion": "Puedes acercarte a donar o comprar libros en nuestra librería de Santander o hacerte voluntario.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San José, 16",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle San José, 16, 39003, Santander"
+        },
+        "telefono": "942136313",
+        "web": "http://www.ong-aida.org",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "11:00-14:00",
+                "tarde": "17:00-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/OngAida",
+            "twitter": "https://twitter.com/ongaida",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4631908,
+        "longitude": -3.8060037
+    },
+    {
+        "url": "https://www.comerciosantander.com/copicentro",
+        "nombre": "COPICENTRO",
+        "descripcion": "Fotocopias. Artes Gráficas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Bonifaz, 9",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle Bonifaz, 9, 39003, Santander"
+        },
+        "telefono": "942310071",
+        "web": "http://www.icopicentro.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:15 - 13:30",
+                "tarde": "16:15 - 20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/ecopicentro",
+            "twitter": "https://twitter.com/CopicentroCant",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.464007,
+        "longitude": -3.7979387
+    },
+    {
+        "url": "https://www.comerciosantander.com/copysla",
+        "nombre": "COPYSLA",
+        "descripcion": "Fotocopias BN/Color. Escaneado. Ploteado Planos. Ampliación/Impresión Gran Formato. Plastificado/Panelado.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Vargas, 7",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Vargas, 7, 39010, Santander"
+        },
+        "telefono": "942372250",
+        "web": "http://www.copysla.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "16:30 - 20:15"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.460816,
+        "longitude": -3.8167618
+    },
+    {
+        "url": "https://www.comerciosantander.com/carmen-alonso-libros",
+        "nombre": "CARMEN ALONSO LIBROS",
+        "descripcion": "Librería de 2ª mano y libro antiguo.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cardenal Cisneros, 17",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Cardenal Cisneros, 17, 39001, Santander"
+        },
+        "telefono": "605636503",
+        "web": "http://www.carmenalonsolibros.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "11:00-14:00",
+                "tarde": "17:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/CarmenAlonsoLibros/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/libroscarmenalonso/"
+        },
+        "latitude": 43.4632828,
+        "longitude": -3.812924
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/copy-stop",
+        "nombre": "COPY STOP",
+        "descripcion": "Copistería. Papelería. Regalos. Textil personalizado.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Manuel Gonzalez Hoyos, 7",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Manuel Gonzalez Hoyos, 7, 39011, Santander"
+        },
+        "telefono": "687783574",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-13:30",
+                "tarde": "17:00-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/decograf",
+        "nombre": "DECOGRAF",
+        "descripcion": "Papelería y copistería. Regalos personalizados.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle José de Bustamante y Guerra, 6",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle José de Bustamante y Guerra, 6, 39009, Santander"
+        },
+        "telefono": "942223737",
+        "web": "http://www.decograf.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-13:30",
+                "tarde": "17:00-20:15"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/DECOGRAFJM/",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "https://www.instagram.com/decograf/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/discos-cucos",
+        "nombre": "DISCOS CUCOS",
+        "descripcion": "Venta de discos de 2ª mano en formato físico.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Santa Lucía, 41",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle Santa Lucía, 41, 39003, Santander"
+        },
+        "telefono": "622598583",
+        "web": "https://discoscucos.es",
+        "horarios": {
+            "Lunes - Sábado": {
+                "manana": "10:00 - 14:00",
+                "tarde": "17:00 - 21:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/people/Discos-Cucos/100046311113875/",
+            "twitter": "https://twitter.com/DiscosCucos",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4643477,
+        "longitude": -3.800498
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/dymarq-design",
+        "nombre": "DYMARQ DESIGN",
+        "descripcion": "Impresión digital.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Blas Cabrera, 5",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Calle Blas Cabrera, 5, 39005, Santander"
+        },
+        "telefono": "942809077",
+        "web": "https://www.dymarq.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:00",
+                "tarde": "-20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/dymarqdesign",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/dymarqdesign/"
+        },
+        "latitude": 43.4692295,
+        "longitude": -3.8069223
+    },
+    {
+        "url": "https://www.comerciosantander.com/echevarria-suministros-de-oficina",
+        "nombre": "ECHEVARRIA  SUMINISTROS DE OFICINA",
+        "descripcion": "Suministros de oficina.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda de Los Castros, 53- C",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Avda de Los Castros, 53- C, 39005, Santander"
+        },
+        "telefono": "942280660",
+        "web": "http://www.echevarriasuministros.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "08:30 - 14:00",
+                "tarde": "16:00 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4714486,
+        "longitude": -3.7964637
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/cromatica-papeleria-y-bellas-artes",
+        "nombre": "CROMATICA. PAPELERIA Y BELLAS ARTES",
+        "descripcion": "Papelería y bellas artes.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Francisco, 15",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle San Francisco, 15, 39002, Santander"
+        },
+        "telefono": "942088292",
+        "web": "https://cromaticapb.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-14:00",
+                "tarde": "17:00-20:00"
+            },
+            "Sábado": {
+                "manana": "10:30-14:00",
+                "tarde": "17:00-20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/people/Crom%C3%A1tica-Papeler%C3%ADa-Bellas-Artes-Santander/100093639578934/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/cromaticapb/"
+        },
+        "latitude": 43.4618838,
+        "longitude": -3.8080191
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/casa-del-libro",
+        "nombre": "CASA DEL LIBRO",
+        "descripcion": "Librería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Burgos, 5",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Calle Burgos, 5, 39008, Santander"
+        },
+        "telefono": "911793463",
+        "web": "http://www.casadellibro.com",
+        "horarios": {
+            "Lunes - Sábado": {
+                "manana": "9:30",
+                "tarde": "-21:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/casadellibro",
+            "twitter": "https://twitter.com/casadellibro",
+            "instagram": "https://www.instagram.com/casadellibro/"
+        },
+        "latitude": 43.4614615,
+        "longitude": -3.8145248
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/diccapo-music",
+        "nombre": "DICCAPO MUSIC",
+        "descripcion": "Venta de instrumentos musicales. Talleres. Escuelas de música.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Via Cornelia, 37",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Via Cornelia, 37, 39007, Santander"
+        },
+        "telefono": "611506554",
+        "web": "https://dicappomusic.com",
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/dicappomusic/"
+        },
+        "latitude": 43.4662746,
+        "longitude": -3.8126663
+    },
+    {
+        "url": "https://www.comerciosantander.com/estrella-dorada",
+        "nombre": "ESTRELLA DORADA",
+        "descripcion": "Prensa y alimentación.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Altamira, 264",
+            "codigo_postal": "39006",
+            "ciudad": "Santander",
+            "completa": "Paseo Altamira, 264, 39006, Santander"
+        },
+        "telefono": "607512960",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "7:30-15:00",
+                "tarde": "17:00-21:00"
+            },
+            "Sábado y Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4649398,
+        "longitude": -3.8188933
+    },
+    {
+        "url": "https://www.comerciosantander.com/golosinas-nati",
+        "nombre": "GOLOSINAS NATI",
+        "descripcion": "Prensa, revistas y golosinas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Altamira, 60",
+            "codigo_postal": "39006",
+            "ciudad": "Santander",
+            "completa": "Paseo Altamira, 60, 39006, Santander"
+        },
+        "telefono": "645725893",
+        "web": null,
+        "horarios": {
+            "Lunes - Domingo": {
+                "manana": "08:00 - 14:00",
+                "tarde": "17:00 - 22:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/golosinasnati/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/golosinasnati/"
+        },
+        "latitude": 43.4686114,
+        "longitude": -3.7980623
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/graficas-copisan",
+        "nombre": "GRAFICAS COPISAN",
+        "descripcion": "Servicios de impresión.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Faustino Cavadas, 26",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Faustino Cavadas, 26, 39011, Santander"
+        },
+        "telefono": "942372035",
+        "web": "http://www.graficascopisan.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "08:30 - 13:30",
+                "tarde": "15:30 - 18:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/graficas-ebro",
+        "nombre": "GRAFICAS EBRO",
+        "descripcion": "Imprenta y artes gráficas. Folletos Publicitarios. Sellos de Caucho.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Bonifaz, 15",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle Bonifaz, 15, 39003, Santander"
+        },
+        "telefono": "942211600",
+        "web": "http://www.graficasebro.es",
+        "horarios": {
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4640478,
+        "longitude": -3.7974022
+    },
+    {
+        "url": "https://www.comerciosantander.com/el-giralibro-libros-de-texto-2a-mano",
+        "nombre": "EL GIRALIBRO. LIBROS DE TEXTO 2ª MANO",
+        "descripcion": "Libros de texto usados. (Período  de apertura: Junio-Octubre).",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Marcelino Sanz de Sautuola, 17",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle Marcelino Sanz de Sautuola, 17, 39003, Santander"
+        },
+        "telefono": "661234400",
+        "web": "http://www.elgiralibro.com",
+        "horarios": null,
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/librosdetextosegundamano/",
+            "twitter": "https://twitter.com/intent/follow",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/graficas-jl-imprenta",
+        "nombre": "GRAFICAS J.L. (IMPRENTA)",
+        "descripcion": "Imprenta.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Castilla, 38",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Castilla, 38, 39009, Santander"
+        },
+        "telefono": "942215630",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:00 - 13:00",
+                "tarde": "17:00 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/imprentajlsantander/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/imprentajlsantander/"
+        },
+        "latitude": 43.4547585,
+        "longitude": -3.8202801
+    },
+    {
+        "url": "https://www.comerciosantander.com/grafos-papeleria",
+        "nombre": "GRAFOS PAPELERIA",
+        "descripcion": "Papelería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Canalejas, 82",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Calle Canalejas, 82, 39004, Santander"
+        },
+        "telefono": "942274440",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 14:00",
+                "tarde": "17:00 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/pg/Grafos-Papeler%C3%ADa-110742043945047/photos/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4645027,
+        "longitude": -3.7929532
+    },
+    {
+        "url": "https://www.comerciosantander.com/distrito-zero",
+        "nombre": "DISTRITO ZERO",
+        "descripcion": "Somos una librería y juguetería especializada en juegos a partir de 3 años.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Alonso, 15",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Alonso, 15, 39010, Santander"
+        },
+        "telefono": "659236919",
+        "web": "http://www.distritozero.es",
+        "horarios": {
+            "Lunes - Sábado": {
+                "manana": "10:00-14:00",
+                "tarde": "17:00-20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/DistritoZeroSantander/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/distritozerosantander/"
+        },
+        "latitude": 43.4608574,
+        "longitude": -3.8242531
+    },
+    {
+        "url": "https://www.comerciosantander.com/imprenta-moro",
+        "nombre": "IMPRENTA MORO",
+        "descripcion": "Especializados en imprenta y encuadernación.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda Primero de Mayo, 42",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Avda Primero de Mayo, 42, 39011, Santander"
+        },
+        "telefono": "942330506",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-13:30",
+                "tarde": "15:00-19:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/imprentamoro/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4431182,
+        "longitude": -3.8576907
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/fd-luthier-santander",
+        "nombre": "FD LUTHIER SANTANDER",
+        "descripcion": "Venta, ajuste y reparación. (Horario sujeto a cita previa).",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle del Monte, 31",
+            "codigo_postal": "39006",
+            "ciudad": "Santander",
+            "completa": "Calle del Monte, 31, 39006, Santander"
+        },
+        "telefono": "623105000",
+        "web": "https://fdluthier.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-13:30",
+                "tarde": "16:00-18:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/people/FD-Luthier-Santander/pfbid0GGEm8Hgu7kdq6193ufXeZzQtTYv3c6NbzcKmAqf4PfpogZCiaU2vmLTZVZHsTwqcl/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/fd.luthier.santander/"
+        },
+        "latitude": 43.463854,
+        "longitude": -3.8142749
+    },
+    {
+        "url": "https://www.comerciosantander.com/imprenta-gallardo",
+        "nombre": "IMPRENTA GALLARDO",
+        "descripcion": "Imprenta.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Bernardo de Miera y Pacheco, 7",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Bernardo de Miera y Pacheco, 7, 39009, Santander"
+        },
+        "telefono": "942215906",
+        "web": "https://www.imprentagallardo.com/",
+        "horarios": {
+            "Lunes - Jueves": {},
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/imprenta-ter",
+        "nombre": "IMPRENTA TER",
+        "descripcion": "Imprenta.Especialistas en: tarjetas de visita, tarjetas de boda y de comuniones.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Valliciergo, 4",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle Valliciergo, 4, 39003, Santander"
+        },
+        "telefono": "942216918",
+        "web": "http://www.imprentater.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:00 - 13:00",
+                "tarde": "15:00 - 19:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4645599,
+        "longitude": -3.8005715
+    },
+    {
+        "url": "https://www.comerciosantander.com/genesis",
+        "nombre": "GENESIS",
+        "descripcion": "Realizamos servicios de impresión digital.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Fernando de los Ríos, 69",
+            "codigo_postal": "39006",
+            "ciudad": "Santander",
+            "completa": "Calle Fernando de los Ríos, 69, 39006, Santander"
+        },
+        "telefono": "942318252",
+        "web": "http://www.genesisdigital.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "7:30",
+                "tarde": "-21:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4687022,
+        "longitude": -3.8032241
+    },
+    {
+        "url": "https://www.comerciosantander.com/graficas-melendez",
+        "nombre": "GRAFICAS MELENDEZ",
+        "descripcion": "Material escolar. Fotocopias. Imprenta. Rotulación en distintos soportes.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Menéndez Pelayo, 43",
+            "codigo_postal": "39006",
+            "ciudad": "Santander",
+            "completa": "Paseo Menéndez Pelayo, 43, 39006, Santander"
+        },
+        "telefono": "942764321",
+        "web": "http://www.graficasmelendez.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 14:00",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/graficasmelendez",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4663901,
+        "longitude": -3.7969803
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/kiosko-begoña",
+        "nombre": "KIOSKO BEGOÑA",
+        "descripcion": "Prensa y revistas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Pereda, 8",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Paseo Pereda, 8, 39004, Santander"
+        },
+        "telefono": "942213500",
+        "web": null,
+        "horarios": {
+            "Lunes - Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4619334,
+        "longitude": -3.8042447
+    },
+    {
+        "url": "https://www.comerciosantander.com/kattigara-libros-usados",
+        "nombre": "KATTIGARA LIBROS USADOS",
+        "descripcion": "Librería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Luis, 5",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle San Luis, 5, 39010, Santander"
+        },
+        "telefono": "942074286",
+        "web": "http://www.kattigara.com",
+        "horarios": {
+            "Lunes - Sábado": {
+                "manana": "10:00-14:00",
+                "tarde": "17:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4617536,
+        "longitude": -3.8148413
+    },
+    {
+        "url": "https://www.comerciosantander.com/kiosko-belen",
+        "nombre": "KIOSKO BELEN",
+        "descripcion": "Prensa y revistas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Fernando, 78",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle San Fernando, 78, 39010, Santander"
+        },
+        "telefono": "675507860",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Sábado": {},
+            "Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4589121,
+        "longitude": -3.8256352
+    },
+    {
+        "url": "https://www.comerciosantander.com/junior-prensa-y-golosinas",
+        "nombre": "JUNIOR. PRENSA Y GOLOSINAS",
+        "descripcion": "Kiosko, prensa y golosinas. Bolsas de cumpleaños.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Los Abedules, 2",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Los Abedules, 2, 39011, Santander"
+        },
+        "telefono": "942034369",
+        "web": null,
+        "horarios": {
+            "Martes - Viernes": {},
+            "Lunes - Viernes": {},
+            "Sábado": {},
+            "Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/Junior-Prensa-Y-Golosinas-Santander-754739237889475/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4573393,
+        "longitude": -3.8529226
+    },
+    {
+        "url": "https://www.comerciosantander.com/impresant-artes-graficas",
+        "nombre": "IMPRESANT. ARTES GRAFICAS",
+        "descripcion": "Expertos en impresión digital.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San José, 5",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle San José, 5, 39003, Santander"
+        },
+        "telefono": "942225591",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-14:00",
+                "tarde": "16:30-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4633362,
+        "longitude": -3.8068718
+    },
+    {
+        "url": "https://www.comerciosantander.com/kiosko-la-atalaya",
+        "nombre": "KIOSKO LA ATALAYA",
+        "descripcion": "Kiosko prensa y revistas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cuesta de la Atalaya, 4",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Cuesta de la Atalaya, 4, 39001, Santander"
+        },
+        "telefono": "660008343",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "8:45-14:00",
+                "tarde": "17:00-20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/kiosko-gervasio",
+        "nombre": "KIOSKO GERVASIO",
+        "descripcion": "Prensa y revistas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Pereda, 1",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Paseo Pereda, 1, 39004, Santander"
+        },
+        "telefono": null,
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Sábado y Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.461402,
+        "longitude": -3.8053652
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/kiosko-carlos",
+        "nombre": "KIOSKO CARLOS",
+        "descripcion": "Prensa. Revistas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Dr. Gregorio Marañón, 1",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Calle Dr. Gregorio Marañón, 1, 39005, Santander"
+        },
+        "telefono": "942281476",
+        "web": null,
+        "horarios": {
+            "Lunes - Sábado": {
+                "manana": "8:00-14:00",
+                "tarde": "17:00-20:00"
+            },
+            "Domingo": {
+                "manana": "8:00-15:00",
+                "tarde": "17:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/kiosko-leis",
+        "nombre": "KIOSKO LEIS",
+        "descripcion": "Prensa. Revistas. Golosinas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Juan Guerrero Urreisti, 6",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Calle Juan Guerrero Urreisti, 6, 39011, Santander"
+        },
+        "telefono": null,
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "06:30 - 14:30",
+                "tarde": "17:00 - 21:00"
+            },
+            "Sábado": {
+                "manana": "06:30 - 15:00",
+                "tarde": "17:00 - 21:00"
+            },
+            "Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/kiosko-moreno",
+        "nombre": "KIOSKO MORENO",
+        "descripcion": "Prensa y revistas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Plaza del Príncipe S/N",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Plaza del Príncipe S/N, 39003, Santander"
+        },
+        "telefono": "630238953",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Sábado y Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4623241,
+        "longitude": -3.8055089
+    },
+    {
+        "url": "https://www.comerciosantander.com/kiosko-oky",
+        "nombre": "KIOSKO OKY",
+        "descripcion": "Kiosko, papelería y chuches.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda San Martín del Pino, 23",
+            "codigo_postal": "39011",
+            "ciudad": "Santander",
+            "completa": "Avda San Martín del Pino, 23, 39011, Santander"
+        },
+        "telefono": "942079757",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "07:00 - 15:00",
+                "tarde": "16:30 - 21:00"
+            },
+            "Sábado": {
+                "manana": "07:00 - 15:00",
+                "tarde": "16:30 - 21:00"
+            },
+            "Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://es-la.facebook.com/Kiosko-OKY-1452108041706798/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4458496,
+        "longitude": -3.8480508
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/kiosko-de-prensa-la-vega-garcia",
+        "nombre": "KIOSKO DE PRENSA LA VEGA GARCIA",
+        "descripcion": "Prensa y revistas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Jesús de Monasterio, 20",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Jesús de Monasterio, 20, 39010, Santander"
+        },
+        "telefono": null,
+        "web": null,
+        "horarios": {
+            "Lunes - Sábado": {},
+            "Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/kiosko-prensa-y-revistas-eva",
+        "nombre": "KIOSKO PRENSA Y REVISTAS EVA",
+        "descripcion": "Prensa y revistas y punto de pan caliente.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Repuente, 15",
+            "codigo_postal": "39012",
+            "ciudad": "Santander",
+            "completa": "Calle Repuente, 15, 39012, Santander"
+        },
+        "telefono": "942344709",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "08:00 - 15:30",
+                "tarde": "17:00 - 21:30"
+            },
+            "Sábado": {},
+            "Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4689375,
+        "longitude": -3.8283251
+    },
+    {
+        "url": "https://www.comerciosantander.com/kiosko-marcos",
+        "nombre": "KIOSKO MARCOS",
+        "descripcion": "Prensa y revistas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Altamira, 326",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Paseo Altamira, 326, 39007, Santander"
+        },
+        "telefono": "679578546",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Sábado y Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.461592,
+        "longitude": -3.8300563
+    },
+    {
+        "url": "https://www.comerciosantander.com/kiosko-ruiz",
+        "nombre": "KIOSKO RUIZ",
+        "descripcion": "Prensa y revistas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Alameda de Oviedo S/N",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Alameda de Oviedo S/N, 39010, Santander"
+        },
+        "telefono": "678523856",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "06:30 - 14:30",
+                "tarde": "17:00 - 21:00"
+            },
+            "Sábado y Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/kiosko-charo",
+        "nombre": "KIOSKO CHARO",
+        "descripcion": "Prensa, revistas, golosinas y souvenirs.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Joaquín Costa, S/N",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Calle Joaquín Costa, S/N, 39005, Santander"
+        },
+        "telefono": "637991958",
+        "web": null,
+        "horarios": {
+            "Lunes - Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4686221,
+        "longitude": -3.7856191
+    },
+    {
+        "url": "https://www.comerciosantander.com/kiosko-lealtad",
+        "nombre": "KIOSKO LEALTAD",
+        "descripcion": "Prensa, dulces y máquina de tabaco.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Lealtad, 13",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Lealtad, 13, 39002, Santander"
+        },
+        "telefono": "942075746",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4608182,
+        "longitude": -3.8082729
+    },
+    {
+        "url": "https://www.comerciosantander.com/kiosko-puerto-chico",
+        "nombre": "KIOSKO PUERTOCHICO",
+        "descripcion": "Prensa, revistas y golosinas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Plaza Matías Montero, S/N (Puerto Chico)",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Plaza Matías Montero, S/N (Puerto Chico), 39004, Santander"
+        },
+        "telefono": "639871157",
+        "web": null,
+        "horarios": {
+            "Lunes - Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/kiosko-valdenoja",
+        "nombre": "KIOSKO VALDENOJA",
+        "descripcion": "Prensa, periódicos. Panadería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle José María Gonzalez Trevilla, 2",
+            "codigo_postal": "39012",
+            "ciudad": "Santander",
+            "completa": "Calle José María Gonzalez Trevilla, 2, 39012, Santander"
+        },
+        "telefono": "942393056",
+        "web": null,
+        "horarios": {
+            "Lunes - Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/kiosko-revuelta",
+        "nombre": "KIOSKO REVUELTA",
+        "descripcion": "Prensa y revistas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Pereda, 13",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Paseo Pereda, 13, 39004, Santander"
+        },
+        "telefono": "942212783",
+        "web": null,
+        "horarios": {
+            "Lunes - Sábado": {},
+            "Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4620659,
+        "longitude": -3.8026509
+    },
+    {
+        "url": "https://www.comerciosantander.com/kiosko-ruiz-zorrilla",
+        "nombre": "KIOSKO RUIZ ZORRILLA",
+        "descripcion": "Prensa, revistas y chuches.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Ruiz Zorrilla, 15",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Ruiz Zorrilla, 15, 39009, Santander"
+        },
+        "telefono": "601198820",
+        "web": null,
+        "horarios": {
+            "Lunes - Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4549391,
+        "longitude": -3.8137349
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/la-clave-papeleria-copisteria",
+        "nombre": "LA CLAVE. PAPELERIA. COPISTERIA",
+        "descripcion": "Papelería. Copistería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Altamira, 210",
+            "codigo_postal": "39006",
+            "ciudad": "Santander",
+            "completa": "Paseo Altamira, 210, 39006, Santander"
+        },
+        "telefono": "639482420",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/copisterialaclave/"
+        },
+        "latitude": 43.4678417,
+        "longitude": -3.8126625
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/la-balda-print-studio",
+        "nombre": "LA BALDA PRINT STUDIO",
+        "descripcion": "Tienda. Taller. Librería. Artes gráficas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Santa Lucía, 33",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle Santa Lucía, 33, 39003, Santander"
+        },
+        "telefono": "660164918",
+        "web": "http://labaldaprint.myshopify.com",
+        "horarios": {
+            "Martes - Viernes": {
+                "manana": "10:30-14:00",
+                "tarde": "17:00-20:30"
+            },
+            "Sábado": {
+                "manana": "11:00-14:00",
+                "tarde": "17:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4644052,
+        "longitude": -3.8014361
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/la-tienduca-de-mariuca",
+        "nombre": "LA TIENDUCA DE MARIUCA",
+        "descripcion": "Kiosko. Panadería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle La Braña, S/N",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Calle La Braña, S/N, 39005, Santander"
+        },
+        "telefono": "630753728",
+        "web": null,
+        "horarios": {
+            "Lunes - Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4739657,
+        "longitude": -3.7870386
+    },
+    {
+        "url": "https://www.comerciosantander.com/la-kantabra",
+        "nombre": "LA KANTABRA",
+        "descripcion": "Prensa y papelería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Castilla, 43",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Castilla, 43, 39009, Santander"
+        },
+        "telefono": "942213394",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "8:00-13:30",
+                "tarde": "16:30-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4562705,
+        "longitude": -3.8164003
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/la-tienda-del-centro-botin",
+        "nombre": "LA TIENDA DEL CENTRO BOTIN",
+        "descripcion": "Venta de libros y artículos de arte y diseño.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Pereda, S/N",
+            "codigo_postal": "39004",
+            "ciudad": "Santander",
+            "completa": "Paseo Pereda, S/N, 39004, Santander"
+        },
+        "telefono": "942649769",
+        "web": "https://tienda.centrobotin.org",
+        "horarios": {
+            "Martes - Viernes": {
+                "manana": "11:00-14:00",
+                "tarde": "16:00-20:00"
+            },
+            "Sábado y Domingo": {
+                "manana": "11:00",
+                "tarde": "-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/CentroBotin",
+            "twitter": "https://twitter.com/centrobotin",
+            "instagram": "https://www.instagram.com/centrobotin/"
+        },
+        "latitude": 43.4618274,
+        "longitude": -3.801324
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/libreria-gil-hernan-cortes",
+        "nombre": "LIBRERIA GIL. HERNAN CORTES",
+        "descripcion": "Librería. Disponemos de libros de texto de todos los colegios todo el año.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Hernán Cortés, 23",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle Hernán Cortés, 23, 39003, Santander"
+        },
+        "telefono": "942214961",
+        "web": "http://www.libreriagil.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {
+                "manana": "10:00 - 14:00",
+                "tarde": "17:00 - 20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/libreriagil",
+            "twitter": "https://twitter.com/libreriagil",
+            "instagram": "https://www.instagram.com/libreriagil/"
+        },
+        "latitude": 43.4628303,
+        "longitude": -3.801932
+    },
+    {
+        "url": "https://www.comerciosantander.com/libreria-ediciones-tantin",
+        "nombre": "LIBRERIA EDICIONES TANTIN",
+        "descripcion": "Librería y artículos de regalo. Especialidad en temas cántabros.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Avda José Hierro, 10",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Avda José Hierro, 10, 39007, Santander"
+        },
+        "telefono": "942231382",
+        "web": "https://edicionestantin.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:30",
+                "tarde": "17:00 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/la-voragine",
+        "nombre": "LA VORAGINE",
+        "descripcion": "Librería. Espacio Cultural.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cardenal Cisneros, 69",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Calle Cardenal Cisneros, 69, 39007, Santander"
+        },
+        "telefono": "942375226",
+        "web": "http://www.lavoragine.net",
+        "horarios": {
+            "Lunes": {},
+            "Martes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "17:00 - 20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/VoragineSDR",
+            "twitter": "https://twitter.com/voraginesdr",
+            "instagram": "https://www.instagram.com/voragineSDR/"
+        },
+        "latitude": 43.4625988,
+        "longitude": -3.817064
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/libreria-papeleria-campus",
+        "nombre": "LIBRERIA. PAPELERIA CAMPUS",
+        "descripcion": "Librería. Papelería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Blas Cabrera, 7",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Calle Blas Cabrera, 7, 39005, Santander"
+        },
+        "telefono": "682489613",
+        "web": "https://campussdr.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:45-13:30",
+                "tarde": "16:30-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/Campus.sdr",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/libreriacampussdr/"
+        },
+        "latitude": 43.4691922,
+        "longitude": -3.807235
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/libreria-pastoral-diocesis-de-santander",
+        "nombre": "LIBRERIA PASTORAL. DIOCESIS DE SANTANDER",
+        "descripcion": "Librería religiosa. Imaginería. Regalos. DVD. Dulces de convento.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Florida, 3",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Florida, 3, 39001, Santander"
+        },
+        "telefono": "942375474",
+        "web": "http://www.google.com/search?q=libreria%20de%20pastoral",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-13:00",
+                "tarde": "16:00-19:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/diocesisdesantander/",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.462407,
+        "longitude": -3.8135529
+    },
+    {
+        "url": "https://www.comerciosantander.com/libreria-papeleria-santovena",
+        "nombre": "LIBRERIA PAPELERIA SANTOVEÑA",
+        "descripcion": "Librería y papelería. (Horario sujeto a disponibilidad del responsable)",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cardenal Cisneros, 51",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Calle Cardenal Cisneros, 51, 39007, Santander"
+        },
+        "telefono": "942235544",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 14:00",
+                "tarde": "17:00 - 20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4628682,
+        "longitude": -3.8159271
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/libreria-la-rebelde",
+        "nombre": "LIBRERIA LA REBELDE",
+        "descripcion": "Librería de 2ª mano.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Vargas, 39",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Vargas, 39, 39010, Santander"
+        },
+        "telefono": "689525988",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:30-14:00",
+                "tarde": "17:00-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4603475,
+        "longitude": -3.8185164
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/libreria-gloobal",
+        "nombre": "LIBRERIA GLOOBAL",
+        "descripcion": "Librería. Juegos y regalos.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cardenal Cisneros, 103",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Calle Cardenal Cisneros, 103, 39007, Santander"
+        },
+        "telefono": "672703868",
+        "web": null,
+        "horarios": {
+            "Martes - Sábado": {
+                "manana": "9:00-13:00",
+                "tarde": "16:30-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/p/DKMGyD2sEH1/"
+        },
+        "latitude": 43.4619223,
+        "longitude": -3.820171
+    },
+    {
+        "url": "https://www.comerciosantander.com/molaguero",
+        "nombre": "MOLAGUERO",
+        "descripcion": "Encuadernación. Fotocopias. Papelería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Alta, 83",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Calle Alta, 83, 39008, Santander"
+        },
+        "telefono": "942234956",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:30 - 13:15",
+                "tarde": "16:00 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/Copister%C3%ADapapeler%C3%ADa-Molaguero-853364824744248/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4587198,
+        "longitude": -3.8183291
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/ofimercados",
+        "nombre": "OFIMERCADOS",
+        "descripcion": "Descubra una papelería, donde encontrará cartuchos de tinta y toner, papelerías, informática y material de oficina.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Federico Vial, 14",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Federico Vial, 14, 39009, Santander"
+        },
+        "telefono": "653895102",
+        "web": "https://www.ofimercados.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:00-13:00",
+                "tarde": "16:00-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/ofimercados",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/ofimercados/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/libros-antunano",
+        "nombre": "LIBROS ANTUÑANO",
+        "descripcion": "Librería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Alonso, 5",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Alonso, 5, 39010, Santander"
+        },
+        "telefono": "601430051",
+        "web": "https://librosantunano.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 14:00",
+                "tarde": "17:00 - 20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/librosantunano/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/antu.libros/"
+        },
+        "latitude": 43.4605208,
+        "longitude": -3.8240538
+    },
+    {
+        "url": "https://www.comerciosantander.com/oxfam-intermon",
+        "nombre": "OXFAM INTERMON",
+        "descripcion": "Comercio Justo: Alimentación. Regalo, complementos, librería y papelería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cervantes, 7",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Cervantes, 7, 39001, Santander"
+        },
+        "telefono": "942312611",
+        "web": "http://www.oxfamintermon.org",
+        "horarios": {
+            "Lunes - Sábado": {
+                "manana": "10:00-13:30",
+                "tarde": "17:15-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/OxfamIntermon",
+            "twitter": "https://twitter.com/OxfamIntermon",
+            "instagram": "https://www.instagram.com/oxfamintermon/"
+        },
+        "latitude": 43.4624413,
+        "longitude": -3.8116309
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/papeleria-libreria-gil-hernan-cortes",
+        "nombre": "PAPELERIA LIBRERIA GIL. HERNAN CORTES",
+        "descripcion": "Papelería. Librería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Hernán Cortés, 21 (Plaza Pombo)",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle Hernán Cortés, 21 (Plaza Pombo), 39003, Santander"
+        },
+        "telefono": "942214961",
+        "web": "http://www.libreriagil.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-13:30",
+                "tarde": "17:00-20:30"
+            },
+            "Sábado": {
+                "manana": "10:30-14:00",
+                "tarde": "17:00-20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/libreriagil",
+            "twitter": "https://twitter.com/libreriagil",
+            "instagram": "https://www.instagram.com/libreriagil/"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/musical-san-fernando",
+        "nombre": "MUSICAL SAN FERNANDO",
+        "descripcion": "Música. Instrumentos musicales. Alquiler de equipos e instrumentos. Afinaciones. Transportes.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Altamira, 220-A",
+            "codigo_postal": "39006",
+            "ciudad": "Santander",
+            "completa": "Paseo Altamira, 220-A, 39006, Santander"
+        },
+        "telefono": "942324658",
+        "web": "http://www.musicalsanfernando.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/musicalsanfernando",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4677819,
+        "longitude": -3.8144849
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/papelnor-burgos",
+        "nombre": "PAPELNOR. BURGOS",
+        "descripcion": "Papelería, complementos.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Burgos, 12",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Calle Burgos, 12, 39008, Santander"
+        },
+        "telefono": "942690949",
+        "web": "https://tienda.papelnor.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-13:30",
+                "tarde": "16:30-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/PapelnorSL",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/papelnor.s.l.material.oficina/"
+        },
+        "latitude": 43.4615337,
+        "longitude": -3.8151814
+    },
+    {
+        "url": "https://www.comerciosantander.com/nemesis",
+        "nombre": "NEMESIS",
+        "descripcion": "Librería especializada en cómics y juegos.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cardenal Cisneros, 18",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Cardenal Cisneros, 18, 39001, Santander"
+        },
+        "telefono": "942372608",
+        "web": "https://nemesisantander.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "17:00 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/people/Librer%C3%ADa-N%C3%A9mesis/100063707821912/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4633296,
+        "longitude": -3.8119236
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/papelnor-cadiz",
+        "nombre": "PAPELNOR. CADIZ",
+        "descripcion": "Material de oficina. Papelería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cádiz, 9",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Cádiz, 9, 39002, Santander"
+        },
+        "telefono": "942061338",
+        "web": "https://tienda.papelnor.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "9:30-13:30",
+                "tarde": "16:30-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/PapelnorSL",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/papelnor.s.l.material.oficina/"
+        },
+        "latitude": 43.459832,
+        "longitude": -3.8098033
+    },
+    {
+        "url": "https://www.comerciosantander.com/picking-pack",
+        "nombre": "PICKING PACK",
+        "descripcion": "Papelería. Mueble de oficina.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Floranes, 23",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Floranes, 23, 39010, Santander"
+        },
+        "telefono": "942370956",
+        "web": "https://pickinpacksantander.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:00 - 14:00",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://es-es.facebook.com/suministroscontrol/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4608747,
+        "longitude": -3.8208806
+    },
+    {
+        "url": "https://www.comerciosantander.com/nexus-4",
+        "nombre": "NEXUS-4",
+        "descripcion": "Librería especializada en cómics. Juegos de mesa de 5 a  99 años. Merchandising.Premio al comercio Creativo 2009",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Madrid, 10",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Madrid, 10, 39009, Santander"
+        },
+        "telefono": "942211934",
+        "web": "http://www.nexus-4.es",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {
+                "manana": "10:00 - 13:30",
+                "tarde": "17:00 - 20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/Nexus4/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4571926,
+        "longitude": -3.810834
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/prensa-y-revistas",
+        "nombre": "PRENSA Y REVISTAS",
+        "descripcion": "Kiosko.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Alta, 46",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Calle Alta, 46, 39008, Santander"
+        },
+        "telefono": "643071196",
+        "web": null,
+        "horarios": {
+            "Lunes - Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4597714,
+        "longitude": -3.8152493
+    },
+    {
+        "url": "https://www.comerciosantander.com/prensa-fernando",
+        "nombre": "PRENSA FERNANDO",
+        "descripcion": "Prensa. Golosinas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Marqués de la Hermida, 62",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Marqués de la Hermida, 62, 39009, Santander"
+        },
+        "telefono": "942227566",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "06:30 - 14:00",
+                "tarde": "16:30 - 20:00"
+            },
+            "Sábado": {},
+            "Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4531602,
+        "longitude": -3.8222463
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/papeleria-delgado",
+        "nombre": "PAPELERIA DELGADO",
+        "descripcion": "Papelería y copistería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Paseo Altamira, 294",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Paseo Altamira, 294, 39007, Santander"
+        },
+        "telefono": "942343176",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "8:00-13:30",
+                "tarde": "17:00-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4617867,
+        "longitude": -3.829181
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/re-read",
+        "nombre": "RE-READ",
+        "descripcion": "Librería lowcost.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Rualasal, 11",
+            "codigo_postal": "39001",
+            "ciudad": "Santander",
+            "completa": "Calle Rualasal, 11, 39001, Santander"
+        },
+        "telefono": "620500231",
+        "web": "https://www.re-read.com/libreria/re-read-santander-rualasal/",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00-14:00",
+                "tarde": "17:00-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/ReReadLibreriaLowcost",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/rereadlibrerialowcostoficial/"
+        },
+        "latitude": 43.4628639,
+        "longitude": -3.8067079
+    },
+    {
+        "url": "https://www.comerciosantander.com/papeleria-libreria",
+        "nombre": "PAPELERIA. LIBRERIA",
+        "descripcion": "Papelería y librería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Floranes, 47",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Floranes, 47, 39010, Santander"
+        },
+        "telefono": "942373266",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:00 - 14:00",
+                "tarde": "16:30 - 20:30"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4602509,
+        "longitude": -3.8232263
+    },
+    {
+        "url": "https://www.comerciosantander.com/puzzle-papeleria",
+        "nombre": "PUZZLE PAPELERIA",
+        "descripcion": "Papelería. Copistería.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Fernando, 16 (Plaza de las Cervezas)",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle San Fernando, 16 (Plaza de las Cervezas), 39010, Santander"
+        },
+        "telefono": "942373945",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:00 - 13:30",
+                "tarde": "16:00 - 20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/prensa-y-revistas-maykas",
+        "nombre": "PRENSA Y REVISTAS MAYKA'S",
+        "descripcion": "Prensa y revistas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Calvo Sotelo, 15",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Calvo Sotelo, 15, 39002, Santander"
+        },
+        "telefono": "611537639",
+        "web": null,
+        "horarios": {
+            "Lunes - Domingo": {
+                "manana": "9:00",
+                "tarde": "-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4608328,
+        "longitude": -3.8092183
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/supersonic-discos",
+        "nombre": "SUPERSONIC DISCOS",
+        "descripcion": "Venta de vinilos. Libros y merchandising.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle San Francisco, 15",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle San Francisco, 15, 39002, Santander"
+        },
+        "telefono": "696818938",
+        "web": "https://discossupersonicsantander.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "11:00-14:00",
+                "tarde": "17:00-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/supersonicdiscos.santander/"
+        },
+        "latitude": 43.4618838,
+        "longitude": -3.8080191
+    },
+    {
+        "url": "https://www.comerciosantander.com/taller-cantabro-de-reprografia",
+        "nombre": "TALLER CANTABRO DE REPROGRAFIA",
+        "descripcion": "Impresión digital.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cuesta del Hospital, 6",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Calle Cuesta del Hospital, 6, 39008, Santander"
+        },
+        "telefono": "942362122",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "09:15 - 13:30",
+                "tarde": "16:30 - 20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/tiendas-tipo",
+        "nombre": "TIENDAS TIPO",
+        "descripcion": "Moda Hip Hop, complementos, discos, dvd.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Peñas Redondas, 14",
+            "codigo_postal": "39010",
+            "ciudad": "Santander",
+            "completa": "Calle Peñas Redondas, 14, 39010, Santander"
+        },
+        "telefono": "942373589",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:30"
+            },
+            "Sábado": {
+                "manana": "10:00 - 13:30",
+                "tarde": "16:30 - 20:30"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/Tipo-Santander-Sugarless-Store-241710995882060/",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4622736,
+        "longitude": -3.8168038
+    },
+    {
+        "url": "https://www.comerciosantander.com/prensa-vicky",
+        "nombre": "PRENSA VICKY",
+        "descripcion": "Prensa y revistas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Alta, 48",
+            "codigo_postal": "39008",
+            "ciudad": "Santander",
+            "completa": "Calle Alta, 48, 39008, Santander"
+        },
+        "telefono": "942373557",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "7:00-14:30",
+                "tarde": "17:30-20:00"
+            },
+            "Miércoles - Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.4593986,
+        "longitude": -3.8168143
+    },
+    {
+        "url": "https://www.comerciosantander.com/comercios/comercio/trazo-tecnic-papeleria-tecnica",
+        "nombre": "TRAZO TECNIC. PAPELERIA TECNICA",
+        "descripcion": "Papelería técnica.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Universidad S/N",
+            "codigo_postal": "39005",
+            "ciudad": "Santander",
+            "completa": "Calle Universidad S/N, 39005, Santander"
+        },
+        "telefono": "942276466",
+        "web": "https://www.trazotecnic.es/",
+        "horarios": {
+            "Lunes - Sábado": {
+                "manana": "9:00-13:00",
+                "tarde": "16:30-20:00"
+            }
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "url": "https://www.comerciosantander.com/revistas-bebidas-santa-lucia",
+        "nombre": "REVISTAS. BEBIDAS. SANTA LUCIA",
+        "descripcion": "Revistas. Bebidas.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Santa Lucía, 4",
+            "codigo_postal": "39003",
+            "ciudad": "Santander",
+            "completa": "Calle Santa Lucía, 4, 39003, Santander"
+        },
+        "telefono": "942133954",
+        "web": null,
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "7:30",
+                "tarde": "-21:00"
+            },
+            "Sábado": {
+                "manana": "8:30-14:00",
+                "tarde": "17:00-21:00"
+            },
+            "Domingo": {}
+        },
+        "redes_sociales": {
+            "facebook": "http://www.facebook.com/ComercioSDR",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/comercio_sdr"
+        },
+        "latitude": 43.463977,
+        "longitude": -3.8031309
+    },
+    {
+        "url": "https://www.comerciosantander.com/tiger",
+        "nombre": "TIGER",
+        "descripcion": "Complementos, regalos.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Calvo Sotelo, 14",
+            "codigo_postal": "39002",
+            "ciudad": "Santander",
+            "completa": "Calle Calvo Sotelo, 14, 39002, Santander"
+        },
+        "telefono": "942223035",
+        "web": "http://www.tiger-stores.es",
+        "horarios": {
+            "Lunes - Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/FlyingTigerCopenhagen",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "https://www.instagram.com/flyingtiger/"
+        },
+        "latitude": 43.4613066,
+        "longitude": -3.8080625
+    },
+    {
+        "url": "https://www.comerciosantander.com/slap-music-store",
+        "nombre": "SLAP MUSIC STORE",
+        "descripcion": "Instrumentos musicales. Audio Profesional. Equipos de Alta fidelidad.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Cardenal Cisneros, 96",
+            "codigo_postal": "39007",
+            "ciudad": "Santander",
+            "completa": "Calle Cardenal Cisneros, 96, 39007, Santander"
+        },
+        "telefono": "942074627",
+        "web": "http://www.slapmusicstore.com",
+        "horarios": {
+            "Lunes - Viernes": {
+                "manana": "10:30-14:00",
+                "tarde": "17:00-20:00"
+            },
+            "Sábado": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://es-la.facebook.com/SlapMusicStore",
+            "twitter": "http://www.twitter.com/comerciosantan1",
+            "instagram": "http://www.instagram.com/slapmusicstoresantander/"
+        },
+        "latitude": 43.4619939,
+        "longitude": -3.8201336
+    },
+    {
+        "url": "https://www.comerciosantander.com/sirprint",
+        "nombre": "SIRPRINT",
+        "descripcion": "Papelería. Copistería. Todo en impresión.",
+        "categoria": null,
+        "direccion": {
+            "calle": "Calle Castilla, 35",
+            "codigo_postal": "39009",
+            "ciudad": "Santander",
+            "completa": "Calle Castilla, 35, 39009, Santander"
+        },
+        "telefono": "942052866",
+        "web": "http://www.sirprint.es",
+        "horarios": {
+            "Lunes - Viernes": {},
+            "Martes y Jueves": {}
+        },
+        "redes_sociales": {
+            "facebook": "https://www.facebook.com/sirprintsantander/",
+            "twitter": "https://twitter.com/i/flow/login",
+            "instagram": "https://www.instagram.com/sirprint_queremosimpresionarte/"
+        },
+        "latitude": 43.4567566,
+        "longitude": -3.8149715
+    }
+]

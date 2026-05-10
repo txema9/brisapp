@@ -323,25 +323,47 @@
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '' }).addTo(map);
 
     /* ── ZONAS ── */
-    const zones = [
-        { name:"El Sardinero",                        coords:[43.47234934934887,-3.7826310695260883], marker:"🌊", desc:"Playas, paseo marítimo y eventos deportivos",            moods:["🚶🏻 Paseo","☕ Tranquilo","🚦Activo"] },
-        { name:"Valdenoja",                           coords:[43.48256515385705,-3.793652450228221],  marker:"🏡", desc:"Barrio moderno y residencial en crecimiento",             moods:["🛠️ Industria","🏠 Residencial","🍃 Fluido"] },
-        { name:"Centro - Ayuntamiento",               coords:[43.46237104044435,-3.810014266281815],  marker:"🚨", desc:"Corazón comercial y administrativo",                    moods:["🛍️ Compras","🍻 Animado","⛔ Congestionado"] },
-        { name:"Castilla-Hermida",                    coords:[43.45512685721038,-3.8193966314831678], marker:"⚓", desc:"Raíces marineras, ambiente tradicional",                 moods:["🍴 Restauración","☕ Tranquilo","🚦 Activo"] },
-        { name:"Barrio Pesquero",                     coords:[43.45119335572701,-3.8208146583245783], marker:"🐟", desc:"Las mejores rabas y pescado fresco",                    moods:["🍴 Restauración","☕ Tranquilo","🍃 Fluido"] },
-        { name:"General Dávila",                      coords:[43.46134772819438,-3.8303346119838824], marker:"☀️", desc:"Arteria principal con vistas a la bahía",               moods:["🛍️ Compras","🍻 Animado","⛔ Congestionado"] },
-        { name:"Cazoña – Alisal",                     coords:[43.4581,-3.8414],                       marker:"🚶", desc:"Área residencial con servicios y grandes superficies",   moods:["🛍️ Compras","🏠 Residencial","🚦 Activo"] },
-        { name:"Monte – Cueto",                       coords:[43.486202253800826,-3.7979554087551213],marker:"🌲", desc:"Periférico y tranquilo",                                 moods:["🚶🏻 Paseo","☕ Tranquilo","🍃 Fluido"] },
-        { name:"Calle Alta",                          coords:[43.45898116801386,-3.818183363527089],  marker:"🚌", desc:"Zona céntrica residencial y calmada",                   moods:["🚶🏻 Paseo","🏠 Residencial","🚦 Activo"] },
-        { name:"Cañadío-Puertochico",                 coords:[43.46351972663305,-3.8013836039426367], marker:"🍷", desc:"Epicentro social con terrazas y restaurantes",           moods:["🍴 Restauración","🍻 Animado","⛔ Congestionado"] },
-        { name:"Plaza Porticada - Plaza de Pombo",    coords:[43.4621172173889,-3.8062012039427358],  marker:"🍽️", desc:"Tapeo céntrico y ambiente de plaza",                    moods:["🍴 Restauración","🍻 Animado","⛔ Congestionado"] },
-        { name:"Calderón - Mercado de la Esperanza",  coords:[43.462859302598325,-3.8099811835254593],marker:"🎭", desc:"Mercado de productos frescos y tapas",                  moods:["🍴 Restauración","🍻 Animado","🚦 Activo"] },
-        { name:"Vargas - San Fernando - Burgos",      coords:[43.4627,-3.8196],                       marker:"🍺", desc:"Bares, bodegas y ambiente local",                       moods:["🍴 Restauración","🍻 Animado","🚦 Activo"] },
-        { name:"Río de la Pila - Hernán Cortés",      coords:[43.4668,-3.8049],                       marker:"🎵", desc:"Ocio, gastronomía y ambiente íntimo",                   moods:["🍷 Concurrido","🍻 Animado","🚦 Activo"] },
-        { name:"Península de la Magdalena",           coords:[43.469355406273436,-3.767564435338004], marker:"🏰", desc:"Palacio, jardines y paseos al aire libre",               moods:["🍴 Restauración","☕ Tranquilo","🚦 Activo"] },
-        { name:"Playa de Mataleñas - Faro Cabo Mayor",coords:[43.486043368198565,-3.787880946665848], marker:"🏖️", desc:"Paisajes costeros, naturaleza y silencio",               moods:["🚶🏻 Paseo","☕ Tranquilo","🍃 Fluido"] },
-        { name:"Centro Botín - Jardines de Pereda",   coords:[43.4621,-3.7987],                       marker:"🎨", desc:"Arte, paseo marítimo y vida cultural",                  moods:["🚶🏻 Paseo","🍻 Animado","🚦 Activo"] },
-    ];
+   
+    let zones = [];
+
+async function loadZones() {
+
+    const response = await fetch(
+        "http://127.0.0.1:8000/zones"
+    );
+
+    const data = await response.json();
+
+
+    zones = data.map(zone => ({
+
+        name: zone.name,
+
+        coords: [
+            zone.latitude,
+            zone.longitude
+        ],
+
+        marker: zone.marker,
+
+        desc:
+            `${zone.zone_type} · ${zone.leisure_mood}`,
+
+        moods: [
+
+            zone.zone_type,
+
+            zone.leisure_mood,
+
+            zone.traffic_mood
+        ]
+    }));
+
+
+    renderMapContent();
+
+    renderMarkers();
+}
 
     let activeCircle = null;
 
@@ -370,18 +392,47 @@
         el.innerHTML = html;
     }
 
-    renderMapContent();
 
     /* ── PINS ── */
+    function renderMarkers() {
+
     zones.forEach((z, index) => {
+
         const icon = L.divIcon({
+
             className: "",
-            html: `<div class="pin-wrapper"><div class="pin"></div><div class="pin-emoji">${z.marker}</div></div>`,
-            iconSize: [34, 46], iconAnchor: [17, 46]
+
+            html: `
+                <div class="pin-wrapper">
+                    <div class="pin"></div>
+                    <div class="pin-emoji">
+                        ${z.marker}
+                    </div>
+                </div>
+            `,
+
+            iconSize: [34, 46],
+
+            iconAnchor: [17, 46]
         });
-        const marker = L.marker(z.coords, { icon }).addTo(map);
-        marker.on("click", () => { document.getElementById("listaNav").click(); focusZone(index); });
+
+
+        const marker = L.marker(
+            z.coords,
+            { icon }
+        ).addTo(map);
+
+
+        marker.on("click", () => {
+
+            document
+                .getElementById("listaNav")
+                .click();
+
+            focusZone(index);
+        });
     });
+}
 
     /* ── FOCUS ── */
     function focusZone(index) {
@@ -428,32 +479,203 @@
     }
 
     /* ── PERFIL ── */
-    function showProfile(nav) {
-        activateNav(nav);
-        setSearchVisible(false);
-        document.getElementById("content").innerHTML = `
-            <div class="sheet-title">Perfil</div>
+   let fakeLoggedUser = null;
+
+
+function showProfile(nav) {
+
+    activateNav(nav);
+
+    setSearchVisible(false);
+
+
+    if (fakeLoggedUser) {
+
+        document.getElementById(
+            "content"
+        ).innerHTML = `
+
+            <div class="sheet-title">
+                Perfil
+            </div>
+
             <div class="login-box">
-                <input class="input" placeholder="Email">
-                <input class="input" type="password" placeholder="Password">
-                <button class="button" style="font-size: 16px;">Iniciar sesión</button>
-                <div class="social-login">
-                    <button class="social-btn">
-                        <svg width="20" height="20" viewBox="0 0 48 48">
-                            <path fill="#EA4335" d="M24 9.5c3.54 0 6.72 1.22 9.21 3.6l6.9-6.9C36.64 2.7 30.74 0 24 0 14.62 0 6.51 5.38 2.56 13.22l8.06 6.26C12.5 13.2 17.8 9.5 24 9.5z"/>
-                            <path fill="#4285F4" d="M46.1 24.5c0-1.64-.15-3.21-.43-4.73H24v9h12.6c-.54 2.9-2.17 5.36-4.62 7.02l7.1 5.5C43.7 37.3 46.1 31.4 46.1 24.5z"/>
-                            <path fill="#FBBC05" d="M10.62 28.48A14.5 14.5 0 019.5 24c0-1.57.27-3.09.75-4.48l-8.06-6.26A23.94 23.94 0 000 24c0 3.84.92 7.46 2.56 10.74l8.06-6.26z"/>
-                            <path fill="#34A853" d="M24 48c6.48 0 11.93-2.14 15.9-5.83l-7.1-5.5c-2 1.35-4.57 2.13-8.8 2.13-6.2 0-11.5-3.7-13.38-8.98l-8.06 6.26C6.51 42.62 14.62 48 24 48z"/>
-                        </svg>
-                        <span>Continuar con Google</span>
-                    </button>
-                    <button class="social-btn">
-                        <i class="fa-brands fa-apple"></i>
-                        <span>Continuar con Apple</span>
-                    </button>
+
+                <div style="
+                    font-size:26px;
+                    font-weight:700;
+                    color:#111827;
+                ">
+                    Hola, ${fakeLoggedUser} 👋
                 </div>
-            </div>`;
+
+                <div style="
+                    margin-top:12px;
+                    color:#4b5563;
+                    line-height:1.5;
+                ">
+                    Mood favorito:
+                    🍻 Animado
+                </div>
+
+                <div style="
+                    margin-top:10px;
+                    color:#4b5563;
+                    line-height:1.5;
+                ">
+                    Zona frecuente:
+                    Cañadío-Puertochico
+                </div>
+
+                <button
+                    class="button"
+                    style="margin-top:26px;"
+                    onclick="logoutFakeUser()"
+                >
+                    Cerrar sesión
+                </button>
+
+            </div>
+        `;
+
+        return;
     }
+
+
+    document.getElementById(
+        "content"
+    ).innerHTML = `
+
+        <div class="sheet-title">
+            Perfil
+        </div>
+
+        <div class="login-box">
+
+            <input
+                class="input"
+                id="emailInput"
+                placeholder="Email"
+            >
+
+            <input
+                class="input"
+                type="password"
+                placeholder="Password"
+            >
+
+            <button
+                class="button"
+                style="font-size: 16px;"
+                onclick="fakeLogin('Chema')"
+            >
+                Iniciar sesión
+            </button>
+
+            <div class="social-login">
+
+                <button
+                    class="social-btn"
+                    onclick="fakeLogin('Chema')"
+                >
+
+                    <svg width="20" height="20" viewBox="0 0 48 48">
+                        <path fill="#EA4335" d="M24 9.5c3.54 0 6.72 1.22 9.21 3.6l6.9-6.9C36.64 2.7 30.74 0 24 0 14.62 0 6.51 5.38 2.56 13.22l8.06 6.26C12.5 13.2 17.8 9.5 24 9.5z"/>
+                        <path fill="#4285F4" d="M46.1 24.5c0-1.64-.15-3.21-.43-4.73H24v9h12.6c-.54 2.9-2.17 5.36-4.62 7.02l7.1 5.5C43.7 37.3 46.1 31.4 46.1 24.5z"/>
+                        <path fill="#FBBC05" d="M10.62 28.48A14.5 14.5 0 019.5 24c0-1.57.27-3.09.75-4.48l-8.06-6.26A23.94 23.94 0 000 24c0 3.84.92 7.46 2.56 10.74l8.06-6.26z"/>
+                        <path fill="#34A853" d="M24 48c6.48 0 11.93-2.14 15.9-5.83l-7.1-5.5c-2 1.35-4.57 2.13-8.8 2.13-6.2 0-11.5-3.7-13.38-8.98l-8.06 6.26C6.51 42.62 14.62 48 24 48z"/>
+                    </svg>
+
+                    <span>
+                        Continuar con Google
+                    </span>
+
+                </button>
+
+                <button
+                    class="social-btn"
+                    onclick="fakeLogin('Chema')"
+                >
+
+                    <i class="fa-brands fa-apple"></i>
+
+                    <span>
+                        Continuar con Apple
+                    </span>
+
+                </button>
+
+            </div>
+
+        </div>
+    `;
+}
+
+function fakeLogin(username) {
+
+    const content =
+        document.getElementById(
+            "content"
+        );
+
+    content.innerHTML = `
+
+        <div class="sheet-title">
+            Perfil
+        </div>
+
+        <div class="login-box">
+
+            <div style="
+                text-align:center;
+                padding:40px 0;
+            ">
+
+                <div style="
+                    font-size:42px;
+                    margin-bottom:18px;
+                ">
+                    🌊
+                </div>
+
+                <div style="
+                    font-size:20px;
+                    font-weight:600;
+                    color:#111827;
+                ">
+                    Entrando en BRISA...
+                </div>
+
+            </div>
+
+        </div>
+    `;
+
+
+    setTimeout(() => {
+
+        fakeLoggedUser = username;
+
+        showProfile(
+            document.querySelector(
+                ".nav-item:last-child"
+            )
+        );
+
+    }, 1200);
+}
+
+
+function logoutFakeUser() {
+
+    fakeLoggedUser = null;
+
+    showProfile(
+        document.querySelector(
+            ".nav-item:last-child"
+        )
+    );
+}
 
     function showMap(nav) { activateNav(nav); setSearchVisible(true); renderMapContent(); }
     function activateNav(nav) {
@@ -603,7 +825,7 @@
         if (state === "full") return snapTo("min");
         if (state === "min")  return snapTo("mid");
     });
-
+loadZones();
 </script>
 </body>
 </html>
