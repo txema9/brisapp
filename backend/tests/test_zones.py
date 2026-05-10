@@ -1,4 +1,4 @@
-from services.geo.zone_service import get_zones
+from backend.services.geo.zone_service import get_zones
 
 
 zones = get_zones()

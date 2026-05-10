@@ -1,38 +1,38 @@
 from datetime import datetime
 
-from services.loaders.generic_processed_loader import (
+from backend.services.loaders.generic_processed_loader import (
     load_processed_dataset
 )
 
-from services.loaders.bus_stops_loader import (
+from backend.services.loaders.bus_stops_loader import (
     load_bus_stops
 )
 
-from services.normalizers.bus_stop_normalizer import (
+from backend.services.normalizers.bus_stop_normalizer import (
     normalize_bus_stops
 )
 
-from services.normalizers.restaurant_normalizer import (
+from backend.services.normalizers.restaurant_normalizer import (
     normalize_restaurants
 )
 
-from services.normalizers.generic_commerce_normalizer import (
+from backend.services.normalizers.generic_commerce_normalizer import (
     normalize_commerce_dataset
 )
 
-from services.geo.zone_service import (
+from backend.services.geo.zone_service import (
     get_zones
 )
 
-from services.geo.zone_assigner import (
+from backend.services.geo.zone_assigner import (
     assign_elements_to_zones
 )
 
-from services.metrics.metrics_calculator import (
+from backend.services.metrics.metrics_calculator import (
     calculate_zone_metrics
 )
 
-from services.moods.mood_engine import (
+from backend.services.moods.mood_engine import (
     generate_zone_moods
 )
 

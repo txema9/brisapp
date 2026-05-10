@@ -1,16 +1,16 @@
-from domain.models.urban_element import UrbanElement
+from backend.domain.models.urban_element import UrbanElement
 
-from services.geo.zone_service import get_zones
+from backend.services.geo.zone_service import get_zones
 
-from services.geo.zone_assigner import (
+from backend.services.geo.zone_assigner import (
     assign_elements_to_zones
 )
 
-from services.metrics.metrics_calculator import (
+from backend.services.metrics.metrics_calculator import (
     calculate_zone_metrics
 )
 
-from services.moods.mood_engine import (
+from backend.services.moods.mood_engine import (
     generate_zone_moods
 )
 

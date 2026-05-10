@@ -1,6 +1,6 @@
-from services.loaders.restaurant_loader import load_restaurants
+from backend.services.loaders.restaurant_loader import load_restaurants
 
-from services.normalizers.restaurant_normalizer import (
+from backend.services.normalizers.restaurant_normalizer import (
     normalize_restaurants
 )
 

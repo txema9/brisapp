@@ -1,4 +1,4 @@
-from services.loaders.geocoded_restaurant_loader import (
+from backend.services.loaders.geocoded_restaurant_loader import (
     load_geocoded_restaurants
 )
 

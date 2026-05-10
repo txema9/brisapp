@@ -1,4 +1,4 @@
-from domain.models.zone import Zone
+from backend.domain.models.zone import Zone
 
 
 def get_zones():

@@ -1,4 +1,4 @@
-from services.enrichment.generic_dataset_enricher import (
+from backend.services.enrichment.generic_dataset_enricher import (
     enrich_dataset
 )
 

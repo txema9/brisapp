@@ -1,4 +1,4 @@
-from services.enrichment.restaurant_enricher import (
+from backend.services.enrichment.restaurant_enricher import (
     enrich_restaurants
 )
 

@@ -1,5 +1,5 @@
-from domain.models.zone import Zone
-from domain.models.urban_element import UrbanElement
+from backend.domain.models.zone import Zone
+from backend.domain.models.urban_element import UrbanElement
 
 
 restaurant = UrbanElement(

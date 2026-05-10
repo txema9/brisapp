@@ -2,7 +2,7 @@ import json
 import time
 from pathlib import Path
 
-from services.geo.geocoding_service import (
+from backend.services.geo.geocoding_service import (
     geocode_address
 )
 

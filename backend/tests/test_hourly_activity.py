@@ -1,8 +1,8 @@
-from services.loaders.bus_timing_loader import (
+from backend.services.loaders.bus_timing_loader import (
     load_bus_timings
 )
 
-from services.mobility.bus_activity_service import (
+from backend.services.mobility.bus_activity_service import (
     calculate_hourly_activity
 )
 

@@ -2,11 +2,11 @@ import json
 import time
 from pathlib import Path
 
-from services.loaders.restaurant_loader import (
+from backend.services.loaders.restaurant_loader import (
     load_restaurants
 )
 
-from services.geo.geocoding_service import (
+from backend.services.geo.geocoding_service import (
     geocode_address
 )
 

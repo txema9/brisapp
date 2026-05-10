@@ -1,4 +1,4 @@
-from services.pipeline.city_pipeline import (
+from backend.services.pipeline.city_pipeline import (
     build_city
 )
 

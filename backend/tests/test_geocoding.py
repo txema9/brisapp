@@ -1,4 +1,4 @@
-from services.geo.geocoding_service import (
+from backend.services.geo.geocoding_service import (
     geocode_address
 )
 

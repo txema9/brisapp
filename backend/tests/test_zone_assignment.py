@@ -1,8 +1,8 @@
-from domain.models.urban_element import UrbanElement
+from backend.domain.models.urban_element import UrbanElement
 
-from services.geo.zone_service import get_zones
+from backend.services.geo.zone_service import get_zones
 
-from services.geo.zone_assigner import (
+from backend.services.geo.zone_assigner import (
     assign_elements_to_zones
 )
 

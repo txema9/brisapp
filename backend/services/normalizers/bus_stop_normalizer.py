@@ -1,4 +1,4 @@
-from domain.models.urban_element import UrbanElement
+from backend.domain.models.urban_element import UrbanElement
 
 
 def normalize_bus_stops(raw_bus_stops):

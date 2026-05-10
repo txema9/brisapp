@@ -1,6 +1,6 @@
 from dataclasses import dataclass, field
 
-from domain.models.zone_metrics import ZoneMetrics
+from backend.domain.models.zone_metrics import ZoneMetrics
 
 
 @dataclass
