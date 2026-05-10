@@ -7,15 +7,10 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: sans-serif;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: sans-serif; }
 
         body {
-            background: linear-gradient(rgba(8, 17, 32, 0.24), rgba(8, 17, 32, 0.34)), url('BACKGROUND_SRC');
+            background: linear-gradient(rgba(8,17,32,0.24), rgba(8,17,32,0.34)), url('BACKGROUND_SRC');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
@@ -34,131 +29,96 @@
             position: relative;
             background: #000;
             border: 10px solid #111827;
-            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45), 0 0 80px rgba(96, 165, 250, 0.10);
+            box-shadow: 0 20px 60px rgba(0,0,0,0.45), 0 0 80px rgba(96,165,250,0.10);
         }
 
-        #map {
-            position: absolute;
-            inset: 0;
-            z-index: 1;
-        }
+        #map { position: absolute; inset: 0; z-index: 1; }
 
-        .logo-img {
-            height: 40px;
-            width: 139px;
-        }
-
-        .logo-top {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
+        .logo-img { height: 40px; width: 139px; }
+        .logo-top { display: flex; align-items: center; gap: 10px; }
 
         .live-dot {
-            width: 10px;
-            height: 10px;
+            width: 10px; height: 10px;
             border-radius: 50%;
             background: #ef4444;
-            box-shadow: 0 0 10px rgba(239, 68, 68, 0.9);
+            box-shadow: 0 0 10px rgba(239,68,68,0.9);
             animation: pulseLive 1.4s infinite;
         }
 
         @keyframes pulseLive {
-            0% {
-                transform: scale(1);
-                opacity: 1;
-            }
-            50% {
-                transform: scale(1.35);
-                opacity: 0.45;
-            }
-            100% {
-                transform: scale(1);
-                opacity: 1;
-            }
+            0%   { transform: scale(1);    opacity: 1; }
+            50%  { transform: scale(1.35); opacity: 0.45; }
+            100% { transform: scale(1);    opacity: 1; }
         }
 
         .logo {
             position: absolute;
-            top: 56px;
-            left: 20px;
+            top: 56px; left: 20px;
             z-index: 1200;
             color: white;
         }
+        .logo-title { font-size: 34px; font-weight: 700; }
+        .logo-sub { margin-top: 4px; font-size: 13px; color: rgba(255,255,255,0.72); }
 
-        .logo-title {
-            font-size: 34px;
-            font-weight: 700;
-        }
-
-        .logo-sub {
-            margin-top: 4px;
-            font-size: 13px;
-            color: rgba(255, 255, 255, 0.72);
-        }
-
-        .search-wrapper {
-            position: absolute;
-            top: 54px;
-            right: 18px;
-            z-index: 1200;
-        }
-
-        .search-container {
-            width: 52px;
-            height: 52px;
-            border-radius: 999px;
-            background: rgba(245, 245, 245, 0.82);
-            backdrop-filter: blur(20px);
+        /* ── BARRA DE BÚSQUEDA INLINE ── */
+        .sheet-search {
+            padding: 0 18px 14px 18px;
             display: flex;
             align-items: center;
+            gap: 10px;
             overflow: hidden;
-            transition: 0.35s ease;
-            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.18);
-        }
-
-        .search-container.active {
-            width: 260px;
-        }
-
-        .search-icon {
-            width: 52px;
-            min-width: 52px;
-            height: 52px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: #111827;
-            cursor: pointer;
-            font-size: 15px;
-        }
-
-        .search-input {
-            flex: 1;
-            background: none;
-            border: none;
-            outline: none;
-            color: #111827;
-            font-size: 15px;
-            opacity: 0;
-            transition: 0.25s ease;
-        }
-
-        .search-container.active .search-input {
+            max-height: 60px;
+            transition: max-height 0.28s cubic-bezier(0.32, 0.72, 0, 1),
+                        opacity    0.22s ease;
             opacity: 1;
         }
-
-        .search-input::placeholder {
-            color: rgba(17, 24, 39, 0.45);
+        .sheet-search.hidden {
+            max-height: 0;
+            opacity: 0;
+            padding-bottom: 0;
         }
+        .sheet-search-inner {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            background: rgba(255,255,255,0.72);
+            border-radius: 999px;
+            padding: 0 16px;
+            height: 42px;
+            border: 1px solid rgba(0,0,0,0.07);
+        }
+        .sheet-search-inner i {
+            color: #9ca3af;
+            font-size: 14px;
+            flex-shrink: 0;
+        }
+        .sheet-search-inner input {
+            flex: 1;
+            border: none;
+            background: none;
+            outline: none;
+            font-size: 15px;
+            color: #111827;
+        }
+        .sheet-search-inner input::placeholder { color: #9ca3af; }
+        .sheet-search-inner .clear-btn {
+            background: none;
+            border: none;
+            cursor: pointer;
+            color: #9ca3af;
+            font-size: 13px;
+            padding: 0;
+            display: none;
+        }
+        .sheet-search-inner input:not(:placeholder-shown) ~ .clear-btn { display: block; }
 
         /* ── SHEET ── */
         .sheet {
             position: absolute;
-            left: 0;
-            bottom: 0;
+            left: 0; bottom: 0;
             width: 100%;
-            background: rgba(245, 245, 245, 0.80);
+            background: rgba(245,245,245,0.80);
             backdrop-filter: blur(30px);
             border-top-left-radius: 34px;
             border-top-right-radius: 34px;
@@ -167,24 +127,13 @@
             transition: height 0.38s cubic-bezier(0.32, 0.72, 0, 1);
             will-change: height;
         }
-
         /* Estados de snap */
-        .sheet.min {
-            height: 120px;
-        }
-
-        .sheet.mid {
-            height: 52%;
-        }
-
-        .sheet.full {
-            height: 82%;
-        }
+        .sheet.min  { height: 120px; }
+        .sheet.mid  { height: 52%;  }
+        .sheet.full { height: 82%;  }
 
         /* Sin transición mientras se arrastra */
-        .sheet.dragging {
-            transition: none;
-        }
+        .sheet.dragging { transition: none; }
 
         /* Zona arrastrable: handle + padding visual */
         .drag-zone {
@@ -196,253 +145,130 @@
         }
 
         .handle {
-            width: 58px;
-            height: 6px;
+            width: 58px; height: 6px;
             border-radius: 999px;
-            background: rgba(0, 0, 0, 0.18);
+            background: rgba(0,0,0,0.18);
             margin: 0 auto 18px auto;
             /* pequeña animación al pasar el cursor */
             transition: background 0.2s, transform 0.2s;
         }
-
         .drag-zone:hover .handle {
-            background: rgba(0, 0, 0, 0.32);
+            background: rgba(0,0,0,0.32);
             transform: scaleX(1.12);
         }
 
         .content {
             overflow-y: auto;
-            height: calc(100% - 50px); /* descontamos drag-zone */
+            height: calc(100% - 50px - 56px);
             padding: 0 18px 160px 18px;
             -webkit-overflow-scrolling: touch;
+            transition: height 0.28s cubic-bezier(0.32, 0.72, 0, 1);
         }
+        .content.no-search { height: calc(100% - 50px); }
+        .content::-webkit-scrollbar { width: 0; }
 
-        .content::-webkit-scrollbar {
-            width: 0;
-        }
-
-        .sheet-title {
-            font-size: 30px;
-            font-weight: 700;
-            color: #111827;
-            margin-bottom: 18px;
-        }
+        .sheet-title { font-size: 30px; font-weight: 700; color: #111827; margin-bottom: 18px; }
 
         .zone-item {
-            background: rgba(255, 255, 255, 0.52);
-            border: 1px solid rgba(255, 255, 255, 0.35);
+            background: rgba(255,255,255,0.52);
+            border: 1px solid rgba(255,255,255,0.35);
             border-radius: 22px;
             padding: 18px;
             margin-bottom: 14px;
             cursor: pointer;
             transition: 0.25s;
         }
-
         .zone-item.active {
             border: 2px solid #60a5fa;
-            background: rgba(255, 255, 255, 0.92);
+            background: rgba(255,255,255,0.92);
         }
-
-        .zone-title {
-            font-size: 20px;
-            font-weight: 700;
-            color: #111827;
-        }
-
-        .zone-desc {
-            margin-top: 5px;
-            font-size: 14px;
-            color: #4b5563;
-        }
+        .zone-title { font-size: 20px; font-weight: 700; color: #111827; }
+        .zone-desc  { margin-top: 5px; font-size: 14px; color: #4b5563; }
 
         .zone-moods {
-            display: flex;
-            flex-wrap: nowrap;
-            overflow-x: auto;
-            gap: 8px;
-            margin-top: 14px;
+            display: flex; flex-wrap: nowrap;
+            overflow-x: auto; gap: 8px; margin-top: 14px;
         }
-
-        .zone-moods::-webkit-scrollbar {
-            display: none;
-        }
+        .zone-moods::-webkit-scrollbar { display: none; }
 
         .mood {
-            background: rgba(255, 255, 255, 0.72);
-            padding: 7px 11px;
-            border-radius: 999px;
-            font-size: 12px;
-            font-weight: 600;
-            color: #111827;
-            white-space: nowrap;
-            flex-shrink: 0;
+            background: rgba(255,255,255,0.72);
+            padding: 7px 11px; border-radius: 999px;
+            font-size: 12px; font-weight: 600; color: #111827;
+            white-space: nowrap; flex-shrink: 0;
         }
 
         .bottom-nav {
             position: absolute;
-            bottom: 14px;
-            left: 50%;
+            bottom: 14px; left: 50%;
             transform: translateX(-50%);
-            width: 90%;
-            height: 68px;
-            background: rgba(20, 20, 20, 0.82);
+            width: 90%; height: 68px;
+            background: rgba(20,20,20,0.82);
             backdrop-filter: blur(25px);
             border-radius: 24px;
-            display: flex;
-            justify-content: space-around;
-            align-items: center;
-            color: white;
-            z-index: 1001;
+            display: flex; justify-content: space-around; align-items: center;
+            color: white; z-index: 1001;
         }
-
         .nav-item {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            font-size: 11px;
-            opacity: 0.7;
-            cursor: pointer;
+            display: flex; flex-direction: column; align-items: center;
+            font-size: 11px; opacity: 0.7; cursor: pointer;
         }
+        .nav-item.active { opacity: 1; }
+        .nav-item i { font-size: 20px; margin-bottom: 5px; }
 
-        .nav-item.active {
-            opacity: 1;
-        }
-
-        .nav-item i {
-            font-size: 20px;
-            margin-bottom: 5px;
-        }
-
-        .pin-wrapper {
-            position: relative;
-            width: 34px;
-            height: 46px;
-        }
-
+        .pin-wrapper { position: relative; width: 34px; height: 46px; }
         .pin {
-            width: 34px;
-            height: 34px;
+            width: 34px; height: 34px;
             background: #111827;
             border-radius: 50% 50% 50% 0;
             transform: rotate(-45deg);
-            position: absolute;
-            top: 0;
-            left: 0;
-            box-shadow: 0 0 18px rgba(96, 165, 250, 0.45);
+            position: absolute; top: 0; left: 0;
+            box-shadow: 0 0 18px rgba(96,165,250,0.45);
         }
-
         .pin::after {
             content: "";
-            width: 14px;
-            height: 14px;
-            background: #1e3a8a;
-            border-radius: 50%;
-            position: absolute;
-            top: 10px;
-            left: 10px;
+            width: 14px; height: 14px;
+            background: #1e3a8a; border-radius: 50%;
+            position: absolute; top: 10px; left: 10px;
         }
-
         .pin-emoji {
-            position: absolute;
-            top: 5px;
-            left: 5px;
-            width: 24px;
-            height: 24px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 14px;
-            z-index: 10;
+            position: absolute; top: 5px; left: 5px;
+            width: 24px; height: 24px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 14px; z-index: 10;
         }
 
-        .discover-card {
-            background: rgba(255, 255, 255, 0.52);
-            border-radius: 26px;
-            padding: 22px;
-        }
-
-        .mood-buttons {
-            display: flex;
-            flex-direction: column;
-            gap: 12px;
-            margin-top: 22px;
-        }
-
+        .discover-card { background: rgba(255,255,255,0.52); border-radius: 26px; padding: 22px; }
+        .mood-buttons  { display: flex; flex-direction: column; gap: 12px; margin-top: 22px; }
         .mood-btn {
-            border: none;
-            border-radius: 18px;
-            padding: 16px;
-            background: rgba(255, 255, 255, 0.72);
-            font-size: 15px;
-            font-weight: 600;
-            color: #111827;
-            cursor: pointer;
-            transition: 0.2s ease;
+            border: none; border-radius: 18px; padding: 16px;
+            background: rgba(255,255,255,0.72);
+            font-size: 15px; font-weight: 600; color: #111827;
+            cursor: pointer; transition: 0.2s ease;
         }
+        .mood-btn:hover { background: rgba(255,255,255,0.92); }
 
-        .mood-btn:hover {
-            background: rgba(255, 255, 255, 0.92);
-        }
-
-        .login-box {
-            background: rgba(255, 255, 255, 0.52);
-            border-radius: 26px;
-            padding: 22px;
-        }
-
+        .login-box { background: rgba(255,255,255,0.52); border-radius: 26px; padding: 22px; }
         .input {
-            width: 100%;
-            padding: 15px;
-            border: none;
-            border-radius: 14px;
-            margin-bottom: 14px;
-            font-size: 15px;
+            width: 100%; padding: 15px; border: none;
+            border-radius: 14px; margin-bottom: 14px; font-size: 15px;
         }
-
         .button {
-            width: 100%;
-            padding: 15px;
-            border: none;
-            border-radius: 16px;
-            background: #111827;
-            color: white;
-            font-weight: 700;
-            cursor: pointer;
+            width: 100%; padding: 15px; border: none;
+            border-radius: 16px; background: #111827;
+            color: white; font-weight: 700; cursor: pointer;
         }
-
-        .social-login {
-            margin-top: 18px;
-            display: flex;
-            flex-direction: column;
-            gap: 12px;
-        }
-
+        .social-login { margin-top: 18px; display: flex; flex-direction: column; gap: 12px; }
         .social-btn {
-            width: 100%;
-            padding: 15px 18px;
-            border-radius: 18px;
-            border: 1px solid rgba(255, 255, 255, 0.28);
-            background: #111827;
-            color: white;
-            display: flex;
-            align-items: center;
-            gap: 14px;
-            font-size: 16px;
-            font-weight: 600;
-            cursor: pointer;
-            transition: 0.22s ease;
+            width: 100%; padding: 15px 18px;
+            border-radius: 18px; border: 1px solid rgba(255,255,255,0.28);
+            background: #111827; color: white;
+            display: flex; align-items: center; gap: 14px;
+            font-size: 16px; font-weight: 600;
+            cursor: pointer; transition: 0.22s ease;
         }
-
-        .social-btn:hover {
-            transform: translateY(-1px);
-            background: #0f172a;
-        }
-
-        .social-btn i {
-            font-size: 20px;
-            width: 22px;
-            text-align: center;
-        }
+        .social-btn:hover { transform: translateY(-1px); background: #0f172a; }
+        .social-btn i { font-size: 20px; width: 22px; text-align: center; }
     </style>
 </head>
 <body>
@@ -458,20 +284,20 @@
         <div class="logo-sub">Santander en tiempo real</div>
     </div>
 
-    <div class="search-wrapper">
-        <div class="search-container" id="searchContainer">
-            <div class="search-icon" onclick="toggleSearch()">
-                <i class="fa-solid fa-magnifying-glass"></i>
-            </div>
-            <input type="text" id="searchInput" class="search-input"
-                   placeholder="Buscar zona..." onkeyup="searchZone()">
-        </div>
-    </div>
-
     <div class="sheet mid" id="sheet">
         <!-- Zona de drag: handle + área invisible sobre el contenido -->
         <div class="drag-zone" id="dragZone">
             <div class="handle" id="handle"></div>
+        </div>
+        <!-- Barra de búsqueda fija, solo visible en Lista -->
+        <div class="sheet-search" id="sheetSearch">
+            <div class="sheet-search-inner">
+                <i class="fa-solid fa-magnifying-glass"></i>
+                <input type="text" id="searchInput" placeholder="Buscar área" oninput="searchZone()">
+                <button class="clear-btn" onclick="clearSearch()">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
         </div>
         <div class="content" id="content"></div>
     </div>
@@ -491,139 +317,37 @@
 
 <script>
     /* ── MAPA ── */
-    var map = L.map('map', {zoomControl: false}).setView([43.4623, -3.8099], 13);
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {attribution: ''}).addTo(map);
+    var map = L.map('map', { zoomControl: false }).setView([43.4623, -3.8099], 13);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '' }).addTo(map);
 
     /* ── ZONAS ── */
     const zones = [
-        {
-            name: "El Sardinero",
-            coords: [43.47234934934887, -3.7826310695260883],
-            marker: "🌊",
-            desc: "Playas, paseo marítimo y eventos deportivos",
-            moods: ["🚶🏻 Paseo", "☕ Tranquilo", "🚦Activo"]
-        },
-        {
-            name: "Valdenoja",
-            coords: [43.48256515385705, -3.793652450228221],
-            marker: "🏡",
-            desc: "Barrio moderno y residencial en crecimiento",
-            moods: ["🛠️ Industria", "🏠 Residencial", "🍃 Fluido"]
-        },
-        {
-            name: "Centro - Ayuntamiento",
-            coords: [43.46237104044435, -3.810014266281815],
-            marker: "🚨",
-            desc: "Corazón comercial y administrativo",
-            moods: ["🛍️ Compras", "🍻 Animado", "⛔ Congestionado"]
-        },
-        {
-            name: "Castilla-Hermida",
-            coords: [43.45512685721038, -3.8193966314831678],
-            marker: "⚓",
-            desc: "Raíces marineras, ambiente tradicional",
-            moods: ["🍴 Restauración", "☕ Tranquilo", "🚦 Activo"]
-        },
-        {
-            name: "Barrio Pesquero",
-            coords: [43.45119335572701, -3.8208146583245783],
-            marker: "🐟",
-            desc: "Las mejores rabas y pescado fresco",
-            moods: ["🍴 Restauración", "☕ Tranquilo", "🍃 Fluido"]
-        },
-        {
-            name: "General Dávila",
-            coords: [43.46134772819438, -3.8303346119838824],
-            marker: "☀️",
-            desc: "Arteria principal con vistas a la bahía",
-            moods: ["🛍️ Compras", "🍻 Animado", "⛔ Congestionado"]
-        },
-        {
-            name: "Cazoña – Alisal",
-            coords: [43.4581, -3.8414],
-            marker: "🚶",
-            desc: "Área residencial con servicios y grandes superficies",
-            moods: ["🛍️ Compras", "🏠 Residencial", "🚦 Activo"]
-        },
-        {
-            name: "Monte – Cueto",
-            coords: [43.486202253800826, -3.7979554087551213],
-            marker: "🌲",
-            desc: "Periférico y tranquilo",
-            moods: ["🚶🏻 Paseo", "☕ Tranquilo", "🍃 Fluido"]
-        },
-        {
-            name: "Calle Alta",
-            coords: [43.45898116801386, -3.818183363527089],
-            marker: "🚌",
-            desc: "Zona céntrica residencial y calmada",
-            moods: ["🚶🏻 Paseo", "🏠 Residencial", "🚦 Activo"]
-        },
-        {
-            name: "Cañadío-Puertochico",
-            coords: [43.46351972663305, -3.8013836039426367],
-            marker: "🍷",
-            desc: "Epicentro social con terrazas y restaurantes",
-            moods: ["🍴 Restauración", "🍻 Animado", "⛔ Congestionado"]
-        },
-        {
-            name: "Plaza Porticada - Plaza de Pombo",
-            coords: [43.4621172173889, -3.8062012039427358],
-            marker: "🍽️",
-            desc: "Tapeo céntrico y ambiente de plaza",
-            moods: ["🍴 Restauración", "🍻 Animado", "⛔ Congestionado"]
-        },
-        {
-            name: "Calderón - Mercado de la Esperanza",
-            coords: [43.462859302598325, -3.8099811835254593],
-            marker: "🎭",
-            desc: "Mercado de productos frescos y tapas",
-            moods: ["🍴 Restauración", "🍻 Animado", "🚦 Activo"]
-        },
-        {
-            name: "Vargas - San Fernando - Burgos",
-            coords: [43.4627, -3.8196],
-            marker: "🍺",
-            desc: "Bares, bodegas y ambiente local",
-            moods: ["🍴 Restauración", "🍻 Animado", "🚦 Activo"]
-        },
-        {
-            name: "Río de la Pila - Hernán Cortés",
-            coords: [43.4668, -3.8049],
-            marker: "🎵",
-            desc: "Ocio, gastronomía y ambiente íntimo",
-            moods: ["🍷 Concurrido", "🍻 Animado", "🚦 Activo"]
-        },
-        {
-            name: "Península de la Magdalena",
-            coords: [43.469355406273436, -3.767564435338004],
-            marker: "🏰",
-            desc: "Palacio, jardines y paseos al aire libre",
-            moods: ["🍴 Restauración", "☕ Tranquilo", "🚦 Activo"]
-        },
-        {
-            name: "Playa de Mataleñas - Faro Cabo Mayor",
-            coords: [43.486043368198565, -3.787880946665848],
-            marker: "🏖️",
-            desc: "Paisajes costeros, naturaleza y silencio",
-            moods: ["🚶🏻 Paseo", "☕ Tranquilo", "🍃 Fluido"]
-        },
-        {
-            name: "Centro Botín - Jardines de Pereda",
-            coords: [43.4621, -3.7987],
-            marker: "🎨",
-            desc: "Arte, paseo marítimo y vida cultural",
-            moods: ["🚶🏻 Paseo", "🍻 Animado", "🚦 Activo"]
-        },
+        { name:"El Sardinero",                        coords:[43.47234934934887,-3.7826310695260883], marker:"🌊", desc:"Playas, paseo marítimo y eventos deportivos",            moods:["🚶🏻 Paseo","☕ Tranquilo","🚦Activo"] },
+        { name:"Valdenoja",                           coords:[43.48256515385705,-3.793652450228221],  marker:"🏡", desc:"Barrio moderno y residencial en crecimiento",             moods:["🛠️ Industria","🏠 Residencial","🍃 Fluido"] },
+        { name:"Centro - Ayuntamiento",               coords:[43.46237104044435,-3.810014266281815],  marker:"🚨", desc:"Corazón comercial y administrativo",                    moods:["🛍️ Compras","🍻 Animado","⛔ Congestionado"] },
+        { name:"Castilla-Hermida",                    coords:[43.45512685721038,-3.8193966314831678], marker:"⚓", desc:"Raíces marineras, ambiente tradicional",                 moods:["🍴 Restauración","☕ Tranquilo","🚦 Activo"] },
+        { name:"Barrio Pesquero",                     coords:[43.45119335572701,-3.8208146583245783], marker:"🐟", desc:"Las mejores rabas y pescado fresco",                    moods:["🍴 Restauración","☕ Tranquilo","🍃 Fluido"] },
+        { name:"General Dávila",                      coords:[43.46134772819438,-3.8303346119838824], marker:"☀️", desc:"Arteria principal con vistas a la bahía",               moods:["🛍️ Compras","🍻 Animado","⛔ Congestionado"] },
+        { name:"Cazoña – Alisal",                     coords:[43.4581,-3.8414],                       marker:"🚶", desc:"Área residencial con servicios y grandes superficies",   moods:["🛍️ Compras","🏠 Residencial","🚦 Activo"] },
+        { name:"Monte – Cueto",                       coords:[43.486202253800826,-3.7979554087551213],marker:"🌲", desc:"Periférico y tranquilo",                                 moods:["🚶🏻 Paseo","☕ Tranquilo","🍃 Fluido"] },
+        { name:"Calle Alta",                          coords:[43.45898116801386,-3.818183363527089],  marker:"🚌", desc:"Zona céntrica residencial y calmada",                   moods:["🚶🏻 Paseo","🏠 Residencial","🚦 Activo"] },
+        { name:"Cañadío-Puertochico",                 coords:[43.46351972663305,-3.8013836039426367], marker:"🍷", desc:"Epicentro social con terrazas y restaurantes",           moods:["🍴 Restauración","🍻 Animado","⛔ Congestionado"] },
+        { name:"Plaza Porticada - Plaza de Pombo",    coords:[43.4621172173889,-3.8062012039427358],  marker:"🍽️", desc:"Tapeo céntrico y ambiente de plaza",                    moods:["🍴 Restauración","🍻 Animado","⛔ Congestionado"] },
+        { name:"Calderón - Mercado de la Esperanza",  coords:[43.462859302598325,-3.8099811835254593],marker:"🎭", desc:"Mercado de productos frescos y tapas",                  moods:["🍴 Restauración","🍻 Animado","🚦 Activo"] },
+        { name:"Vargas - San Fernando - Burgos",      coords:[43.4627,-3.8196],                       marker:"🍺", desc:"Bares, bodegas y ambiente local",                       moods:["🍴 Restauración","🍻 Animado","🚦 Activo"] },
+        { name:"Río de la Pila - Hernán Cortés",      coords:[43.4668,-3.8049],                       marker:"🎵", desc:"Ocio, gastronomía y ambiente íntimo",                   moods:["🍷 Concurrido","🍻 Animado","🚦 Activo"] },
+        { name:"Península de la Magdalena",           coords:[43.469355406273436,-3.767564435338004], marker:"🏰", desc:"Palacio, jardines y paseos al aire libre",               moods:["🍴 Restauración","☕ Tranquilo","🚦 Activo"] },
+        { name:"Playa de Mataleñas - Faro Cabo Mayor",coords:[43.486043368198565,-3.787880946665848], marker:"🏖️", desc:"Paisajes costeros, naturaleza y silencio",               moods:["🚶🏻 Paseo","☕ Tranquilo","🍃 Fluido"] },
+        { name:"Centro Botín - Jardines de Pereda",   coords:[43.4621,-3.7987],                       marker:"🎨", desc:"Arte, paseo marítimo y vida cultural",                  moods:["🚶🏻 Paseo","🍻 Animado","🚦 Activo"] },
     ];
 
     let activeCircle = null;
 
     /* ── RENDER ── */
     function renderMapContent(filteredZones = zones) {
-        const content = document.getElementById("content");
+        const el = document.getElementById("content");
         const now = new Date();
-        const time = now.toLocaleTimeString('es-ES', {hour: '2-digit', minute: '2-digit'});
+        const time = now.toLocaleTimeString('es-ES', { hour:'2-digit', minute:'2-digit' });
 
         let html = `
             <div class="sheet-title">Áreas de Santander</div>
@@ -641,7 +365,7 @@
                 </div>`;
         });
 
-        content.innerHTML = html;
+        el.innerHTML = html;
     }
 
     renderMapContent();
@@ -653,49 +377,26 @@
             html: `<div class="pin-wrapper"><div class="pin"></div><div class="pin-emoji">${z.marker}</div></div>`,
             iconSize: [34, 46], iconAnchor: [17, 46]
         });
-        const marker = L.marker(z.coords, {icon}).addTo(map);
-        marker.on("click", () => {
-            document.getElementById("listaNav").click();
-            focusZone(index);
-        });
+        const marker = L.marker(z.coords, { icon }).addTo(map);
+        marker.on("click", () => { document.getElementById("listaNav").click(); focusZone(index); });
     });
-
-    /* ── SEARCH ── */
-    function toggleSearch() {
-        const c = document.getElementById("searchContainer");
-        c.classList.toggle("active");
-        if (c.classList.contains("active")) setTimeout(() => document.getElementById("searchInput").focus(), 200);
-    }
-
-    function searchZone() {
-        const v = document.getElementById("searchInput").value.toLowerCase();
-        renderMapContent(zones.filter(z => z.name.toLowerCase().includes(v)));
-    }
 
     /* ── FOCUS ── */
     function focusZone(index) {
         const z = zones[index];
         map.setView(z.coords, 15);
         if (activeCircle) map.removeLayer(activeCircle);
-        activeCircle = L.circle(z.coords, {
-            radius: 230,
-            color: "#60a5fa",
-            fillColor: "#60a5fa",
-            fillOpacity: 0.18,
-            weight: 2
-        }).addTo(map);
+        activeCircle = L.circle(z.coords, { radius:230, color:"#60a5fa", fillColor:"#60a5fa", fillOpacity:0.18, weight:2 }).addTo(map);
         document.querySelectorAll(".zone-item").forEach(i => i.classList.remove("active"));
         const sel = document.getElementById(`zone-${index}`);
-        if (sel) {
-            sel.classList.add("active");
-            sel.scrollIntoView({behavior: "smooth", block: "center"});
-        }
+        if (sel) { sel.classList.add("active"); sel.scrollIntoView({ behavior:"smooth", block:"center" }); }
         snapTo("mid");
     }
 
     /* ── DISCOVER ── */
     function showDiscover(nav) {
         activateNav(nav);
+        setSearchVisible(false);
         document.getElementById("content").innerHTML = `
             <div class="sheet-title">Descubre</div>
             <div class="discover-card">
@@ -711,24 +412,9 @@
 
     function discoverMood(type) {
         const data = {
-            relax: {
-                marker: "🌊",
-                name: "Península de la Magdalena",
-                desc: "Hoy BRISA recomienda una zona tranquila, abierta y agradable para desconectar.",
-                moods: ["🚶🏻 Paseo", "☕ Tranquilo", "🍃 Fluido"]
-            },
-            social: {
-                marker: "🍷",
-                name: "Cañadío-Puertochico",
-                desc: "Hoy BRISA recomienda una zona social con gastronomía, terrazas y ambiente urbano.",
-                moods: ["🍴 Restauración", "🍻 Animado", "🚦 Activo"]
-            },
-            active: {
-                marker: "⚡",
-                name: "Centro - Ayuntamiento",
-                desc: "Hoy BRISA recomienda una zona dinámica y activa con movimiento constante.",
-                moods: ["🛍️ Compras", "🍻 Animado", "⛔ Congestionado"]
-            },
+            relax:  { marker:"🌊", name:"Península de la Magdalena", desc:"Zona tranquila, abierta y agradable para desconectar.", moods:["🚶🏻 Paseo","☕ Tranquilo","🍃 Fluido"] },
+            social: { marker:"🍷", name:"Cañadío-Puertochico",       desc:"Zona social con gastronomía, terrazas y ambiente urbano.", moods:["🍴 Restauración","🍻 Animado","🚦 Activo"] },
+            active: { marker:"⚡", name:"Centro - Ayuntamiento",      desc:"Zona dinámica y activa con movimiento constante.", moods:["🛍️ Compras","🍻 Animado","⛔ Congestionado"] },
         }[type];
         document.getElementById("content").innerHTML = `
             <div class="sheet-title">Descubre</div>
@@ -742,12 +428,13 @@
     /* ── PERFIL ── */
     function showProfile(nav) {
         activateNav(nav);
+        setSearchVisible(false);
         document.getElementById("content").innerHTML = `
             <div class="sheet-title">Perfil</div>
             <div class="login-box">
                 <input class="input" placeholder="Email">
                 <input class="input" type="password" placeholder="Password">
-                <button class="button">Iniciar sesión</button>
+                <button class="button" style="font-size: 16px;">Iniciar sesión</button>
                 <div class="social-login">
                     <button class="social-btn">
                         <svg width="20" height="20" viewBox="0 0 48 48">
@@ -766,43 +453,57 @@
             </div>`;
     }
 
-    function showMap(nav) {
-        activateNav(nav);
-        renderMapContent();
-    }
-
+    function showMap(nav) { activateNav(nav); setSearchVisible(true); renderMapContent(); }
     function activateNav(nav) {
         document.querySelectorAll(".nav-item").forEach(n => n.classList.remove("active"));
         nav.classList.add("active");
+    }
+
+    /* ── Búsqueda inline ── */
+    const sheetSearch = document.getElementById("sheetSearch");
+
+    function setSearchVisible(visible) {
+        sheetSearch.classList.toggle("hidden", !visible);
+        content.classList.toggle("no-search", !visible);
+    }
+
+    function searchZone() {
+        const v = document.getElementById("searchInput").value.toLowerCase();
+        renderMapContent(zones.filter(z => z.name.toLowerCase().includes(v)));
+    }
+
+    function clearSearch() {
+        document.getElementById("searchInput").value = "";
+        renderMapContent();
     }
 
     /* ══════════════════════════════════════════
        SHEET — Drag reactivo con detección de velocidad
     ══════════════════════════════════════════ */
 
-    const sheet = document.getElementById("sheet");
+    const sheet    = document.getElementById("sheet");
     const dragZone = document.getElementById("dragZone");
-    const content = document.getElementById("content");
-    const PHONE_H = 700; // altura del teléfono en px
+    const content  = document.getElementById("content");
+    const PHONE_H  = 700; // altura del teléfono en px
 
     // Alturas de snap en % del contenedor
-    const SNAPS = {min: 120, mid: PHONE_H * 0.52, full: PHONE_H * 0.82};
+    const SNAPS = { min: 120, mid: PHONE_H * 0.52, full: PHONE_H * 0.82 };
     let state = "mid";
 
     // Variables de arrastre
-    let isDragging = false;
-    let startY = 0;
+    let isDragging  = false;
+    let startY      = 0;
     let startHeight = 0;
-    let lastY = 0;
-    let lastT = 0;
-    let velocity = 0;   // px/ms  (positivo = gesto hacia abajo)
+    let lastY       = 0;
+    let lastT       = 0;
+    let velocity    = 0;   // px/ms  (positivo = gesto hacia abajo)
     let contentScrollTop = 0; // guardamos scroll del content para no interferir
 
     /* ── Snap a un estado ── */
     function snapTo(s) {
         state = s;
         sheet.classList.remove("dragging");
-        sheet.style.height = "";           // limpiamos inline → entra el CSS
+        sheet.style.height = "";
         sheet.className = `sheet ${s}`;
     }
 
@@ -812,15 +513,15 @@
 
         if (velocity < -FLICK_THRESHOLD) {
             // Flick hacia arriba → subir un nivel
-            if (state === "min") return snapTo("mid");
-            if (state === "mid") return snapTo("full");
+            if (state === "min")  return snapTo("mid");
+            if (state === "mid")  return snapTo("full");
             if (state === "full") return snapTo("full");
         }
         if (velocity > FLICK_THRESHOLD) {
             // Flick hacia abajo → bajar un nivel
             if (state === "full") return snapTo("mid");
-            if (state === "mid") return snapTo("min");
-            if (state === "min") return snapTo("min");
+            if (state === "mid")  return snapTo("min");
+            if (state === "min")  return snapTo("min");
         }
 
         // Sin flick: snap por posición más cercana
@@ -833,11 +534,11 @@
 
     /* ── Inicio del arrastre ── */
     function onDragStart(clientY) {
-        isDragging = true;
-        startY = clientY;
-        lastY = clientY;
-        lastT = performance.now();
-        velocity = 0;
+        isDragging  = true;
+        startY      = clientY;
+        lastY       = clientY;
+        lastT       = performance.now();
+        velocity    = 0;
         startHeight = sheet.offsetHeight;
 
         sheet.classList.add("dragging");
@@ -848,8 +549,8 @@
     function onDragMove(clientY) {
         if (!isDragging) return;
 
-        const now = performance.now();
-        const dt = now - lastT;
+        const now  = performance.now();
+        const dt   = now - lastT;
         if (dt > 0) velocity = (clientY - lastY) / dt;  // px/ms, positivo = abajo
         lastY = clientY;
         lastT = now;
@@ -871,32 +572,34 @@
     dragZone.addEventListener("touchstart", e => {
         // Solo iniciamos si el content no está en mitad de un scroll
         onDragStart(e.touches[0].clientY);
-    }, {passive: true});
+    }, { passive: true });
 
     window.addEventListener("touchmove", e => {
         if (!isDragging) return;
         e.preventDefault();
         onDragMove(e.touches[0].clientY);
-    }, {passive: false});
+    }, { passive: false });
 
-    window.addEventListener("touchend", () => onDragEnd());
+    window.addEventListener("touchend",    () => onDragEnd());
     window.addEventListener("touchcancel", () => onDragEnd());
 
     /* ── Mouse (para probar en escritorio) ── */
-    dragZone.addEventListener("mousedown", e => {
-        onDragStart(e.clientY);
-        e.preventDefault();
+    dragZone.addEventListener("mousedown", e => { onDragStart(e.clientY); e.preventDefault(); });
+    window.addEventListener("mousemove",   e => onDragMove(e.clientY));
+    window.addEventListener("mouseup",     ()  => onDragEnd());
+
+    /* ── Click en el mapa → minimizar sheet ── */
+    map.on("click", () => {
+        snapTo("min");
     });
-    window.addEventListener("mousemove", e => onDragMove(e.clientY));
-    window.addEventListener("mouseup", () => onDragEnd());
 
     /* ── Tap en handle (ciclo manual sin arrastre) ── */
     dragZone.addEventListener("click", e => {
         // Solo si no se ha movido significativamente (no fue arrastre)
         if (Math.abs(e.clientY - startY) > 6) return;
-        if (state === "mid") return snapTo("full");
+        if (state === "mid")  return snapTo("full");
         if (state === "full") return snapTo("min");
-        if (state === "min") return snapTo("mid");
+        if (state === "min")  return snapTo("mid");
     });
 
 </script>
